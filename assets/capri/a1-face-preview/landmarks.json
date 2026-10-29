@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "source": "../base-a-v1/frames/key-0.png",
+  "status": "single-pose-preview",
+  "parts": {
+    "leftEye": {
+      "x": 101,
+      "y": 108,
+      "w": 20,
+      "h": 22,
+      "cx": 111,
+      "cy": 119
+    },
+    "rightEye": {
+      "x": 129,
+      "y": 101,
+      "w": 25,
+      "h": 25,
+      "cx": 141.5,
+      "cy": 113.5
+    },
+    "mouth": {
+      "x": 112,
+      "y": 131,
+      "w": 30,
+      "h": 11,
+      "cx": 127,
+      "cy": 136.5
+    }
+  }
+}

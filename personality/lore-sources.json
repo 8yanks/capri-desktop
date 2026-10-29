@@ -1,0 +1,38 @@
+{
+  "checked_at": "2026-10-27",
+  "scope": "Basic fictional origins for the desktop fan adaptation; later plot deliberately excluded.",
+  "verification": "Corroborated secondary profiles, recaps and a third-party episode transcript. Not a direct Netflix episode review or an official character bible. Fandom Capri page was inaccessible during this research.",
+  "sources": [
+    {
+      "id": "character-profile",
+      "url": "https://www.animecasthub.com/characters/411113",
+      "type": "secondary character profile",
+      "supports": ["Arasaka and Kyoko origin", "composite digitized psyches", "Arasaka biochip"]
+    },
+    {
+      "id": "episode-seven-transcript",
+      "url": "https://transcripts.foreverdreaming.org/viewtopic.php?t=266328",
+      "type": "third-party English transcript, not independently verified against the episode",
+      "supports": ["military purpose", "fusion of constructs", "human-host design constraint"]
+    },
+    {
+      "id": "episode-summary",
+      "url": "https://en.wikipedia.org/wiki/Cyberpunk:_Edgerunners_2",
+      "type": "community episode and character summary",
+      "supports": ["Arasaka Project Capricorn", "Kyoko's development role"]
+    },
+    {
+      "id": "soulkiller-context",
+      "url": "https://thecinemaholic.com/david-martinez-cyberpunk-edgerunners-season-2/",
+      "type": "secondary story explanation",
+      "supports": ["Soulkiller connection", "multiple human personalities"]
+    }
+  ],
+  "not_imported": [
+    "Finale events, deaths and host outcomes",
+    "Unconfirmed theories about V or an autonomous Blackwall origin",
+    "Exact host survival rates and timelines",
+    "Conflicting secondary claims that Kang Tao originally created Capri"
+  ],
+  "adaptation": "First-person dialogue examples are newly written fan lines, not canonical quotations. Desktop residence and Discord possession messages are roleplay, not real corporate provenance or machine access."
+}

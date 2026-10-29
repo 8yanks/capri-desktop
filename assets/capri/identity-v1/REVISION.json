@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-27",
+  "method": "Built-in image generation from upstream full-body source, corrected working master and first approved illustrations; existing costume clothing references retained.",
+  "identity": "identity-v1/README.md",
+  "review": "228 cels visually compared in 29 native contact pages; original upstream portraits retained.",
+  "user_approval": "Working revision; no new approval claimed while user unavailable.",
+  "art_direction": [
+    "Thin original angular anatomy; narrow standing silhouette.",
+    "Green rectangular mask, cyan concentric optic, angular wink, thin white zigzag mouth.",
+    "Hair outside eyes and mouth; rough straight edges and deliberate graphic dropouts.",
+    "Transparent isolated cels, no background painting, no runtime model."
+  ],
+  "sources": [
+    {
+      "file": "poses-v3/activities.png",
+      "sha256": "c64fd7649279bf49471a5f8571745aa73ef6171b54727aa4b0f318574a0493a0"
+    },
+    {
+      "file": "poses-v3/gestures.png",
+      "sha256": "69ba220933881b372c6e9ea91a3e7dd846ddb861349b9958d58606637cfaaae3"
+    },
+    {
+      "file": "poses-v3/seated.png",
+      "sha256": "4c28e49c1d488071aab5baf274f083b11ea31adca24cccb651ca9feb27fcc21b"
+    },
+    {
+      "file": "poses-v3/transitions.png",
+      "sha256": "380245e60370187d9b9b41c07386303f854b75bbddf2e822282dd07b2afce761"
+    },
+    {
+      "file": "actions-v2/extra.png",
+      "sha256": "c55407fa24267b19c0377b873de5b0fc2a5d72556554b35e7cf4f282ed2af057"
+    },
+    {
+      "file": "wardrobe-v2/badlands/poses.png",
+      "sha256": "e437900ba7c5104090bf4a5be5408df8d38e2a583be2e8a3f5e4d8e69e51ccb8"
+    },
+    {
+      "file": "wardrobe-v2/creator/poses.png",
+      "sha256": "bef24bf43c2c1e7eb1ca3cf930216dec1e2bbb9eab64d613815284228bf39328"
+    },
+    {
+      "file": "wardrobe-v2/david/poses.png",
+      "sha256": "f5becc95a7a9d68e2af88009797711f7a63be3bdf940bf4f88b8c79f3c3b7e6b"
+    },
+    {
+      "file": "wardrobe-v2/king/poses.png",
+      "sha256": "2421f40a0ef97693bd0804c16c68dfcda7e0577e0ca01bef19edd6e1bad3c324"
+    },
+    {
+      "file": "wardrobe-v2/league/poses.png",
+      "sha256": "fc52ac388ccdf79ea0052f028ad6adf01ec8beee0caa8bc7a5d307911b48782c"
+    },
+    {
+      "file": "wardrobe-v2/lucy/poses.png",
+      "sha256": "dd95ce31f77fe7d7c917a917d7c79a8fffd02499f84aaace7dbcdd2c8d22129e"
+    },
+    {
+      "file": "wardrobe-v2/netrunner/poses.png",
+      "sha256": "31d290f4c2bbe3193777bb4b2698f7e611d6c828abb47b2a6bf2fa8f8f532fdc"
+    },
+    {
+      "file": "wardrobe-v2/omi/poses.png",
+      "sha256": "f0ab445be6dbf79069c359356d5f427ec4173376dff0e87a5e063238e34be574"
+    },
+    {
+      "file": "wardrobe-v2/roman/poses.png",
+      "sha256": "7aa591aa3c352108ceb3149d50619496c32f7e13504cbb88be6982efaa1a3af5"
+    },
+    {
+      "file": "wardrobe-v2/stage/poses.png",
+      "sha256": "936c723bbb911d73ee2aad9bdd207bc89ca87e3c73af591eb3f5c45cb11bba17"
+    },
+    {
+      "file": "wardrobe-v2/talia/poses.png",
+      "sha256": "ac8db8e5c53c03600334ce276d2f053766bd3da6e428e9f377254da2424eef42"
+    }
+  ]
+}

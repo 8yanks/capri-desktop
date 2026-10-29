@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "sheets": {
+    "seat": {
+      "file": "poses.png",
+      "width": 1360,
+      "height": 1156
+    }
+  },
+  "frames": {
+    "seat-0": {
+      "file": "frames/seat-0.png",
+      "sheet": "seat",
+      "rect": {
+        "x": 227,
+        "y": 13,
+        "w": 363,
+        "h": 564
+      },
+      "face": {
+        "x": 141,
+        "y": 164,
+        "w": 70,
+        "h": 39,
+        "center": {
+          "x": 176,
+          "y": 183.5
+        },
+        "green": 1578,
+        "blue": 137
+      },
+      "head": {
+        "x": 176,
+        "y": 183.5
+      },
+      "anchor": {
+        "x": 197.3,
+        "y": 375.20000000000005
+      },
+      "support": "hip",
+      "scale": 0.5429133116096194,
+      "modelFamily": "canonical-seat",
+      "feet": {
+        "green": {
+          "min": 40,
+          "max": 81,
+          "n": 1029,
+          "coreMin": 46,
+          "coreMax": 64
+        },
+        "pink": {
+          "min": 70,
+          "max": 214,
+          "n": 1594,
+          "coreMin": 175,
+          "coreMax": 203
+        }
+      }
+    },
+    "seat-1": {
+      "file": "frames/seat-1.png",
+      "sheet": "seat",
+      "rect": {
+        "x": 776,
+        "y": 13,
+        "w": 454,
+        "h": 569
+      },
+      "face": {
+        "x": 233,
+        "y": 164,
+        "w": 69,
+        "h": 39,
+        "center": {
+          "x": 267.5,
+          "y": 183.5
+        },
+        "green": 1555,
+        "blue": 135
+      },
+      "head": {
+        "x": 267.5,
+        "y": 183.5
+      },
+      "anchor": {
+        "x": 288.8,
+        "y": 375.20000000000005
+      },
+      "support": "hip",
+      "scale": 0.5429133116096194,
+      "modelFamily": "canonical-seat",
+      "feet": {
+        "green": {
+          "min": 15,
+          "max": 85,
+          "n": 122,
+          "coreMin": 19,
+          "coreMax": 34
+        },
+        "pink": {
+          "min": 240,
+          "max": 272,
+          "n": 1564,
+          "coreMin": 245,
+          "coreMax": 267
+        }
+      }
+    },
+    "seat-2": {
+      "file": "frames/seat-2.png",
+      "sheet": "seat",
+      "rect": {
+        "x": 179,
+        "y": 580,
+        "w": 415,
+        "h": 556
+      },
+      "face": {
+        "x": 190,
+        "y": 162,
+        "w": 71,
+        "h": 39,
+        "center": {
+          "x": 225.5,
+          "y": 181.5
+        },
+        "green": 1541,
+        "blue": 135
+      },
+      "head": {
+        "x": 225.5,
+        "y": 181.5
+      },
+      "anchor": {
+        "x": 246.8,
+        "y": 373.20000000000005
+      },
+      "support": "hip",
+      "scale": 0.5429133116096194,
+      "modelFamily": "canonical-seat",
+      "feet": {
+        "green": {
+          "min": 89,
+          "max": 129,
+          "n": 997,
+          "coreMin": 95,
+          "coreMax": 112
+        },
+        "pink": {
+          "min": 118,
+          "max": 266,
+          "n": 1721,
+          "coreMin": 223,
+          "coreMax": 253
+        }
+      }
+    },
+    "seat-3": {
+      "file": "frames/seat-3.png",
+      "sheet": "seat",
+      "rect": {
+        "x": 872,
+        "y": 580,
+        "w": 363,
+        "h": 557
+      },
+      "face": {
+        "x": 139,
+        "y": 162,
+        "w": 74,
+        "h": 39,
+        "center": {
+          "x": 176,
+          "y": 181.5
+        },
+        "green": 2040,
+        "blue": 0
+      },
+      "head": {
+        "x": 176,
+        "y": 181.5
+      },
+      "anchor": {
+        "x": 197.3,
+        "y": 373.20000000000005
+      },
+      "support": "hip",
+      "scale": 0.5429133116096194,
+      "modelFamily": "canonical-seat",
+      "feet": {
+        "green": {
+          "min": 42,
+          "max": 82,
+          "n": 970,
+          "coreMin": 48,
+          "coreMax": 65
+        },
+        "pink": {
+          "min": 73,
+          "max": 221,
+          "n": 1663,
+          "coreMin": 181,
+          "coreMax": 210
+        }
+      }
+    }
+  }
+}

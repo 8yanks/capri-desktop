@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "authority": "tasks/SPRITES-BASELINE-2026-10-28.md",
+  "generation": "built-in image_gen; new 2D cels, not cutout or 3D rig",
+  "references": {
+    "a1-standing.png": {
+      "source": "desktop-v2\\assets\\capri\\v5-a1-v1\\frames\\key-0.png",
+      "sha256": "f6df4f601a1b9127c1dc4a834ef92c2e72f77ea73b68f6bd0971361d9159c4de"
+    },
+    "a1-seated.png": {
+      "source": "desktop-v2\\assets\\capri\\v5-a1-v1\\frames\\seat-0.png",
+      "sha256": "7a78860c9cf665bb9f16a8b783ade41654887b4f76c435518cd53c122630a24e"
+    },
+    "a1-walk.png": {
+      "source": "desktop-v2\\assets\\capri\\base-a-v1\\walk.png",
+      "sha256": "1fb2a3e5cedcb2cee3ec394c4904d131378b0740f90d5149eabe438a23f1afe6"
+    },
+    "v5-reference.webp": {
+      "source": "desktop-v2\\assets\\capri\\face-trace-v5\\reference.webp",
+      "sha256": "7cb83b4ee33583f7521f8ac8208b6e06417bef6bd59171ba4c478daf67443e6c"
+    },
+    "eyes.svg": {
+      "source": "desktop-v2\\assets\\capri\\face-trace-v5\\eyes.svg",
+      "sha256": "1f689490d47e7466e85a1781c2d17bea4cf0ae132717b7677d7bd0b25665d926"
+    },
+    "mouth.svg": {
+      "source": "desktop-v2\\assets\\capri\\face-trace-v5\\mouth.svg",
+      "sha256": "f007b5c583669425944431d33146a0af76ca4dfc6f14b4614b5ea04b7102587c"
+    },
+    "mask.svg": {
+      "source": "desktop-v2\\assets\\capri\\face-trace-v5\\mask.svg",
+      "sha256": "96bed7d0ac6ec736c31c80ef8f9ed034a94ff1649c275b793b570f5f83ce32a8"
+    }
+  },
+  "protected": [
+    "original eight-phase A1 walk",
+    "approved seated leg swing"
+  ],
+  "status": "implemented; new art awaiting visual acceptance"
+}

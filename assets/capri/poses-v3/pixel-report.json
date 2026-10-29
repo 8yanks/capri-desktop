@@ -1,0 +1,30 @@
+[
+  {
+    "sheet": "transitions",
+    "width": 1254,
+    "height": 1254,
+    "transparentFraction": 0.7586205800131763,
+    "largeComponents": 16
+  },
+  {
+    "sheet": "gestures",
+    "width": 1448,
+    "height": 1086,
+    "transparentFraction": 0.8071233071843554,
+    "largeComponents": 12
+  },
+  {
+    "sheet": "activities",
+    "width": 1536,
+    "height": 1024,
+    "transparentFraction": 0.7902857462565104,
+    "largeComponents": 8
+  },
+  {
+    "sheet": "seated",
+    "width": 1774,
+    "height": 887,
+    "transparentFraction": 0.7703436459748668,
+    "largeComponents": 8
+  }
+]

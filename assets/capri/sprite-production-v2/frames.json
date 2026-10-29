@@ -1,0 +1,3349 @@
+{
+  "version": 1,
+  "status": "visual-review",
+  "design": "A1 / V5 drawn cels",
+  "frames": {
+    "greet-0": {
+      "file": "frames/greet-0.png",
+      "sheet": "greet",
+      "scale": 0.7741006257390013,
+      "anchor": {
+        "x": 136.51419521925726,
+        "y": 500
+      },
+      "head": {
+        "x": 122.22388059701493,
+        "y": 113.08955223880596
+      },
+      "face": {
+        "x": 93.64325135253023,
+        "y": 93.88615573198334,
+        "w": 57.16125848896938,
+        "h": 33.09336017782438,
+        "center": {
+          "x": 122.22388059701493,
+          "y": 113.08955223880596
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "greet-v1.png",
+      "facePatch": {
+        "x": 86,
+        "y": 85,
+        "w": 72,
+        "h": 69,
+        "variants": {
+          "neutral": "faces/greet-0-neutral.png",
+          "curious": "faces/greet-0-curious.png",
+          "smug": "faces/greet-0-smug.png",
+          "happy": "faces/greet-0-happy.png",
+          "talk": "faces/greet-0-talk.png",
+          "sleep": "faces/greet-0-sleep.png",
+          "wink": "faces/greet-0-wink.png",
+          "surprised": "faces/greet-0-surprised.png",
+          "starry": "faces/greet-0-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.12647397808313185,
+        0.025346047420676813,
+        -0.025346047420676813,
+        0.12647397808313185,
+        26.26656638086051,
+        49.03236299007907
+      ],
+      "eyeAnchors": {
+        "left": [
+          107.41791044776119,
+          115.74626865671642
+        ],
+        "right": [
+          137.02985074626866,
+          110.43283582089552
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "greet-1": {
+      "file": "frames/greet-1.png",
+      "sheet": "greet",
+      "scale": 0.7842783908999784,
+      "anchor": {
+        "x": 138.0130344908945,
+        "y": 499
+      },
+      "head": {
+        "x": 123.90816864295125,
+        "y": 113.44229249011858
+      },
+      "face": {
+        "x": 95.69843694706474,
+        "y": 94.40718050558515,
+        "w": 56.41946339177304,
+        "h": 32.66389985839493,
+        "center": {
+          "x": 123.90816864295125,
+          "y": 113.44229249011858
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "greet-v1.png",
+      "facePatch": {
+        "x": 88,
+        "y": 86,
+        "w": 71,
+        "h": 68,
+        "variants": {
+          "neutral": "faces/greet-1-neutral.png",
+          "curious": "faces/greet-1-curious.png",
+          "smug": "faces/greet-1-smug.png",
+          "happy": "faces/greet-1-happy.png",
+          "talk": "faces/greet-1-talk.png",
+          "sleep": "faces/greet-1-sleep.png",
+          "wink": "faces/greet-1-wink.png",
+          "surprised": "faces/greet-1-surprised.png",
+          "starry": "faces/greet-1-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.12496937821675552,
+        0.02432515081502611,
+        -0.02432515081502611,
+        0.12496937821675552,
+        28.847287997914584,
+        50.74207713873254
+      ],
+      "eyeAnchors": {
+        "left": [
+          109.30909090909091,
+          116.14545454545454
+        ],
+        "right": [
+          138.5072463768116,
+          110.73913043478261
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "greet-2": {
+      "file": "frames/greet-2.png",
+      "sheet": "greet",
+      "scale": 0.7960650032289283,
+      "anchor": {
+        "x": 136.41953886676492,
+        "y": 497
+      },
+      "head": {
+        "x": 122.52351097178683,
+        "y": 112.23056426332289
+      },
+      "face": {
+        "x": 94.73145518183068,
+        "y": 93.49168061921198,
+        "w": 55.58411157991231,
+        "h": 32.1802751252124,
+        "center": {
+          "x": 122.52351097178683,
+          "y": 112.23056426332289
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "greet-v1.png",
+      "facePatch": {
+        "x": 87,
+        "y": 85,
+        "w": 70,
+        "h": 67,
+        "variants": {
+          "neutral": "faces/greet-2-neutral.png",
+          "curious": "faces/greet-2-curious.png",
+          "smug": "faces/greet-2-smug.png",
+          "happy": "faces/greet-2-happy.png",
+          "talk": "faces/greet-2-talk.png",
+          "sleep": "faces/greet-2-sleep.png",
+          "wink": "faces/greet-2-wink.png",
+          "surprised": "faces/greet-2-surprised.png",
+          "starry": "faces/greet-2-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.12309502930145676,
+        0.024088169780023705,
+        -0.024088169780023705,
+        0.12309502930145676,
+        28.931965592025175,
+        50.36501662077189
+      ],
+      "eyeAnchors": {
+        "left": [
+          108.13793103448276,
+          114.87931034482759
+        ],
+        "right": [
+          136.9090909090909,
+          109.58181818181818
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "greet-3": {
+      "file": "frames/greet-3.png",
+      "sheet": "greet",
+      "scale": 0.7928923992618865,
+      "anchor": {
+        "x": 140.59709135315768,
+        "y": 498
+      },
+      "head": {
+        "x": 126.64546121849767,
+        "y": 112.17054073892831
+      },
+      "face": {
+        "x": 98.74220094917769,
+        "y": 93.32089073277506,
+        "w": 55.80652053863999,
+        "h": 32.30903820658105,
+        "center": {
+          "x": 126.64546121849767,
+          "y": 112.17054073892831
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "greet-v1.png",
+      "facePatch": {
+        "x": 91,
+        "y": 85,
+        "w": 70,
+        "h": 68,
+        "variants": {
+          "neutral": "faces/greet-3-neutral.png",
+          "curious": "faces/greet-3-curious.png",
+          "smug": "faces/greet-3-smug.png",
+          "happy": "faces/greet-3-happy.png",
+          "talk": "faces/greet-3-talk.png",
+          "sleep": "faces/greet-3-sleep.png",
+          "wink": "faces/greet-3-wink.png",
+          "surprised": "faces/greet-3-surprised.png",
+          "starry": "faces/greet-3-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.12364712723159489,
+        0.02387819157869081,
+        -0.02387819157869081,
+        0.12364712723159489,
+        32.52578077840759,
+        50.290517699185045
+      ],
+      "eyeAnchors": {
+        "left": [
+          112.2089552238806,
+          114.86567164179104
+        ],
+        "right": [
+          141.08196721311475,
+          109.47540983606558
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "greet-4": {
+      "file": "frames/greet-4.png",
+      "sheet": "greet",
+      "scale": 0.7929566317111766,
+      "anchor": {
+        "x": 140.32678205178428,
+        "y": 498
+      },
+      "head": {
+        "x": 126.37628205128206,
+        "y": 112.22051282051282
+      },
+      "face": {
+        "x": 98.47528205027764,
+        "y": 93.15448178079501,
+        "w": 55.802000002008846,
+        "h": 32.306421053794594,
+        "center": {
+          "x": 126.37628205128206,
+          "y": 112.22051282051282
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "greet-v1.png",
+      "facePatch": {
+        "x": 91,
+        "y": 85,
+        "w": 70,
+        "h": 68,
+        "variants": {
+          "neutral": "faces/greet-4-neutral.png",
+          "curious": "faces/greet-4-curious.png",
+          "smug": "faces/greet-4-smug.png",
+          "happy": "faces/greet-4-happy.png",
+          "talk": "faces/greet-4-talk.png",
+          "sleep": "faces/greet-4-sleep.png",
+          "wink": "faces/greet-4-wink.png",
+          "surprised": "faces/greet-4-surprised.png",
+          "starry": "faces/greet-4-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.12398391616211717,
+        0.022004533669216522,
+        -0.022004533669216522,
+        0.12398391616211717,
+        31.33962823299668,
+        51.77524404382934
+      ],
+      "eyeAnchors": {
+        "left": [
+          111.98333333333333,
+          115.13333333333334
+        ],
+        "right": [
+          140.76923076923077,
+          109.3076923076923
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "greet-5": {
+      "file": "frames/greet-5.png",
+      "sheet": "greet",
+      "scale": 0.7833282890755572,
+      "anchor": {
+        "x": 139.6369366164445,
+        "y": 498
+      },
+      "head": {
+        "x": 125.51496292372882,
+        "y": 112.0052966101695
+      },
+      "face": {
+        "x": 97.27101553829746,
+        "y": 92.52324098738184,
+        "w": 56.48789477086271,
+        "h": 32.70351802523631,
+        "center": {
+          "x": 125.51496292372882,
+          "y": 112.0052966101695
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "greet-v1.png",
+      "facePatch": {
+        "x": 90,
+        "y": 84,
+        "w": 71,
+        "h": 68,
+        "variants": {
+          "neutral": "faces/greet-5-neutral.png",
+          "curious": "faces/greet-5-curious.png",
+          "smug": "faces/greet-5-smug.png",
+          "happy": "faces/greet-5-happy.png",
+          "talk": "faces/greet-5-talk.png",
+          "sleep": "faces/greet-5-sleep.png",
+          "wink": "faces/greet-5-wink.png",
+          "surprised": "faces/greet-5-surprised.png",
+          "starry": "faces/greet-5-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.1257761928967895,
+        0.020706319227357207,
+        -0.020706319227357207,
+        0.1257761928967895,
+        28.553729674805854,
+        52.02293287956405
+      ],
+      "eyeAnchors": {
+        "left": [
+          110.98305084745763,
+          115.13559322033899
+        ],
+        "right": [
+          140.046875,
+          108.875
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "rest-0": {
+      "file": "frames/rest-0.png",
+      "sheet": "rest",
+      "scale": 0.6726708942809219,
+      "anchor": {
+        "x": 166.43869177659846,
+        "y": 579
+      },
+      "head": {
+        "x": 149.99358974358972,
+        "y": 141.20479082321188
+      },
+      "face": {
+        "x": 117.10338567757222,
+        "y": 118.93198711967409,
+        "w": 65.78040813203499,
+        "h": 38.08339418170447,
+        "center": {
+          "x": 149.99358974358972,
+          "y": 141.20479082321188
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "rest-v1.png",
+      "facePatch": {
+        "x": 110,
+        "y": 110,
+        "w": 80,
+        "h": 78,
+        "variants": {
+          "neutral": "faces/rest-0-neutral.png",
+          "curious": "faces/rest-0-curious.png",
+          "smug": "faces/rest-0-smug.png",
+          "happy": "faces/rest-0-happy.png",
+          "talk": "faces/rest-0-talk.png",
+          "sleep": "faces/rest-0-sleep.png",
+          "wink": "faces/rest-0-wink.png",
+          "surprised": "faces/rest-0-surprised.png",
+          "starry": "faces/rest-0-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.14583475474480406,
+        0.027680453019860118,
+        -0.027680453019860118,
+        0.14583475474480406,
+        38.820361936154114,
+        68.61986349649557
+      ],
+      "eyeAnchors": {
+        "left": [
+          132.98717948717947,
+          144.43589743589743
+        ],
+        "right": [
+          167,
+          137.97368421052633
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "rest-1": {
+      "file": "frames/rest-1.png",
+      "sheet": "rest",
+      "scale": 0.216353671509247,
+      "anchor": {
+        "x": 511.82640321850585,
+        "y": 1280
+      },
+      "head": {
+        "x": 460.6965036706158,
+        "y": 482.81864593964315
+      },
+      "face": {
+        "x": 358.43670457483574,
+        "y": 416.5717073421924,
+        "w": 204.5195981915602,
+        "h": 118.40608316353486,
+        "center": {
+          "x": 460.6965036706158,
+          "y": 482.81864593964315
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "rest-crouch-v2.png",
+      "facePatch": {
+        "x": 351,
+        "y": 408,
+        "w": 219,
+        "h": 225,
+        "variants": {
+          "neutral": "faces/rest-1-neutral.png",
+          "curious": "faces/rest-1-curious.png",
+          "smug": "faces/rest-1-smug.png",
+          "happy": "faces/rest-1-happy.png",
+          "talk": "faces/rest-1-talk.png",
+          "sleep": "faces/rest-1-sleep.png",
+          "wink": "faces/rest-1-wink.png",
+          "surprised": "faces/rest-1-surprised.png",
+          "starry": "faces/rest-1-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.4478349463027595,
+        0.11153038653234704,
+        -0.11153038653234704,
+        0.4478349463027595,
+        128.34098228913098,
+        237.98325832472682
+      ],
+      "eyeAnchors": {
+        "left": [
+          407.3384879725086,
+          489.86254295532643
+        ],
+        "right": [
+          514.054519368723,
+          475.7747489239598
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "rest-2": {
+      "file": "frames/rest-2.png",
+      "sheet": "rest",
+      "scale": 0.279260540642127,
+      "anchor": {
+        "x": 1017.6312414263983,
+        "y": 929
+      },
+      "head": {
+        "x": 978.0189801822967,
+        "y": 362.17362244121034
+      },
+      "face": {
+        "x": 898.7944576940934,
+        "y": 308.5206170784861,
+        "w": 158.44904497640658,
+        "h": 91.73365761791962,
+        "center": {
+          "x": 978.0189801822967,
+          "y": 362.17362244121034
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "rest-seated-floor-v2.png",
+      "facePatch": {
+        "x": 891,
+        "y": 300,
+        "w": 173,
+        "h": 176,
+        "variants": {
+          "neutral": "faces/rest-2-neutral.png",
+          "curious": "faces/rest-2-curious.png",
+          "smug": "faces/rest-2-smug.png",
+          "happy": "faces/rest-2-happy.png",
+          "talk": "faces/rest-2-talk.png",
+          "sleep": "faces/rest-2-sleep.png",
+          "wink": "faces/rest-2-wink.png",
+          "surprised": "faces/rest-2-surprised.png",
+          "starry": "faces/rest-2-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.35128579236040547,
+        0.066647843959842,
+        -0.066647843959842,
+        0.35128579236040547,
+        710.2158827295575,
+        187.3552217396129
+      ],
+      "eyeAnchors": {
+        "left": [
+          937.0552763819095,
+          369.95979899497485
+        ],
+        "right": [
+          1018.982683982684,
+          354.3874458874459
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "rest-3": {
+      "file": "frames/rest-3.png",
+      "sheet": "rest",
+      "scale": 0.2508204119814617,
+      "anchor": {
+        "x": 418.41563642847126,
+        "y": 800
+      },
+      "head": {
+        "x": 374.3118037152764,
+        "y": 385.8028154623001
+      },
+      "face": {
+        "x": 286.1041382888867,
+        "y": 316.25047038458786,
+        "w": 176.4153308527794,
+        "h": 102.13519154634598,
+        "center": {
+          "x": 374.3118037152764,
+          "y": 385.8028154623001
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "rest-half-recline-v2.png",
+      "facePatch": {
+        "x": 279,
+        "y": 308,
+        "w": 191,
+        "h": 195,
+        "variants": {
+          "neutral": "faces/rest-3-neutral.png",
+          "curious": "faces/rest-3-curious.png",
+          "smug": "faces/rest-3-smug.png",
+          "happy": "faces/rest-3-happy.png",
+          "talk": "faces/rest-3-talk.png",
+          "sleep": "faces/rest-3-sleep.png",
+          "wink": "faces/rest-3-wink.png",
+          "surprised": "faces/rest-3-surprised.png",
+          "starry": "faces/rest-3-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.3978620346908539,
+        -0.013605044437836479,
+        0.013605044437836479,
+        0.3978620346908539,
+        40.643982133747464,
+        261.48269889148236
+      ],
+      "eyeAnchors": {
+        "left": [
+          331.7253886010363,
+          404.28756476683935
+        ],
+        "right": [
+          416.89821882951657,
+          367.3180661577608
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "rest-4": {
+      "file": "frames/rest-4.png",
+      "sheet": "rest",
+      "scale": 0.6811870224579738,
+      "anchor": {
+        "x": 143.9785630624318,
+        "y": 247
+      },
+      "head": {
+        "x": 127.73905595736582,
+        "y": 143.82679862961555
+      },
+      "face": {
+        "x": 95.26004174723388,
+        "y": 118.061225058999,
+        "w": 64.95802842026389,
+        "h": 37.607279611731734,
+        "center": {
+          "x": 127.73905595736582,
+          "y": 143.82679862961555
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "rest-v1.png",
+      "facePatch": {
+        "x": 88,
+        "y": 110,
+        "w": 79,
+        "h": 77,
+        "variants": {
+          "neutral": "faces/rest-4-neutral.png",
+          "curious": "faces/rest-4-curious.png",
+          "smug": "faces/rest-4-smug.png",
+          "happy": "faces/rest-4-happy.png",
+          "talk": "faces/rest-4-talk.png",
+          "sleep": "faces/rest-4-sleep.png",
+          "wink": "faces/rest-4-wink.png",
+          "surprised": "faces/rest-4-surprised.png",
+          "starry": "faces/rest-4-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.14644001295536402,
+        -0.006466573372431858,
+        0.006466573372431858,
+        0.14644001295536402,
+        4.429680366623627,
+        99.27522039407638
+      ],
+      "eyeAnchors": {
+        "left": [
+          112.12676056338029,
+          150.7887323943662
+        ],
+        "right": [
+          143.35135135135135,
+          136.86486486486487
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "rest-5": {
+      "file": "frames/rest-5.png",
+      "sheet": "rest",
+      "scale": 0.6798037653722258,
+      "anchor": {
+        "x": 159.19693093149903,
+        "y": 240
+      },
+      "head": {
+        "x": 142.9243798593114,
+        "y": 136.52101073676414
+      },
+      "face": {
+        "x": 110.37927771493614,
+        "y": 111.26768779961547,
+        "w": 65.09020428875051,
+        "h": 37.68380248296083,
+        "center": {
+          "x": 142.9243798593114,
+          "y": 136.52101073676414
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "rest-v1.png",
+      "facePatch": {
+        "x": 103,
+        "y": 103,
+        "w": 80,
+        "h": 77,
+        "variants": {
+          "neutral": "faces/rest-5-neutral.png",
+          "curious": "faces/rest-5-curious.png",
+          "smug": "faces/rest-5-smug.png",
+          "happy": "faces/rest-5-happy.png",
+          "talk": "faces/rest-5-talk.png",
+          "sleep": "faces/rest-5-sleep.png",
+          "wink": "faces/rest-5-wink.png",
+          "surprised": "faces/rest-5-surprised.png",
+          "starry": "faces/rest-5-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.14687591050071117,
+        -0.0012209817673996767,
+        0.0012209817673996767,
+        0.14687591050071117,
+        21.041952337981794,
+        87.48279615528637
+      ],
+      "eyeAnchors": {
+        "left": [
+          127.04054054054055,
+          142.93243243243242
+        ],
+        "right": [
+          158.8082191780822,
+          130.1095890410959
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "airborne-0": {
+      "file": "frames/airborne-0.png",
+      "sheet": "airborne",
+      "scale": 0.6660945408553683,
+      "anchor": {
+        "x": 188.7649435478369,
+        "y": 498
+      },
+      "head": {
+        "x": 172.15747897249375,
+        "y": 133.60763809956808
+      },
+      "face": {
+        "x": 138.9425498218074,
+        "y": 110.73256832686182,
+        "w": 66.42985830137266,
+        "h": 38.45939164816312,
+        "center": {
+          "x": 172.15747897249375,
+          "y": 133.60763809956808
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "airborne-v1.png",
+      "facePatch": {
+        "x": 131,
+        "y": 102,
+        "w": 81,
+        "h": 79,
+        "variants": {
+          "neutral": "faces/airborne-0-neutral.png",
+          "curious": "faces/airborne-0-curious.png",
+          "smug": "faces/airborne-0-smug.png",
+          "happy": "faces/airborne-0-happy.png",
+          "talk": "faces/airborne-0-talk.png",
+          "sleep": "faces/airborne-0-sleep.png",
+          "wink": "faces/airborne-0-wink.png",
+          "surprised": "faces/airborne-0-surprised.png",
+          "starry": "faces/airborne-0-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.14786160178612492,
+        0.02466091730628707,
+        -0.02466091730628707,
+        0.14786160178612492,
+        58.27914186748575,
+        62.829218678646605
+      ],
+      "eyeAnchors": {
+        "left": [
+          155.06024096385542,
+          137.25301204819277
+        ],
+        "right": [
+          189.25471698113208,
+          129.96226415094338
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "airborne-1": {
+      "file": "frames/airborne-1.png",
+      "sheet": "airborne",
+      "scale": 0.6329548632049425,
+      "anchor": {
+        "x": 178.6869946108301,
+        "y": 457
+      },
+      "head": {
+        "x": 161.2100114416476,
+        "y": 141.11893592677347
+      },
+      "face": {
+        "x": 126.25604510328256,
+        "y": 114.46875633042023,
+        "w": 69.90793267673006,
+        "h": 40.473013654948986,
+        "center": {
+          "x": 161.2100114416476,
+          "y": 141.11893592677347
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "airborne-v1.png",
+      "facePatch": {
+        "x": 119,
+        "y": 106,
+        "w": 84,
+        "h": 83,
+        "variants": {
+          "neutral": "faces/airborne-1-neutral.png",
+          "curious": "faces/airborne-1-curious.png",
+          "smug": "faces/airborne-1-smug.png",
+          "happy": "faces/airborne-1-happy.png",
+          "talk": "faces/airborne-1-talk.png",
+          "sleep": "faces/airborne-1-sleep.png",
+          "wink": "faces/airborne-1-wink.png",
+          "surprised": "faces/airborne-1-surprised.png",
+          "starry": "faces/airborne-1-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.15772340947837274,
+        0.0030322855882185078,
+        -0.0030322855882185078,
+        0.15772340947837274,
+        31.806003117218797,
+        84.86698396556125
+      ],
+      "eyeAnchors": {
+        "left": [
+          143.9673913043478,
+          147.5326086956522
+        ],
+        "right": [
+          178.45263157894738,
+          134.70526315789473
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "airborne-2": {
+      "file": "frames/airborne-2.png",
+      "sheet": "airborne",
+      "scale": 0.6236734476283856,
+      "anchor": {
+        "x": 195.03831527184272,
+        "y": 458
+      },
+      "head": {
+        "x": 177.30124223602485,
+        "y": 144.07479296066253
+      },
+      "face": {
+        "x": 141.82709616438913,
+        "y": 122.26668431092943,
+        "w": 70.94829214327144,
+        "h": 41.07532703031505,
+        "center": {
+          "x": 177.30124223602485,
+          "y": 144.07479296066253
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "airborne-v1.png",
+      "facePatch": {
+        "x": 134,
+        "y": 114,
+        "w": 85,
+        "h": 84,
+        "variants": {
+          "neutral": "faces/airborne-2-neutral.png",
+          "curious": "faces/airborne-2-curious.png",
+          "smug": "faces/airborne-2-smug.png",
+          "happy": "faces/airborne-2-happy.png",
+          "talk": "faces/airborne-2-talk.png",
+          "sleep": "faces/airborne-2-sleep.png",
+          "wink": "faces/airborne-2-wink.png",
+          "surprised": "faces/airborne-2-surprised.png",
+          "starry": "faces/airborne-2-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.14461623554649733,
+        0.06868930142109059,
+        -0.06868930142109059,
+        0.14461623554649733,
+        81.10949489830816,
+        37.99075842295165
+      ],
+      "eyeAnchors": {
+        "left": [
+          158.67391304347825,
+          142.80434782608697
+        ],
+        "right": [
+          195.92857142857142,
+          145.3452380952381
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "airborne-3": {
+      "file": "frames/airborne-3.png",
+      "sheet": "airborne",
+      "scale": 0.6635942699344682,
+      "anchor": {
+        "x": 183.59799934020975,
+        "y": 404
+      },
+      "head": {
+        "x": 166.92796164959285,
+        "y": 129.71513002364065
+      },
+      "face": {
+        "x": 133.587886268359,
+        "y": 109.01700003124537,
+        "w": 66.68015076246766,
+        "h": 38.604297809849704,
+        "center": {
+          "x": 166.92796164959285,
+          "y": 129.71513002364065
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "airborne-v1.png",
+      "facePatch": {
+        "x": 126,
+        "y": 101,
+        "w": 81,
+        "h": 79,
+        "variants": {
+          "neutral": "faces/airborne-3-neutral.png",
+          "curious": "faces/airborne-3-curious.png",
+          "smug": "faces/airborne-3-smug.png",
+          "happy": "faces/airborne-3-happy.png",
+          "talk": "faces/airborne-3-talk.png",
+          "sleep": "faces/airborne-3-sleep.png",
+          "wink": "faces/airborne-3-wink.png",
+          "surprised": "faces/airborne-3-surprised.png",
+          "starry": "faces/airborne-3-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13516224428876186,
+        0.06612135512271904,
+        -0.06612135512271904,
+        0.13516224428876186,
+        77.67963738085331,
+        28.97623459575641
+      ],
+      "eyeAnchors": {
+        "left": [
+          149.43617021276594,
+          128.31914893617022
+        ],
+        "right": [
+          184.41975308641975,
+          131.11111111111111
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "airborne-4": {
+      "file": "frames/airborne-4.png",
+      "sheet": "airborne",
+      "scale": 0.6066790952499668,
+      "anchor": {
+        "x": 181.4980193649216,
+        "y": 346
+      },
+      "head": {
+        "x": 163.26409375631442,
+        "y": 155.2927864214993
+      },
+      "face": {
+        "x": 126.79624253910006,
+        "y": 133.601319220109,
+        "w": 72.9357024344287,
+        "h": 42.22593298835346,
+        "center": {
+          "x": 163.26409375631442,
+          "y": 155.2927864214993
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "airborne-v1.png",
+      "facePatch": {
+        "x": 119,
+        "y": 125,
+        "w": 87,
+        "h": 86,
+        "variants": {
+          "neutral": "faces/airborne-4-neutral.png",
+          "curious": "faces/airborne-4-curious.png",
+          "smug": "faces/airborne-4-smug.png",
+          "happy": "faces/airborne-4-happy.png",
+          "talk": "faces/airborne-4-talk.png",
+          "sleep": "faces/airborne-4-sleep.png",
+          "wink": "faces/airborne-4-wink.png",
+          "surprised": "faces/airborne-4-surprised.png",
+          "starry": "faces/airborne-4-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.15487647483283712,
+        0.055690954763965066,
+        -0.055690954763965066,
+        0.15487647483283712,
+        54.157941905379204,
+        56.46220803241095
+      ],
+      "eyeAnchors": {
+        "left": [
+          144.07920792079207,
+          155.87128712871288
+        ],
+        "right": [
+          182.44897959183675,
+          154.71428571428572
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "airborne-5": {
+      "file": "frames/airborne-5.png",
+      "sheet": "airborne",
+      "scale": 0.7076670602922475,
+      "anchor": {
+        "x": 208.0622956939869,
+        "y": 403
+      },
+      "head": {
+        "x": 192.43045112781954,
+        "y": 130.41315789473686
+      },
+      "face": {
+        "x": 161.16676199548482,
+        "y": 107.92628523917463,
+        "w": 62.52737826466945,
+        "h": 36.200061100598106,
+        "center": {
+          "x": 192.43045112781954,
+          "y": 130.41315789473686
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "airborne-v1.png",
+      "facePatch": {
+        "x": 154,
+        "y": 99,
+        "w": 77,
+        "h": 75,
+        "variants": {
+          "neutral": "faces/airborne-5-neutral.png",
+          "curious": "faces/airborne-5-curious.png",
+          "smug": "faces/airborne-5-smug.png",
+          "happy": "faces/airborne-5-happy.png",
+          "talk": "faces/airborne-5-talk.png",
+          "sleep": "faces/airborne-5-sleep.png",
+          "wink": "faces/airborne-5-wink.png",
+          "surprised": "faces/airborne-5-surprised.png",
+          "starry": "faces/airborne-5-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.14031380560345375,
+        0.014853208150087413,
+        -0.014853208150087413,
+        0.14031380560345375,
+        81.4521645709056,
+        70.31762549523769
+      ],
+      "eyeAnchors": {
+        "left": [
+          176.57142857142858,
+          134.8
+        ],
+        "right": [
+          208.28947368421052,
+          126.02631578947368
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "airborne-6": {
+      "file": "frames/airborne-6.png",
+      "sheet": "airborne",
+      "scale": 0.7205400398129985,
+      "anchor": {
+        "x": 156.13279694319385,
+        "y": 466
+      },
+      "head": {
+        "x": 140.78022681543808,
+        "y": 119.04481434058899
+      },
+      "face": {
+        "x": 110.07508655992652,
+        "y": 98.49606712479952,
+        "w": 61.41028051102312,
+        "h": 35.55332029585549,
+        "center": {
+          "x": 140.78022681543808,
+          "y": 119.04481434058899
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "airborne-v1.png",
+      "facePatch": {
+        "x": 103,
+        "y": 90,
+        "w": 76,
+        "h": 74,
+        "variants": {
+          "neutral": "faces/airborne-6-neutral.png",
+          "curious": "faces/airborne-6-curious.png",
+          "smug": "faces/airborne-6-smug.png",
+          "happy": "faces/airborne-6-happy.png",
+          "talk": "faces/airborne-6-talk.png",
+          "sleep": "faces/airborne-6-sleep.png",
+          "wink": "faces/airborne-6-wink.png",
+          "surprised": "faces/airborne-6-surprised.png",
+          "starry": "faces/airborne-6-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13573297586028962,
+        0.027930853918577532,
+        -0.027930853918577532,
+        0.13573297586028962,
+        38.04649425173386,
+        49.694986625531676
+      ],
+      "eyeAnchors": {
+        "left": [
+          124.85915492957747,
+          121.8169014084507
+        ],
+        "right": [
+          156.7012987012987,
+          116.27272727272727
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "airborne-7": {
+      "file": "frames/airborne-7.png",
+      "sheet": "airborne",
+      "scale": 0.7270111945612127,
+      "anchor": {
+        "x": 160.40369408531353,
+        "y": 499
+      },
+      "head": {
+        "x": 145.1877777777778,
+        "y": 125.00611111111111
+      },
+      "face": {
+        "x": 114.7559451627063,
+        "y": 104.75490392460773,
+        "w": 60.86366523014299,
+        "h": 35.23685881745121,
+        "center": {
+          "x": 145.1877777777778,
+          "y": 125.00611111111111
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "airborne-v1.png",
+      "facePatch": {
+        "x": 107,
+        "y": 96,
+        "w": 75,
+        "h": 73,
+        "variants": {
+          "neutral": "faces/airborne-7-neutral.png",
+          "curious": "faces/airborne-7-curious.png",
+          "smug": "faces/airborne-7-smug.png",
+          "happy": "faces/airborne-7-happy.png",
+          "talk": "faces/airborne-7-talk.png",
+          "sleep": "faces/airborne-7-sleep.png",
+          "wink": "faces/airborne-7-wink.png",
+          "surprised": "faces/airborne-7-surprised.png",
+          "starry": "faces/airborne-7-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13432028525720083,
+        0.028658197391406078,
+        -0.028658197391406078,
+        0.13432028525720083,
+        43.870182631194325,
+        55.5361446670271
+      ],
+      "eyeAnchors": {
+        "left": [
+          129.38888888888889,
+          127.63888888888889
+        ],
+        "right": [
+          160.98666666666668,
+          122.37333333333333
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "guide-0": {
+      "file": "frames/guide-0.png",
+      "sheet": "guide",
+      "scale": 0.7202712105425968,
+      "anchor": {
+        "x": 152.84006251473346,
+        "y": 502
+      },
+      "head": {
+        "x": 137.48176229508198,
+        "y": 121.0045081967213
+      },
+      "face": {
+        "x": 106.76516185577903,
+        "y": 99.7667050088246,
+        "w": 61.43320087860591,
+        "h": 35.5665899823508,
+        "center": {
+          "x": 137.48176229508198,
+          "y": 121.0045081967213
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "guide-v2.png",
+      "facePatch": {
+        "x": 99,
+        "y": 91,
+        "w": 76,
+        "h": 74,
+        "variants": {
+          "neutral": "faces/guide-0-neutral.png",
+          "curious": "faces/guide-0-curious.png",
+          "smug": "faces/guide-0-smug.png",
+          "happy": "faces/guide-0-happy.png",
+          "talk": "faces/guide-0-talk.png",
+          "sleep": "faces/guide-0-sleep.png",
+          "wink": "faces/guide-0-wink.png",
+          "surprised": "faces/guide-0-surprised.png",
+          "starry": "faces/guide-0-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13685824833198568,
+        0.02208462598590851,
+        -0.02208462598590851,
+        0.13685824833198568,
+        31.825327229228137,
+        56.10607438725085
+      ],
+      "eyeAnchors": {
+        "left": [
+          121.68852459016394,
+          124.45901639344262
+        ],
+        "right": [
+          153.275,
+          117.55
+        ]
+      },
+      "defaultExpression": "neutral",
+      "hand": {
+        "x": 224,
+        "y": 340
+      }
+    },
+    "guide-1": {
+      "file": "frames/guide-1.png",
+      "sheet": "guide",
+      "scale": 0.6321873855163825,
+      "anchor": {
+        "x": 165.42754811372671,
+        "y": 506
+      },
+      "head": {
+        "x": 147.92934782608694,
+        "y": 129.73913043478262
+      },
+      "face": {
+        "x": 112.93294725080739,
+        "y": 101.39109989577638,
+        "w": 69.99280115055909,
+        "h": 40.52214803453421,
+        "center": {
+          "x": 147.92934782608694,
+          "y": 129.73913043478262
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "guide-v2.png",
+      "facePatch": {
+        "x": 105,
+        "y": 93,
+        "w": 84,
+        "h": 83,
+        "variants": {
+          "neutral": "faces/guide-1-neutral.png",
+          "curious": "faces/guide-1-curious.png",
+          "smug": "faces/guide-1-smug.png",
+          "happy": "faces/guide-1-happy.png",
+          "talk": "faces/guide-1-talk.png",
+          "sleep": "faces/guide-1-sleep.png",
+          "wink": "faces/guide-1-wink.png",
+          "surprised": "faces/guide-1-surprised.png",
+          "starry": "faces/guide-1-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.15744882192469487,
+        -0.012497874511137562,
+        0.012497874511137562,
+        0.15744882192469487,
+        13.460521354694169,
+        86.4241865846536
+      ],
+      "eyeAnchors": {
+        "left": [
+          131.3804347826087,
+          137.82608695652175
+        ],
+        "right": [
+          164.47826086956522,
+          121.65217391304348
+        ]
+      },
+      "defaultExpression": "neutral",
+      "hand": {
+        "x": 280,
+        "y": 309
+      }
+    },
+    "guide-2": {
+      "file": "frames/guide-2.png",
+      "sheet": "guide",
+      "scale": 0.6267502933583442,
+      "anchor": {
+        "x": 173.53071047219015,
+        "y": 509
+      },
+      "head": {
+        "x": 155.8807123655914,
+        "y": 133.75336021505376
+      },
+      "face": {
+        "x": 120.58071615239385,
+        "y": 104.18816008709615,
+        "w": 70.59999242639509,
+        "h": 40.87367982580769,
+        "center": {
+          "x": 155.8807123655914,
+          "y": 133.75336021505376
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "guide-v2.png",
+      "facePatch": {
+        "x": 113,
+        "y": 96,
+        "w": 85,
+        "h": 83,
+        "variants": {
+          "neutral": "faces/guide-2-neutral.png",
+          "curious": "faces/guide-2-curious.png",
+          "smug": "faces/guide-2-smug.png",
+          "happy": "faces/guide-2-happy.png",
+          "talk": "faces/guide-2-talk.png",
+          "sleep": "faces/guide-2-sleep.png",
+          "wink": "faces/guide-2-wink.png",
+          "surprised": "faces/guide-2-surprised.png",
+          "starry": "faces/guide-2-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.15779345174993276,
+        -0.02196027790547591,
+        0.02196027790547591,
+        0.15779345174993276,
+        17.902563072106098,
+        98.14639135909275
+      ],
+      "eyeAnchors": {
+        "left": [
+          139.69892473118279,
+          142.88172043010752
+        ],
+        "right": [
+          172.0625,
+          124.625
+        ]
+      },
+      "defaultExpression": "neutral",
+      "hand": {
+        "x": 351,
+        "y": 16
+      }
+    },
+    "guide-3": {
+      "file": "frames/guide-3.png",
+      "sheet": "guide",
+      "scale": 0.6292752782175665,
+      "anchor": {
+        "x": 180.22635267707372,
+        "y": 504
+      },
+      "head": {
+        "x": 162.64717568728523,
+        "y": 133.13020833333331
+      },
+      "face": {
+        "x": 127.48882170770823,
+        "y": 103.64516348550805,
+        "w": 70.316707959154,
+        "h": 40.7096730289839,
+        "center": {
+          "x": 162.64717568728523,
+          "y": 133.13020833333331
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "guide-v2.png",
+      "facePatch": {
+        "x": 120,
+        "y": 95,
+        "w": 85,
+        "h": 83,
+        "variants": {
+          "neutral": "faces/guide-3-neutral.png",
+          "curious": "faces/guide-3-curious.png",
+          "smug": "faces/guide-3-smug.png",
+          "happy": "faces/guide-3-happy.png",
+          "talk": "faces/guide-3-talk.png",
+          "sleep": "faces/guide-3-sleep.png",
+          "wink": "faces/guide-3-wink.png",
+          "surprised": "faces/guide-3-surprised.png",
+          "starry": "faces/guide-3-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.15710760178890545,
+        -0.02224754245951723,
+        0.02224754245951723,
+        0.15710760178890545,
+        25.13833891477991,
+        97.99451063778454
+      ],
+      "eyeAnchors": {
+        "left": [
+          146.55208333333334,
+          142.26041666666666
+        ],
+        "right": [
+          178.7422680412371,
+          124
+        ]
+      },
+      "defaultExpression": "neutral",
+      "hand": {
+        "x": 388,
+        "y": 22
+      }
+    },
+    "guide-4": {
+      "file": "frames/guide-4.png",
+      "sheet": "guide",
+      "scale": 0.6419361099959934,
+      "anchor": {
+        "x": 167.48754621255327,
+        "y": 506
+      },
+      "head": {
+        "x": 150.255081300813,
+        "y": 132.50929152148666
+      },
+      "face": {
+        "x": 115.79015147733246,
+        "y": 105.78471481397492,
+        "w": 68.92985964696109,
+        "h": 39.90676084824064,
+        "center": {
+          "x": 150.255081300813,
+          "y": 132.50929152148666
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "guide-v2.png",
+      "facePatch": {
+        "x": 108,
+        "y": 97,
+        "w": 83,
+        "h": 81,
+        "variants": {
+          "neutral": "faces/guide-4-neutral.png",
+          "curious": "faces/guide-4-curious.png",
+          "smug": "faces/guide-4-smug.png",
+          "happy": "faces/guide-4-happy.png",
+          "talk": "faces/guide-4-talk.png",
+          "sleep": "faces/guide-4-sleep.png",
+          "wink": "faces/guide-4-wink.png",
+          "surprised": "faces/guide-4-surprised.png",
+          "starry": "faces/guide-4-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.15554140813657819,
+        -0.0011225906502551764,
+        0.0011225906502551764,
+        0.15554140813657819,
+        21.239814007788414,
+        80.43693916670867
+      ],
+      "eyeAnchors": {
+        "left": [
+          133.4268292682927,
+          139.28048780487805
+        ],
+        "right": [
+          167.08333333333334,
+          125.73809523809524
+        ]
+      },
+      "defaultExpression": "neutral",
+      "hand": {
+        "x": 411,
+        "y": 147
+      }
+    },
+    "guide-5": {
+      "file": "frames/guide-5.png",
+      "sheet": "guide",
+      "scale": 0.6580211438464282,
+      "anchor": {
+        "x": 164.841875135233,
+        "y": 502
+      },
+      "head": {
+        "x": 148.03065015479876,
+        "y": 129.9420278637771
+      },
+      "face": {
+        "x": 114.40820019393024,
+        "y": 103.95790048705135,
+        "w": 67.24489992173704,
+        "h": 38.931257849426714,
+        "center": {
+          "x": 148.03065015479876,
+          "y": 129.9420278637771
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "guide-v2.png",
+      "facePatch": {
+        "x": 107,
+        "y": 95,
+        "w": 82,
+        "h": 80,
+        "variants": {
+          "neutral": "faces/guide-5-neutral.png",
+          "curious": "faces/guide-5-curious.png",
+          "smug": "faces/guide-5-smug.png",
+          "happy": "faces/guide-5-happy.png",
+          "talk": "faces/guide-5-talk.png",
+          "sleep": "faces/guide-5-sleep.png",
+          "wink": "faces/guide-5-wink.png",
+          "surprised": "faces/guide-5-surprised.png",
+          "starry": "faces/guide-5-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.15174294212846764,
+        -0.00029020899557968865,
+        0.00029020899557968865,
+        0.15174294212846764,
+        22.440348299312227,
+        78.47562317284613
+      ],
+      "eyeAnchors": {
+        "left": [
+          131.57894736842104,
+          136.46052631578948
+        ],
+        "right": [
+          164.48235294117646,
+          123.4235294117647
+        ]
+      },
+      "defaultExpression": "neutral",
+      "hand": {
+        "x": 280,
+        "y": 320
+      }
+    },
+    "extended-0": {
+      "file": "frames/extended-0.png",
+      "sheet": "extended",
+      "scale": 0.30177982241594087,
+      "anchor": {
+        "x": 365.46132518342404,
+        "y": 1015
+      },
+      "head": {
+        "x": 328.8049927536232,
+        "y": 244.1675543478261
+      },
+      "face": {
+        "x": 255.49232789402146,
+        "y": 187.795825607599,
+        "w": 146.62532971920348,
+        "h": 84.88834878480203,
+        "center": {
+          "x": 328.8049927536232,
+          "y": 244.1675543478261
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "extended-v1.png",
+      "facePatch": {
+        "x": 248,
+        "y": 179,
+        "w": 161,
+        "h": 164,
+        "variants": {
+          "neutral": "faces/extended-0-neutral.png",
+          "curious": "faces/extended-0-curious.png",
+          "smug": "faces/extended-0-smug.png",
+          "happy": "faces/extended-0-happy.png",
+          "talk": "faces/extended-0-talk.png",
+          "sleep": "faces/extended-0-sleep.png",
+          "wink": "faces/extended-0-wink.png",
+          "surprised": "faces/extended-0-surprised.png",
+          "starry": "faces/extended-0-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.33086514253546623,
+        0.0019993594061298897,
+        -0.0019993594061298897,
+        0.33086514253546623,
+        55.86080159443138,
+        129.7717867999966
+      ],
+      "eyeAnchors": {
+        "left": [
+          292.82065217391306,
+          258.0951086956522
+        ],
+        "right": [
+          364.78933333333333,
+          230.24
+        ]
+      },
+      "defaultExpression": "neutral",
+      "archived": true,
+      "archiveReason": "Rejected elongated green arm; ordinary pointing uses guide-4."
+    },
+    "idle-0": {
+      "file": "frames/idle-0.png",
+      "sheet": "idle",
+      "scale": 0.7175813487663896,
+      "anchor": {
+        "x": 142.3134178787286,
+        "y": 506
+      },
+      "head": {
+        "x": 126.8975468975469,
+        "y": 119.9047619047619
+      },
+      "face": {
+        "x": 96.06580493518354,
+        "y": 99.81671079371945,
+        "w": 61.66348392472675,
+        "h": 35.69991174589444,
+        "center": {
+          "x": 126.8975468975469,
+          "y": 119.9047619047619
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "idle-v1.png",
+      "facePatch": {
+        "x": 89,
+        "y": 91,
+        "w": 76,
+        "h": 74,
+        "variants": {
+          "neutral": "faces/idle-0-neutral.png",
+          "curious": "faces/idle-0-curious.png",
+          "smug": "faces/idle-0-smug.png",
+          "happy": "faces/idle-0-happy.png",
+          "talk": "faces/idle-0-talk.png",
+          "sleep": "faces/idle-0-sleep.png",
+          "wink": "faces/idle-0-wink.png",
+          "surprised": "faces/idle-0-surprised.png",
+          "starry": "faces/idle-0-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13525972172460865,
+        0.03266597111181369,
+        -0.03266597111181369,
+        0.13525972172460865,
+        26.16868668764606,
+        46.80025361763159
+      ],
+      "eyeAnchors": {
+        "left": [
+          110.82539682539682,
+          122.14285714285714
+        ],
+        "right": [
+          142.96969696969697,
+          117.66666666666667
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "idle-1": {
+      "file": "frames/idle-1.png",
+      "sheet": "idle",
+      "scale": 0.7135968021420378,
+      "anchor": {
+        "x": 154.36813924506453,
+        "y": 508
+      },
+      "head": {
+        "x": 138.86618988391376,
+        "y": 121.83934494195688
+      },
+      "face": {
+        "x": 107.8622911616122,
+        "y": 101.35592997948623,
+        "w": 62.007797444603106,
+        "h": 35.899251152138646,
+        "center": {
+          "x": 138.86618988391376,
+          "y": 121.83934494195688
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "idle-v1.png",
+      "facePatch": {
+        "x": 100,
+        "y": 93,
+        "w": 77,
+        "h": 74,
+        "variants": {
+          "neutral": "faces/idle-1-neutral.png",
+          "curious": "faces/idle-1-curious.png",
+          "smug": "faces/idle-1-smug.png",
+          "happy": "faces/idle-1-happy.png",
+          "talk": "faces/idle-1-talk.png",
+          "sleep": "faces/idle-1-sleep.png",
+          "wink": "faces/idle-1-wink.png",
+          "surprised": "faces/idle-1-surprised.png",
+          "starry": "faces/idle-1-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13657033502627838,
+        0.03045707314259979,
+        -0.03045707314259979,
+        0.13657033502627838,
+        36.300770490522424,
+        50.1150037928225
+      ],
+      "eyeAnchors": {
+        "left": [
+          122.74626865671642,
+          124.3731343283582
+        ],
+        "right": [
+          154.98611111111111,
+          119.30555555555556
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "idle-2": {
+      "file": "frames/idle-2.png",
+      "sheet": "idle",
+      "scale": 0.6835116424984871,
+      "anchor": {
+        "x": 158.42113579634912,
+        "y": 506
+      },
+      "head": {
+        "x": 142.23685918234912,
+        "y": 118.02498377676832
+      },
+      "face": {
+        "x": 109.8683059543491,
+        "y": 97.08639824557434,
+        "w": 64.73710645600005,
+        "h": 37.47937742189477,
+        "center": {
+          "x": 142.23685918234912,
+          "y": 118.02498377676832
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "idle-v1.png",
+      "facePatch": {
+        "x": 102,
+        "y": 89,
+        "w": 79,
+        "h": 77,
+        "variants": {
+          "neutral": "faces/idle-2-neutral.png",
+          "curious": "faces/idle-2-curious.png",
+          "smug": "faces/idle-2-smug.png",
+          "happy": "faces/idle-2-happy.png",
+          "talk": "faces/idle-2-talk.png",
+          "sleep": "faces/idle-2-sleep.png",
+          "wink": "faces/idle-2-wink.png",
+          "surprised": "faces/idle-2-surprised.png",
+          "starry": "faces/idle-2-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.14168987930485843,
+        0.035560788203097715,
+        -0.035560788203097715,
+        0.14168987930485843,
+        37.176667577436746,
+        40.33538555967601
+      ],
+      "eyeAnchors": {
+        "left": [
+          125.34328358208955,
+          120.22388059701493
+        ],
+        "right": [
+          159.1304347826087,
+          115.82608695652173
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "idle-3": {
+      "file": "frames/idle-3.png",
+      "sheet": "idle",
+      "scale": 0.7202876405298425,
+      "anchor": {
+        "x": 151.57294191751942,
+        "y": 499
+      },
+      "head": {
+        "x": 136.21499202551834,
+        "y": 118.87464114832537
+      },
+      "face": {
+        "x": 105.4990922415162,
+        "y": 99.07165610591264,
+        "w": 61.43179956800428,
+        "h": 35.56577869726564,
+        "center": {
+          "x": 136.21499202551834,
+          "y": 118.87464114832537
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "idle-v1.png",
+      "facePatch": {
+        "x": 98,
+        "y": 91,
+        "w": 76,
+        "h": 74,
+        "variants": {
+          "neutral": "faces/idle-3-neutral.png",
+          "curious": "faces/idle-3-curious.png",
+          "smug": "faces/idle-3-smug.png",
+          "happy": "faces/idle-3-happy.png",
+          "talk": "faces/idle-3-talk.png",
+          "sleep": "faces/idle-3-sleep.png",
+          "wink": "faces/idle-3-wink.png",
+          "surprised": "faces/idle-3-surprised.png",
+          "starry": "faces/idle-3-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13431439866972666,
+        0.03430271750553838,
+        -0.03430271750553838,
+        0.13431439866972666,
+        36.82563531566659,
+        44.73866242453576
+      ],
+      "eyeAnchors": {
+        "left": [
+          120.17543859649123,
+          120.89473684210526
+        ],
+        "right": [
+          152.25454545454545,
+          116.85454545454546
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "idle-4": {
+      "file": "frames/idle-4.png",
+      "sheet": "idle",
+      "scale": 0.7125797449914033,
+      "anchor": {
+        "x": 154.00894529088953,
+        "y": 499
+      },
+      "head": {
+        "x": 138.48487016969946,
+        "y": 118.3533019832345
+      },
+      "face": {
+        "x": 107.43671992731934,
+        "y": 98.13434416392845,
+        "w": 62.096300484760235,
+        "h": 35.95048975433488,
+        "center": {
+          "x": 138.48487016969946,
+          "y": 118.3533019832345
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "idle-v1.png",
+      "facePatch": {
+        "x": 100,
+        "y": 90,
+        "w": 77,
+        "h": 74,
+        "variants": {
+          "neutral": "faces/idle-4-neutral.png",
+          "curious": "faces/idle-4-curious.png",
+          "smug": "faces/idle-4-smug.png",
+          "happy": "faces/idle-4-happy.png",
+          "talk": "faces/idle-4-talk.png",
+          "sleep": "faces/idle-4-sleep.png",
+          "wink": "faces/idle-4-wink.png",
+          "surprised": "faces/idle-4-surprised.png",
+          "starry": "faces/idle-4-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13618857480478674,
+        0.03298017171212914,
+        -0.03298017171212914,
+        0.13618857480478674,
+        37.094912317048816,
+        44.67244311257263
+      ],
+      "eyeAnchors": {
+        "left": [
+          122.29850746268657,
+          120.59701492537313
+        ],
+        "right": [
+          154.67123287671234,
+          116.10958904109589
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "idle-5": {
+      "file": "frames/idle-5.png",
+      "sheet": "idle",
+      "scale": 0.7116599949226216,
+      "anchor": {
+        "x": 152.71657957414598,
+        "y": 499
+      },
+      "head": {
+        "x": 137.1724411231884,
+        "y": 118.8575634057971
+      },
+      "face": {
+        "x": 106.08416422127324,
+        "y": 98.47027389889122,
+        "w": 62.17655380383034,
+        "h": 35.996952202217564,
+        "center": {
+          "x": 137.1724411231884,
+          "y": 118.8575634057971
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "idle-v1.png",
+      "facePatch": {
+        "x": 99,
+        "y": 90,
+        "w": 77,
+        "h": 74,
+        "variants": {
+          "neutral": "faces/idle-5-neutral.png",
+          "curious": "faces/idle-5-curious.png",
+          "smug": "faces/idle-5-smug.png",
+          "happy": "faces/idle-5-happy.png",
+          "talk": "faces/idle-5-talk.png",
+          "sleep": "faces/idle-5-sleep.png",
+          "wink": "faces/idle-5-wink.png",
+          "surprised": "faces/idle-5-surprised.png",
+          "starry": "faces/idle-5-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13664924415185017,
+        0.03182434821838243,
+        -0.03182434821838243,
+        0.13664924415185017,
+        35.00766286502213,
+        45.97559748445188
+      ],
+      "eyeAnchors": {
+        "left": [
+          120.98550724637681,
+          121.2463768115942
+        ],
+        "right": [
+          153.359375,
+          116.46875
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "phase-0": {
+      "file": "frames/phase-0.png",
+      "sheet": "phase",
+      "scale": 0.7315150135391724,
+      "anchor": {
+        "x": 137.4460762522176,
+        "y": 463
+      },
+      "head": {
+        "x": 122.32384186694532,
+        "y": 114.09169278996865
+      },
+      "face": {
+        "x": 92.07937309640073,
+        "y": 94.12797543048326,
+        "w": 60.48893754108918,
+        "h": 35.019911207999,
+        "center": {
+          "x": 122.32384186694532,
+          "y": 114.09169278996865
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "phase-v1.png",
+      "facePatch": {
+        "x": 85,
+        "y": 86,
+        "w": 75,
+        "h": 73,
+        "variants": {
+          "neutral": "faces/phase-0-neutral.png",
+          "curious": "faces/phase-0-curious.png",
+          "smug": "faces/phase-0-smug.png",
+          "happy": "faces/phase-0-happy.png",
+          "talk": "faces/phase-0-talk.png",
+          "sleep": "faces/phase-0-sleep.png",
+          "wink": "faces/phase-0-wink.png",
+          "surprised": "faces/phase-0-surprised.png",
+          "starry": "faces/phase-0-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13319106726280033,
+        0.02986319235021956,
+        -0.02986319235021956,
+        0.13319106726280033,
+        22.350712033946763,
+        44.009976546537864
+      ],
+      "eyeAnchors": {
+        "left": [
+          106.5959595959596,
+          116.54545454545455
+        ],
+        "right": [
+          138.05172413793105,
+          111.63793103448276
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "phase-1": {
+      "file": "frames/phase-1.png",
+      "sheet": "phase",
+      "scale": 0.6855503199270556,
+      "anchor": {
+        "x": 158.70469605505903,
+        "y": 447
+      },
+      "head": {
+        "x": 142.56854795689748,
+        "y": 142.86551797716845
+      },
+      "face": {
+        "x": 110.29625176057438,
+        "y": 123.59076431895927,
+        "w": 64.5445923926462,
+        "h": 37.367921911532015,
+        "center": {
+          "x": 142.56854795689748,
+          "y": 142.86551797716845
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "phase-v1.png",
+      "facePatch": {
+        "x": 103,
+        "y": 115,
+        "w": 79,
+        "h": 77,
+        "variants": {
+          "neutral": "faces/phase-1-neutral.png",
+          "curious": "faces/phase-1-curious.png",
+          "smug": "faces/phase-1-smug.png",
+          "happy": "faces/phase-1-happy.png",
+          "talk": "faces/phase-1-talk.png",
+          "sleep": "faces/phase-1-sleep.png",
+          "wink": "faces/phase-1-wink.png",
+          "surprised": "faces/phase-1-surprised.png",
+          "starry": "faces/phase-1-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13357143342302066,
+        0.05807346987352363,
+        -0.05807346987352363,
+        0.13357143342302066,
+        51.89350737546256,
+        49.324292452870125
+      ],
+      "eyeAnchors": {
+        "left": [
+          125.5934065934066,
+          142.27472527472528
+        ],
+        "right": [
+          159.54368932038835,
+          143.45631067961165
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "phase-2": {
+      "file": "frames/phase-2.png",
+      "sheet": "phase",
+      "scale": 0.6708570056804165,
+      "anchor": {
+        "x": 139.6734332022999,
+        "y": 342
+      },
+      "head": {
+        "x": 123.18386627906978,
+        "y": 133.48025678294573
+      },
+      "face": {
+        "x": 90.20473243260952,
+        "y": 111.29441414601098,
+        "w": 65.9582676929205,
+        "h": 38.18636550642766,
+        "center": {
+          "x": 123.18386627906978,
+          "y": 133.48025678294573
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "phase-v1.png",
+      "facePatch": {
+        "x": 83,
+        "y": 103,
+        "w": 80,
+        "h": 78,
+        "variants": {
+          "neutral": "faces/phase-2-neutral.png",
+          "curious": "faces/phase-2-curious.png",
+          "smug": "faces/phase-2-smug.png",
+          "happy": "faces/phase-2-happy.png",
+          "talk": "faces/phase-2-talk.png",
+          "sleep": "faces/phase-2-sleep.png",
+          "wink": "faces/phase-2-wink.png",
+          "surprised": "faces/phase-2-surprised.png",
+          "starry": "faces/phase-2-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.14598426397237504,
+        0.02901536775205627,
+        -0.02901536775205627,
+        0.14598426397237504,
+        12.341866535428785,
+        59.7404097034084
+      ],
+      "eyeAnchors": {
+        "left": [
+          106.10416666666667,
+          136.57291666666666
+        ],
+        "right": [
+          140.26356589147287,
+          130.3875968992248
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "phase-3": {
+      "file": "frames/phase-3.png",
+      "sheet": "phase",
+      "scale": 0.6922223540782965,
+      "anchor": {
+        "x": 148.2589674990611,
+        "y": 296
+      },
+      "head": {
+        "x": 132.27834880636604,
+        "y": 135.02735411140583
+      },
+      "face": {
+        "x": 100.31711142097593,
+        "y": 114.77198779321336,
+        "w": 63.92247477078022,
+        "h": 37.00774855150434,
+        "center": {
+          "x": 132.27834880636604,
+          "y": 135.02735411140583
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "phase-v1.png",
+      "facePatch": {
+        "x": 93,
+        "y": 106,
+        "w": 78,
+        "h": 76,
+        "variants": {
+          "neutral": "faces/phase-3-neutral.png",
+          "curious": "faces/phase-3-curious.png",
+          "smug": "faces/phase-3-smug.png",
+          "happy": "faces/phase-3-happy.png",
+          "talk": "faces/phase-3-talk.png",
+          "sleep": "faces/phase-3-sleep.png",
+          "wink": "faces/phase-3-wink.png",
+          "surprised": "faces/phase-3-surprised.png",
+          "starry": "faces/phase-3-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13898065022228753,
+        0.03861687331393986,
+        -0.03861687331393986,
+        0.13898065022228753,
+        30.50005065425926,
+        55.7335433175331
+      ],
+      "eyeAnchors": {
+        "left": [
+          115.54807692307692,
+          136.77884615384616
+        ],
+        "right": [
+          149.00862068965517,
+          133.27586206896552
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "phase-4": {
+      "file": "frames/phase-4.png",
+      "sheet": "phase",
+      "scale": 0.6946826148412123,
+      "anchor": {
+        "x": 156.45324437030595,
+        "y": 459
+      },
+      "head": {
+        "x": 140.5292220113852,
+        "y": 114.4023402909551
+      },
+      "face": {
+        "x": 108.68117729354368,
+        "y": 93.63692713845396,
+        "w": 63.69608943568303,
+        "h": 36.8766833575007,
+        "center": {
+          "x": 140.5292220113852,
+          "y": 114.4023402909551
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "phase-v1.png",
+      "facePatch": {
+        "x": 101,
+        "y": 85,
+        "w": 78,
+        "h": 76,
+        "variants": {
+          "neutral": "faces/phase-4-neutral.png",
+          "curious": "faces/phase-4-curious.png",
+          "smug": "faces/phase-4-smug.png",
+          "happy": "faces/phase-4-happy.png",
+          "talk": "faces/phase-4-talk.png",
+          "sleep": "faces/phase-4-sleep.png",
+          "wink": "faces/phase-4-wink.png",
+          "surprised": "faces/phase-4-surprised.png",
+          "starry": "faces/phase-4-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13974911178132438,
+        0.033614774699546775,
+        -0.033614774699546775,
+        0.13974911178132438,
+        36.41094104710049,
+        38.983411774943626
+      ],
+      "eyeAnchors": {
+        "left": [
+          123.92941176470588,
+          116.72941176470589
+        ],
+        "right": [
+          157.1290322580645,
+          112.0752688172043
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "phase-5": {
+      "file": "frames/phase-5.png",
+      "sheet": "phase",
+      "scale": 0.6821827656367887,
+      "anchor": {
+        "x": 164.81699001555336,
+        "y": 446
+      },
+      "head": {
+        "x": 148.60118679050566,
+        "y": 124.74004127966975
+      },
+      "face": {
+        "x": 116.16958034041025,
+        "y": 103.85125777244218,
+        "w": 64.86321290019082,
+        "h": 37.55238641589995,
+        "center": {
+          "x": 148.60118679050566,
+          "y": 124.74004127966975
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "phase-v1.png",
+      "facePatch": {
+        "x": 109,
+        "y": 95,
+        "w": 79,
+        "h": 77,
+        "variants": {
+          "neutral": "faces/phase-5-neutral.png",
+          "curious": "faces/phase-5-curious.png",
+          "smug": "faces/phase-5-smug.png",
+          "happy": "faces/phase-5-happy.png",
+          "talk": "faces/phase-5-talk.png",
+          "sleep": "faces/phase-5-sleep.png",
+          "wink": "faces/phase-5-wink.png",
+          "surprised": "faces/phase-5-surprised.png",
+          "starry": "faces/phase-5-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.14177323183573562,
+        0.03638908167465521,
+        -0.03638908167465521,
+        0.14177323183573562,
+        43.75430364299108,
+        46.33704198670299
+      ],
+      "eyeAnchors": {
+        "left": [
+          131.66315789473686,
+          126.85263157894737
+        ],
+        "right": [
+          165.5392156862745,
+          122.62745098039215
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "possession-0": {
+      "file": "frames/possession-0.png",
+      "sheet": "possession",
+      "scale": 0.6155770802610544,
+      "anchor": {
+        "x": 306.1092484844635,
+        "y": 424
+      },
+      "head": {
+        "x": 288.1388888888889,
+        "y": 174.03559218559218
+      },
+      "face": {
+        "x": 252.19816969773981,
+        "y": 151.7856217985308,
+        "w": 71.88143838229819,
+        "h": 41.61556958975159,
+        "center": {
+          "x": 288.1388888888889,
+          "y": 174.03559218559218
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "possession-v1.png",
+      "facePatch": {
+        "x": 245,
+        "y": 143,
+        "w": 86,
+        "h": 85,
+        "variants": {
+          "neutral": "faces/possession-0-neutral.png",
+          "curious": "faces/possession-0-curious.png",
+          "smug": "faces/possession-0-smug.png",
+          "happy": "faces/possession-0-happy.png",
+          "talk": "faces/possession-0-talk.png",
+          "sleep": "faces/possession-0-sleep.png",
+          "wink": "faces/possession-0-wink.png",
+          "surprised": "faces/possession-0-surprised.png",
+          "starry": "faces/possession-0-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.15500831277059815,
+        0.047782670771958295,
+        -0.047782670771958295,
+        0.15500831277059815,
+        176.228959293149,
+        81.70024088060137
+      ],
+      "eyeAnchors": {
+        "left": [
+          269.27777777777777,
+          175.4777777777778
+        ],
+        "right": [
+          307,
+          172.5934065934066
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "possession-1": {
+      "file": "frames/possession-1.png",
+      "sheet": "possession",
+      "scale": 0.6326949656375771,
+      "anchor": {
+        "x": 198.24401057150374,
+        "y": 493
+      },
+      "head": {
+        "x": 180.75984823122417,
+        "y": 150.47388684298627
+      },
+      "face": {
+        "x": 145.79152355066503,
+        "y": 127.16897355154563,
+        "w": 69.93664936111827,
+        "h": 40.48963910380532,
+        "center": {
+          "x": 180.75984823122417,
+          "y": 150.47388684298627
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "possession-v1.png",
+      "facePatch": {
+        "x": 138,
+        "y": 119,
+        "w": 84,
+        "h": 83,
+        "variants": {
+          "neutral": "faces/possession-1-neutral.png",
+          "curious": "faces/possession-1-curious.png",
+          "smug": "faces/possession-1-smug.png",
+          "happy": "faces/possession-1-happy.png",
+          "talk": "faces/possession-1-talk.png",
+          "sleep": "faces/possession-1-sleep.png",
+          "wink": "faces/possession-1-wink.png",
+          "surprised": "faces/possession-1-surprised.png",
+          "starry": "faces/possession-1-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.15440642749914169,
+        0.0326339265995421,
+        -0.0326339265995421,
+        0.15440642749914169,
+        64.18574317822797,
+        70.87163937483244
+      ],
+      "eyeAnchors": {
+        "left": [
+          162.61165048543688,
+          153.53398058252426
+        ],
+        "right": [
+          198.90804597701148,
+          147.41379310344828
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "possession-2": {
+      "file": "frames/possession-2.png",
+      "sheet": "possession",
+      "scale": 0.6769502923610003,
+      "anchor": {
+        "x": 352.40060978944143,
+        "y": 463
+      },
+      "head": {
+        "x": 336.05946684894053,
+        "y": 130.0797163362953
+      },
+      "face": {
+        "x": 303.37718096793867,
+        "y": 107.96179347832634,
+        "w": 65.3645717620037,
+        "h": 37.8426468095811,
+        "center": {
+          "x": 336.05946684894053,
+          "y": 130.0797163362953
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "possession-v1.png",
+      "facePatch": {
+        "x": 296,
+        "y": 99,
+        "w": 80,
+        "h": 78,
+        "variants": {
+          "neutral": "faces/possession-2-neutral.png",
+          "curious": "faces/possession-2-curious.png",
+          "smug": "faces/possession-2-smug.png",
+          "happy": "faces/possession-2-happy.png",
+          "talk": "faces/possession-2-talk.png",
+          "sleep": "faces/possession-2-sleep.png",
+          "wink": "faces/possession-2-wink.png",
+          "surprised": "faces/possession-2-surprised.png",
+          "starry": "faces/possession-2-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.14488987997342304,
+        0.02762620198788425,
+        -0.02762620198788425,
+        0.14488987997342304,
+        225.64916443829125,
+        57.8616206913711
+      ],
+      "eyeAnchors": {
+        "left": [
+          319.1578947368421,
+          133.27631578947367
+        ],
+        "right": [
+          352.961038961039,
+          126.88311688311688
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "possession-3": {
+      "file": "frames/possession-3.png",
+      "sheet": "possession",
+      "scale": 0.7090804357851943,
+      "anchor": {
+        "x": 437.0598681733338,
+        "y": 243
+      },
+      "head": {
+        "x": 421.4591818015043,
+        "y": 131.55934690882407
+      },
+      "face": {
+        "x": 390.25780905784535,
+        "y": 112.57372851835456,
+        "w": 62.40274548731798,
+        "h": 36.127905282131465,
+        "center": {
+          "x": 421.4591818015043,
+          "y": 131.55934690882407
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "possession-v1.png",
+      "facePatch": {
+        "x": 383,
+        "y": 104,
+        "w": 77,
+        "h": 75,
+        "variants": {
+          "neutral": "faces/possession-3-neutral.png",
+          "curious": "faces/possession-3-curious.png",
+          "smug": "faces/possession-3-smug.png",
+          "happy": "faces/possession-3-happy.png",
+          "talk": "faces/possession-3-talk.png",
+          "sleep": "faces/possession-3-sleep.png",
+          "wink": "faces/possession-3-wink.png",
+          "surprised": "faces/possession-3-surprised.png",
+          "starry": "faces/possession-3-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13370444244305832,
+        0.044186167419695464,
+        -0.044186167419695464,
+        0.13370444244305832,
+        325.94204444935633,
+        49.457597690263796
+      ],
+      "eyeAnchors": {
+        "left": [
+          405.0632911392405,
+          132.48101265822785
+        ],
+        "right": [
+          437.8550724637681,
+          130.63768115942028
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "possession-4": {
+      "file": "frames/possession-4.png",
+      "sheet": "possession",
+      "scale": 0.6078294024610679,
+      "anchor": {
+        "x": 196.7801920356358,
+        "y": 387
+      },
+      "head": {
+        "x": 178.58077383326685,
+        "y": 157.23060430793777
+      },
+      "face": {
+        "x": 142.18193742852895,
+        "y": 133.59003292814947,
+        "w": 72.7976728094758,
+        "h": 42.14602110022283,
+        "center": {
+          "x": 178.58077383326685,
+          "y": 157.23060430793777
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "possession-v1.png",
+      "facePatch": {
+        "x": 135,
+        "y": 125,
+        "w": 87,
+        "h": 86,
+        "variants": {
+          "neutral": "faces/possession-4-neutral.png",
+          "curious": "faces/possession-4-curious.png",
+          "smug": "faces/possession-4-smug.png",
+          "happy": "faces/possession-4-happy.png",
+          "talk": "faces/possession-4-talk.png",
+          "sleep": "faces/possession-4-sleep.png",
+          "wink": "faces/possession-4-wink.png",
+          "surprised": "faces/possession-4-surprised.png",
+          "starry": "faces/possession-4-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.15952979877595785,
+        0.039192055926223886,
+        -0.039192055926223886,
+        0.15952979877595785,
+        60.00432330241049,
+        70.45899512404299
+      ],
+      "eyeAnchors": {
+        "left": [
+          159.59633027522935,
+          159.7981651376147
+        ],
+        "right": [
+          197.56521739130434,
+          154.66304347826087
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "possession-5": {
+      "file": "frames/possession-5.png",
+      "sheet": "possession",
+      "scale": 0.6382831480673941,
+      "anchor": {
+        "x": 236.4758175945911,
+        "y": 454
+      },
+      "head": {
+        "x": 219.14472946453603,
+        "y": 131.905803195963
+      },
+      "face": {
+        "x": 184.48255320442587,
+        "y": 109.62207944287633,
+        "w": 69.3243525202203,
+        "h": 40.13515145907492,
+        "center": {
+          "x": 219.14472946453603,
+          "y": 131.905803195963
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "possession-v1.png",
+      "facePatch": {
+        "x": 177,
+        "y": 101,
+        "w": 84,
+        "h": 82,
+        "variants": {
+          "neutral": "faces/possession-5-neutral.png",
+          "curious": "faces/possession-5-curious.png",
+          "smug": "faces/possession-5-smug.png",
+          "happy": "faces/possession-5-happy.png",
+          "talk": "faces/possession-5-talk.png",
+          "sleep": "faces/possession-5-sleep.png",
+          "wink": "faces/possession-5-wink.png",
+          "surprised": "faces/possession-5-surprised.png",
+          "starry": "faces/possession-5-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.1514339968079535,
+        0.03924106304138989,
+        -0.03924106304138989,
+        0.1514339968079535,
+        107.28020633571208,
+        47.85230964842339
+      ],
+      "eyeAnchors": {
+        "left": [
+          201.03658536585365,
+          134.1219512195122
+        ],
+        "right": [
+          237.2528735632184,
+          129.68965517241378
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "react-0": {
+      "file": "frames/react-0.png",
+      "sheet": "react",
+      "scale": 0.7530659961021279,
+      "anchor": {
+        "x": 134.5076533231265,
+        "y": 490
+      },
+      "head": {
+        "x": 119.81818181818181,
+        "y": 111.26666666666667
+      },
+      "face": {
+        "x": 90.43923880829243,
+        "y": 91.32447159076578,
+        "w": 58.75788601977878,
+        "h": 34.017723485135086,
+        "center": {
+          "x": 119.81818181818181,
+          "y": 111.26666666666667
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "react-v1.png",
+      "facePatch": {
+        "x": 83,
+        "y": 83,
+        "w": 73,
+        "h": 71,
+        "variants": {
+          "neutral": "faces/react-0-neutral.png",
+          "curious": "faces/react-0-curious.png",
+          "smug": "faces/react-0-smug.png",
+          "happy": "faces/react-0-happy.png",
+          "talk": "faces/react-0-talk.png",
+          "sleep": "faces/react-0-sleep.png",
+          "wink": "faces/react-0-wink.png",
+          "surprised": "faces/react-0-surprised.png",
+          "starry": "faces/react-0-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.1303420376367154,
+        0.02432063387683176,
+        -0.02432063387683176,
+        0.1303420376367154,
+        20.312572686148613,
+        46.73945312581603
+      ],
+      "eyeAnchors": {
+        "left": [
+          104.63636363636364,
+          114.2
+        ],
+        "right": [
+          135,
+          108.33333333333333
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "react-1": {
+      "file": "frames/react-1.png",
+      "sheet": "react",
+      "scale": 0.7253233899748577,
+      "anchor": {
+        "x": 142.8117987075972,
+        "y": 491
+      },
+      "head": {
+        "x": 127.56047544409614,
+        "y": 113.01580459770115
+      },
+      "face": {
+        "x": 97.05782891709401,
+        "y": 94.03884892538352,
+        "w": 61.00529305400425,
+        "h": 35.318853873370884,
+        "center": {
+          "x": 127.56047544409614,
+          "y": 113.01580459770115
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "react-v1.png",
+      "facePatch": {
+        "x": 90,
+        "y": 86,
+        "w": 76,
+        "h": 73,
+        "variants": {
+          "neutral": "faces/react-1-neutral.png",
+          "curious": "faces/react-1-curious.png",
+          "smug": "faces/react-1-smug.png",
+          "happy": "faces/react-1-happy.png",
+          "talk": "faces/react-1-talk.png",
+          "sleep": "faces/react-1-sleep.png",
+          "wink": "faces/react-1-wink.png",
+          "surprised": "faces/react-1-surprised.png",
+          "starry": "faces/react-1-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13178933029826326,
+        0.039783088798327856,
+        -0.039783088798327856,
+        0.13178933029826326,
+        32.12678679546265,
+        35.2079758623508
+      ],
+      "eyeAnchors": {
+        "left": [
+          111.56060606060606,
+          114.33333333333333
+        ],
+        "right": [
+          143.56034482758622,
+          111.69827586206897
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "react-2": {
+      "file": "frames/react-2.png",
+      "sheet": "react",
+      "scale": 0.7468470107043019,
+      "anchor": {
+        "x": 133.71355889075707,
+        "y": 487
+      },
+      "head": {
+        "x": 118.90176834659593,
+        "y": 112.52891246684351
+      },
+      "face": {
+        "x": 89.27818725827363,
+        "y": 91.81502292708745,
+        "w": 59.2471621766446,
+        "h": 34.300988628583724,
+        "center": {
+          "x": 118.90176834659593,
+          "y": 112.52891246684351
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "react-v1.png",
+      "facePatch": {
+        "x": 82,
+        "y": 83,
+        "w": 74,
+        "h": 71,
+        "variants": {
+          "neutral": "faces/react-2-neutral.png",
+          "curious": "faces/react-2-curious.png",
+          "smug": "faces/react-2-smug.png",
+          "happy": "faces/react-2-happy.png",
+          "talk": "faces/react-2-talk.png",
+          "sleep": "faces/react-2-sleep.png",
+          "wink": "faces/react-2-wink.png",
+          "surprised": "faces/react-2-surprised.png",
+          "starry": "faces/react-2-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13229764493741417,
+        0.019284139130048523,
+        -0.019284139130048523,
+        0.13229764493741417,
+        16.06268639191844,
+        51.500506893869506
+      ],
+      "eyeAnchors": {
+        "left": [
+          103.72307692307692,
+          116.0923076923077
+        ],
+        "right": [
+          134.08045977011494,
+          108.96551724137932
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "react-3": {
+      "file": "frames/react-3.png",
+      "sheet": "react",
+      "scale": 0.7411052314695986,
+      "anchor": {
+        "x": 166.2701097319165,
+        "y": 487
+      },
+      "head": {
+        "x": 151.34356351236147,
+        "y": 116.66385336743393
+      },
+      "face": {
+        "x": 121.49047107325138,
+        "y": 94.92839539902916,
+        "w": 59.706184878220164,
+        "h": 34.56673861370641,
+        "center": {
+          "x": 151.34356351236147,
+          "y": 116.66385336743393
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "react-v1.png",
+      "facePatch": {
+        "x": 114,
+        "y": 86,
+        "w": 74,
+        "h": 72,
+        "variants": {
+          "neutral": "faces/react-3-neutral.png",
+          "curious": "faces/react-3-curious.png",
+          "smug": "faces/react-3-smug.png",
+          "happy": "faces/react-3-happy.png",
+          "talk": "faces/react-3-talk.png",
+          "sleep": "faces/react-3-sleep.png",
+          "wink": "faces/react-3-wink.png",
+          "surprised": "faces/react-3-surprised.png",
+          "starry": "faces/react-3-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13420969000700153,
+        0.01184677959675342,
+        -0.01184677959675342,
+        0.13420969000700153,
+        44.388940024164924,
+        61.134614771033085
+      ],
+      "eyeAnchors": {
+        "left": [
+          136.2753623188406,
+          121.1159420289855
+        ],
+        "right": [
+          166.41176470588235,
+          112.21176470588236
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "react-4": {
+      "file": "frames/react-4.png",
+      "sheet": "react",
+      "scale": 0.7298653488865008,
+      "anchor": {
+        "x": 134.43885232845608,
+        "y": 473
+      },
+      "head": {
+        "x": 119.28243819266837,
+        "y": 124.23819266837171
+      },
+      "face": {
+        "x": 88.96960992109291,
+        "y": 101.52105607806624,
+        "w": 60.625656543150896,
+        "h": 35.09906431445579,
+        "center": {
+          "x": 119.28243819266837,
+          "y": 124.23819266837171
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "react-v1.png",
+      "facePatch": {
+        "x": 81,
+        "y": 93,
+        "w": 75,
+        "h": 73,
+        "variants": {
+          "neutral": "faces/react-4-neutral.png",
+          "curious": "faces/react-4-curious.png",
+          "smug": "faces/react-4-smug.png",
+          "happy": "faces/react-4-happy.png",
+          "talk": "faces/react-4-talk.png",
+          "sleep": "faces/react-4-sleep.png",
+          "wink": "faces/react-4-wink.png",
+          "surprised": "faces/react-4-surprised.png",
+          "starry": "faces/react-4-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13666494331690804,
+        0.0062195566241496835,
+        -0.0062195566241496835,
+        0.13666494331690804,
+        8.379843989264424,
+        72.5260399049635
+      ],
+      "eyeAnchors": {
+        "left": [
+          104.18840579710145,
+          129.40579710144928
+        ],
+        "right": [
+          134.3764705882353,
+          119.07058823529412
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "react-5": {
+      "file": "frames/react-5.png",
+      "sheet": "react",
+      "scale": 0.7409591011155188,
+      "anchor": {
+        "x": 133.19031171757297,
+        "y": 478
+      },
+      "head": {
+        "x": 118.26082171680117,
+        "y": 119.77622890682318
+      },
+      "face": {
+        "x": 88.40184171525758,
+        "y": 97.48981784905034,
+        "w": 59.717960003087214,
+        "h": 34.57355579126102,
+        "center": {
+          "x": 118.26082171680117,
+          "y": 119.77622890682318
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "react-v1.png",
+      "facePatch": {
+        "x": 81,
+        "y": 89,
+        "w": 74,
+        "h": 72,
+        "variants": {
+          "neutral": "faces/react-5-neutral.png",
+          "curious": "faces/react-5-curious.png",
+          "smug": "faces/react-5-smug.png",
+          "happy": "faces/react-5-happy.png",
+          "talk": "faces/react-5-talk.png",
+          "sleep": "faces/react-5-sleep.png",
+          "wink": "faces/react-5-wink.png",
+          "surprised": "faces/react-5-surprised.png",
+          "starry": "faces/react-5-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13457898711441,
+        0.00694579296772986,
+        -0.00694579296772986,
+        0.13457898711441,
+        9.330778326938063,
+        68.1742682632754
+      ],
+      "eyeAnchors": {
+        "left": [
+          103.36206896551724,
+          124.77586206896552
+        ],
+        "right": [
+          133.1595744680851,
+          114.77659574468085
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "react-6": {
+      "file": "frames/react-6.png",
+      "sheet": "react",
+      "scale": 0.6940924693543435,
+      "anchor": {
+        "x": 237.68153751031966,
+        "y": 482
+      },
+      "head": {
+        "x": 221.74397590361446,
+        "y": 113.7057164829531
+      },
+      "face": {
+        "x": 189.86885269020402,
+        "y": 94.42549936978838,
+        "w": 63.75024642682086,
+        "h": 36.90803740500155,
+        "center": {
+          "x": 221.74397590361446,
+          "y": 113.7057164829531
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "react-v1.png",
+      "facePatch": {
+        "x": 182,
+        "y": 86,
+        "w": 78,
+        "h": 76,
+        "variants": {
+          "neutral": "faces/react-6-neutral.png",
+          "curious": "faces/react-6-curious.png",
+          "smug": "faces/react-6-smug.png",
+          "happy": "faces/react-6-happy.png",
+          "talk": "faces/react-6-talk.png",
+          "sleep": "faces/react-6-sleep.png",
+          "wink": "faces/react-6-wink.png",
+          "surprised": "faces/react-6-surprised.png",
+          "starry": "faces/react-6-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.13108332430332761,
+        0.05926276981226902,
+        -0.05926276981226902,
+        0.13108332430332761,
+        133.53185551829318,
+        20.028763091847715
+      ],
+      "eyeAnchors": {
+        "left": [
+          204.9879518072289,
+          112.87951807228916
+        ],
+        "right": [
+          238.5,
+          114.53191489361703
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "react-7": {
+      "file": "frames/react-7.png",
+      "sheet": "react",
+      "scale": 0.8310754898844415,
+      "anchor": {
+        "x": 266.53071979266934,
+        "y": 477
+      },
+      "head": {
+        "x": 253.22008601062487,
+        "y": 104.98444219580065
+      },
+      "face": {
+        "x": 226.59881844653594,
+        "y": 88.452093979399,
+        "w": 53.24253512817786,
+        "h": 30.82462560052403,
+        "center": {
+          "x": 253.22008601062487,
+          "y": 104.98444219580065
+        }
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true,
+      "source": "react-v1.png",
+      "facePatch": {
+        "x": 219,
+        "y": 80,
+        "w": 68,
+        "h": 65,
+        "variants": {
+          "neutral": "faces/react-7-neutral.png",
+          "curious": "faces/react-7-curious.png",
+          "smug": "faces/react-7-smug.png",
+          "happy": "faces/react-7-happy.png",
+          "talk": "faces/react-7-talk.png",
+          "sleep": "faces/react-7-sleep.png",
+          "wink": "faces/react-7-wink.png",
+          "surprised": "faces/react-7-surprised.png",
+          "starry": "faces/react-7-starry.png"
+        }
+      },
+      "v5Transform": [
+        0.11494504026776081,
+        0.03496649820559568,
+        -0.03496649820559568,
+        0.11494504026776081,
+        170.0753719727434,
+        36.89962570853352
+      ],
+      "eyeAnchors": {
+        "left": [
+          239.2537313432836,
+          106.1044776119403
+        ],
+        "right": [
+          267.1864406779661,
+          103.86440677966101
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "phase-6": {
+      "file": "frames/phase-6.png",
+      "sheet": "phase",
+      "scale": 0.7315150135391724,
+      "anchor": {
+        "x": 175.5,
+        "y": 407
+      },
+      "head": {
+        "x": 175.5,
+        "y": 203.5
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true
+    },
+    "phase-7": {
+      "file": "frames/phase-7.png",
+      "sheet": "phase",
+      "scale": 0.7315150135391724,
+      "anchor": {
+        "x": 29,
+        "y": 247
+      },
+      "head": {
+        "x": 29,
+        "y": 43.5
+      },
+      "modelFamily": "sprite-generated-v2",
+      "motionBaked": true
+    }
+  }
+}

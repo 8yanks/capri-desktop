@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "pose": "base-a-v1/frames/key-0.png",
+  "sourceDimensions": [
+    274,
+    523
+  ],
+  "coordinateSpace": "source-image pixels before facing and body transforms",
+  "leftEye": {
+    "x": 114,
+    "y": 118,
+    "width": 14,
+    "angle": 0
+  },
+  "rightEye": {
+    "x": 138,
+    "y": 118,
+    "width": 14,
+    "angle": 0
+  },
+  "mouth": {
+    "x": 126,
+    "y": 136,
+    "width": 25,
+    "angle": 0
+  },
+  "note": "Snapshot of A1_MIMIC_ANCHORS in faithful-mimics.js; this one pose only. Optical centres in component frames.json are distinct from silhouette centres.",
+  "eyeWidthUnits": "outer green optical ring diameter, source A1 pixels",
+  "mouthSourceCompensation": {
+    "neutral": 0.29,
+    "small": 0.06,
+    "open": 0.28,
+    "laugh": 0.09,
+    "smirk": 0.35,
+    "surprised": 0.08
+  }
+}

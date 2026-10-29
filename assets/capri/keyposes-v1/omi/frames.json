@@ -1,0 +1,276 @@
+{
+  "version": 1,
+  "sheets": {
+    "key": {
+      "file": "poses.png",
+      "width": 1536,
+      "height": 1024
+    }
+  },
+  "frames": {
+    "key-0": {
+      "file": "frames/key-0.png",
+      "sheet": "key",
+      "rect": {
+        "x": 83,
+        "y": 5,
+        "w": 259,
+        "h": 529
+      },
+      "face": {
+        "x": 100,
+        "y": 127,
+        "w": 48,
+        "h": 27,
+        "center": {
+          "x": 124,
+          "y": 140.5
+        },
+        "green": 805,
+        "blue": 85
+      },
+      "head": {
+        "x": 124,
+        "y": 140.5
+      },
+      "anchor": {
+        "x": 72.81818181818181,
+        "y": 529
+      },
+      "support": "floor",
+      "scale": 0.7939508506616257,
+      "modelFamily": "canonical-key"
+    },
+    "key-1": {
+      "file": "frames/key-1.png",
+      "sheet": "key",
+      "rect": {
+        "x": 448,
+        "y": 3,
+        "w": 267,
+        "h": 531
+      },
+      "face": {
+        "x": 107,
+        "y": 129,
+        "w": 49,
+        "h": 28,
+        "center": {
+          "x": 131.5,
+          "y": 143
+        },
+        "green": 833,
+        "blue": 111
+      },
+      "head": {
+        "x": 131.5,
+        "y": 143
+      },
+      "anchor": {
+        "x": 163.47727272727272,
+        "y": 531
+      },
+      "support": "floor",
+      "scale": 0.7939508506616257,
+      "modelFamily": "canonical-key"
+    },
+    "key-2": {
+      "file": "frames/key-2.png",
+      "sheet": "key",
+      "rect": {
+        "x": 752,
+        "y": 4,
+        "w": 342,
+        "h": 533
+      },
+      "face": {
+        "x": 175,
+        "y": 128,
+        "w": 51,
+        "h": 30,
+        "center": {
+          "x": 200.5,
+          "y": 143
+        },
+        "green": 880,
+        "blue": 101
+      },
+      "head": {
+        "x": 200.5,
+        "y": 143
+      },
+      "anchor": {
+        "x": 204.80392156862746,
+        "y": 533
+      },
+      "support": "floor",
+      "scale": 0.7939508506616257,
+      "modelFamily": "canonical-key"
+    },
+    "key-3": {
+      "file": "frames/key-3.png",
+      "sheet": "key",
+      "rect": {
+        "x": 1199,
+        "y": 3,
+        "w": 332,
+        "h": 536
+      },
+      "face": {
+        "x": 139,
+        "y": 129,
+        "w": 48,
+        "h": 28,
+        "center": {
+          "x": 163,
+          "y": 143
+        },
+        "green": 813,
+        "blue": 104
+      },
+      "head": {
+        "x": 163,
+        "y": 143
+      },
+      "anchor": {
+        "x": 215.14285714285714,
+        "y": 536
+      },
+      "support": "floor",
+      "scale": 0.7939508506616257,
+      "modelFamily": "canonical-key"
+    },
+    "key-4": {
+      "file": "frames/key-4.png",
+      "sheet": "key",
+      "rect": {
+        "x": 32,
+        "y": 510,
+        "w": 266,
+        "h": 513
+      },
+      "face": {
+        "x": 102,
+        "y": 151,
+        "w": 42,
+        "h": 26,
+        "center": {
+          "x": 123,
+          "y": 164
+        },
+        "green": 613,
+        "blue": 107
+      },
+      "head": {
+        "x": 123,
+        "y": 164
+      },
+      "anchor": {
+        "x": 178.6578947368421,
+        "y": 513
+      },
+      "support": "floor",
+      "scale": 0.7939508506616257,
+      "modelFamily": "canonical-key"
+    },
+    "key-5": {
+      "file": "frames/key-5.png",
+      "sheet": "key",
+      "rect": {
+        "x": 407,
+        "y": 606,
+        "w": 288,
+        "h": 406
+      },
+      "face": {
+        "x": 111,
+        "y": 129,
+        "w": 53,
+        "h": 30,
+        "center": {
+          "x": 137.5,
+          "y": 144
+        },
+        "green": 950,
+        "blue": 107
+      },
+      "head": {
+        "x": 137.5,
+        "y": 144
+      },
+      "anchor": {
+        "x": 195.51282051282053,
+        "y": 406
+      },
+      "support": "floor",
+      "scale": 0.7939508506616257,
+      "modelFamily": "canonical-key"
+    },
+    "key-6": {
+      "file": "frames/key-6.png",
+      "sheet": "key",
+      "rect": {
+        "x": 706,
+        "y": 545,
+        "w": 366,
+        "h": 458
+      },
+      "face": {
+        "x": 162,
+        "y": 119,
+        "w": 51,
+        "h": 29,
+        "center": {
+          "x": 187.5,
+          "y": 133.5
+        },
+        "green": 828,
+        "blue": 95
+      },
+      "head": {
+        "x": 187.5,
+        "y": 133.5
+      },
+      "anchor": {
+        "x": 138.36486486486487,
+        "y": 458
+      },
+      "support": "floor",
+      "scale": 0.7939508506616257,
+      "modelFamily": "canonical-key"
+    },
+    "key-7": {
+      "file": "frames/key-7.png",
+      "sheet": "key",
+      "rect": {
+        "x": 1050,
+        "y": 721,
+        "w": 483,
+        "h": 267
+      },
+      "face": {
+        "x": 96,
+        "y": 129,
+        "w": 52,
+        "h": 32,
+        "center": {
+          "x": 122,
+          "y": 145
+        },
+        "green": 940,
+        "blue": 99
+      },
+      "head": {
+        "x": 122,
+        "y": 145
+      },
+      "anchor": {
+        "x": 309.3105590062112,
+        "y": 267
+      },
+      "support": "floor",
+      "scale": 0.7939508506616257,
+      "modelFamily": "canonical-key"
+    }
+  }
+}

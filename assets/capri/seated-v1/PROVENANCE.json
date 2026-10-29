@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "date": "2026-10-27",
+  "method": "Built-in image generation from shared canonical model, followed by mechanical alpha-component extraction.",
+  "source_review": "All sheets reviewed for anatomy, identity, costume perspective, and source edge clipping; native scene matrix validates runtime selection.",
+  "files": [
+    {
+      "file": "badlands/frames/seat-0.png",
+      "sha256": "6f1e6f25f6d767a9b35c22391c14226d55e3ffe97947be866140c62b9b0342fc"
+    },
+    {
+      "file": "badlands/frames/seat-1.png",
+      "sha256": "be301b32d075376b8439c2098fffef234b62209cc41182e547b726da999e9465"
+    },
+    {
+      "file": "badlands/frames/seat-2.png",
+      "sha256": "b2d99bff969eb60eaf220f9e48eff3ac384e42f78c706b65caa14af589a59a43"
+    },
+    {
+      "file": "badlands/frames/seat-3.png",
+      "sha256": "0c463945c8c52b38e587e29a086b15bafcfbbc2da849331c8c95f2b86073dcb6"
+    },
+    {
+      "file": "badlands/frames.json",
+      "sha256": "ce0718c4d8c827ab47f2d1cf73bda3936000e47d9afaa2e5d36d3ee2778fa7cf"
+    },
+    {
+      "file": "badlands/poses.png",
+      "sha256": "f78afca6e8f9692a6b255b251c0bc60707e1817ae6ad5e5bf71a21b758994211"
+    },
+    {
+      "file": "creator/frames/seat-0.png",
+      "sha256": "839c9f3dbd888efaf7fc8262e40fa477051fc3b6f0db81e37dffb6c9952b9e75"
+    },
+    {
+      "file": "creator/frames/seat-1.png",
+      "sha256": "5e25f9bc96bd3c6b4c926b7663b68b9d6b5856171a433be30686fc8648b26ea6"
+    },
+    {
+      "file": "creator/frames/seat-2.png",
+      "sha256": "74ae0d4478f2c1fabd8e7116783e6ff521a543f1912c64b7538e7297d77af925"
+    },
+    {
+      "file": "creator/frames/seat-3.png",
+      "sha256": "ab9b660ade075d0a2c2089b50bc6a7882733129e3bb3368c08dd78bc9cc5c52e"
+    },
+    {
+      "file": "creator/frames.json",
+      "sha256": "ed9374a52dfd3b9fd3dd245390f6b22d5bafdf5fd795e31a1b2bd0fee8bef857"
+    },
+    {
+      "file": "creator/poses.png",
+      "sha256": "827161bae30dbda07fa3f0368ee3bc3f138832e8407d853f9dffa8eb2ab51fbb"
+    },
+    {
+      "file": "david/frames/seat-0.png",
+      "sha256": "a06fc052735db74849cf44d36b845d5e05ecccc079f7893d63ed08a0250b21c7"
+    },
+    {
+      "file": "david/frames/seat-1.png",
+      "sha256": "000190dabad325015b0a76ebd4d2a7c66c4cd41a27009d56d0f5b7bd167226ca"
+    },
+    {
+      "file": "david/frames/seat-2.png",
+      "sha256": "e753478a88b701a2fc78d880037a4a3bf17daa9f8011599864e0b1222085c7f5"
+    },
+    {
+      "file": "david/frames/seat-3.png",
+      "sha256": "861a54a3eef5c2f7c86c8faad616ea6b4ec0b09d1920d49bae35fe3cc9bc7736"
+    },
+    {
+      "file": "david/frames.json",
+      "sha256": "5b47faafe0fbf53c3c7d7a68b90a3c305d531074250902cf5ec21560fe022a89"
+    },
+    {
+      "file": "david/poses.png",
+      "sha256": "16f4037b904f6860610c3c36b0fbc00bc70392c4230a08ce44f6ccd714f5fed3"
+    },
+    {
+      "file": "default/frames/seat-0.png",
+      "sha256": "23f2d0730611a8dd5dfb7c9e462cf456bd4c23a54b277b6569128ff3bd7f0b44"
+    },
+    {
+      "file": "default/frames/seat-1.png",
+      "sha256": "e975ebe26a4c851dc06ac340612c12571a11c0a7b2cfff8399e04cd2b1858a2d"
+    },
+    {
+      "file": "default/frames/seat-2.png",
+      "sha256": "696cca42950ce8bcd51d1ff55ef00b71fc64db66bbeeed5591222ed97394b6a4"
+    },
+    {
+      "file": "default/frames/seat-3.png",
+      "sha256": "d33ed5f01765bf44d597227fcad668f1a65caaed1284726b030d2257a510407e"
+    },
+    {
+      "file": "default/frames.json",
+      "sha256": "167157436cfbaa0e345cb0803f73bf45b9703f7794531e30c68e9d8453330bb3"
+    },
+    {
+      "file": "default/poses.png",
+      "sha256": "b25a6d45ce21956ac7bbee5187743d3413ebcce7b3518c9a80ec69708a4de318"
+    },
+    {
+      "file": "king/frames/seat-0.png",
+      "sha256": "1615500ac5b0b782fc284b489f9066c9befeb0f23364ae4dd7235da940ff5cb9"
+    },
+    {
+      "file": "king/frames/seat-1.png",
+      "sha256": "874b40cf3e7fb45d3eebfba3272ee53f6dce414702b9600790f75f40891310dc"
+    },
+    {
+      "file": "king/frames/seat-2.png",
+      "sha256": "e7eeed10abacb1b7c581b9ca6e6ae4386f5b15f1a9eb1eaedcc739211ac4eab7"
+    },
+    {
+      "file": "king/frames/seat-3.png",
+      "sha256": "1ea461f34bd969cc15bfe7ee2c7fbe8b51f0e4340edab3a72738d2372e286a54"
+    },
+    {
+      "file": "king/frames.json",
+      "sha256": "cbe367afe9b2e1f3bdbc4121d37c67ae4b0e7c46729de8f72b432a736f87941b"
+    },
+    {
+      "file": "king/poses.png",
+      "sha256": "33777b3840686b0a5e567a08a78b645455dd5baa5f3eb991e179c5b994926c1a"
+    },
+    {
+      "file": "league/frames/seat-0.png",
+      "sha256": "d398e8d175507d8258dfd67e220eb87c17b2814d5087e64eea22d8b8047e8cba"
+    },
+    {
+      "file": "league/frames/seat-1.png",
+      "sha256": "eed5adabf6effeb3d786c10adcefff0ac72c47c252c7f07e06830e292366262c"
+    },
+    {
+      "file": "league/frames/seat-2.png",
+      "sha256": "6b8a32c317bd122a0f6e4e394914e7e3994db97c23d592a42c1c262277f076a5"
+    },
+    {
+      "file": "league/frames/seat-3.png",
+      "sha256": "c668a9935bce8aff8a58adf18322d95a8297d542781e20aeaa6b0e586577ec06"
+    },
+    {
+      "file": "league/frames.json",
+      "sha256": "4669dce9b555b88ed1512c6c03775fc6fb1b29bababe83a45135480217fc5274"
+    },
+    {
+      "file": "league/poses.png",
+      "sha256": "12ed3a6f15f708cb726bcdf21726f0c448562bce4544a7bed5c5fa8172e2437d"
+    },
+    {
+      "file": "lucy/frames/seat-0.png",
+      "sha256": "a7ee4efab78fb183a4d27edbf01fa7fc18da3ea11ba7f1c539833fa2b7fcd504"
+    },
+    {
+      "file": "lucy/frames/seat-1.png",
+      "sha256": "0282931d469f951d3ca90d787fc5f9daa80caea020df1bd5165ddac7d1d1cc7b"
+    },
+    {
+      "file": "lucy/frames/seat-2.png",
+      "sha256": "bc58477aa99a5438cbc7266c8ce268b4ce77ab6af88371e0b2a674ce94148172"
+    },
+    {
+      "file": "lucy/frames/seat-3.png",
+      "sha256": "4f871361db1b7461c22bc39e0cd89b8b09b92d7a332b74eb780c2b4432e65884"
+    },
+    {
+      "file": "lucy/frames.json",
+      "sha256": "176bb859440921c09b4021820b2efe9684db124da3996892a942bbdd302ad915"
+    },
+    {
+      "file": "lucy/poses.png",
+      "sha256": "75a34f307d735bcafb1161b463e299e5787d9de452f93f3dc4af0e2cebf33aea"
+    },
+    {
+      "file": "netrunner/frames/seat-0.png",
+      "sha256": "15f1b56c6a4707abfd6202a97a87892aa7cbf0c5fc73fa1a9a02e9dbacb848f5"
+    },
+    {
+      "file": "netrunner/frames/seat-1.png",
+      "sha256": "abe281616dfa8243206abe45dc06a7ecec94d7135cbc3dbea3854ab399bef791"
+    },
+    {
+      "file": "netrunner/frames/seat-2.png",
+      "sha256": "c9d2557f998c635120a48a10da9efdd362520c78706860a5c3a1878db5aa6cc8"
+    },
+    {
+      "file": "netrunner/frames/seat-3.png",
+      "sha256": "63290d7f99b101f88257afe36d44b1be93d2b2af32ebce87cdf543b23cf0f455"
+    },
+    {
+      "file": "netrunner/frames.json",
+      "sha256": "fceb72abfa2e1a2cf6d8384f6c53a723e509fc0585e2f256104a96e8b09623bd"
+    },
+    {
+      "file": "netrunner/poses.png",
+      "sha256": "7170740075deac54a545b1cd80f3c51700e900bb869e8c3702e744591e35fbbe"
+    },
+    {
+      "file": "omi/frames/seat-0.png",
+      "sha256": "039e876a3dc3ddf9554658a8c321538467407e8800a06590b64d578f65c2d199"
+    },
+    {
+      "file": "omi/frames/seat-1.png",
+      "sha256": "73cbdc23dceaee316a5ea5d89a6aea07e7c796c2ba35f9a8cac818dfdb76b587"
+    },
+    {
+      "file": "omi/frames/seat-2.png",
+      "sha256": "af65dfb6c3e47e5733d3701f63c760676d1c74823012174e63a6191219c5f28e"
+    },
+    {
+      "file": "omi/frames/seat-3.png",
+      "sha256": "282335c236ee67b3a223ec780a5cbb5dbb7ece07431ad78ce750d7cf587b1141"
+    },
+    {
+      "file": "omi/frames.json",
+      "sha256": "1020d44d29118cad8930d41cd298fcacb9e91209c5bb0fa4e689b5cea862aed3"
+    },
+    {
+      "file": "omi/poses.png",
+      "sha256": "03a203ccaa64bf0e8e8b9aa1726f599d47fcc2deaf769db5d55c140d913a838b"
+    },
+    {
+      "file": "roman/frames/seat-0.png",
+      "sha256": "207a926484abd4a535826b305b7f5f2c1c7eaf22d237c1cd9b67ea3fee614348"
+    },
+    {
+      "file": "roman/frames/seat-1.png",
+      "sha256": "7260d7556c427310188c0f5f2b139cab5d5e087fad4b9dda50abcf91e578ab82"
+    },
+    {
+      "file": "roman/frames/seat-2.png",
+      "sha256": "4a2b17e66b801d21d2918e2619de35ca6c2ff7d1a39e0dd1ff96943182aeb475"
+    },
+    {
+      "file": "roman/frames/seat-3.png",
+      "sha256": "2e5fa864f905f1d58473a75b7a60f62389c45edf0923a9345fbc17c6cdaa735c"
+    },
+    {
+      "file": "roman/frames.json",
+      "sha256": "e423d20055ab5262c058bd2ce1d49756a3bc80200c6e98b4e3cc0088705a07ee"
+    },
+    {
+      "file": "roman/poses.png",
+      "sha256": "3b7c6ab7854ffceb56c402d9f851a17d6f6494cc7d2d2c36806ca762000f9f9b"
+    },
+    {
+      "file": "stage/frames/seat-0.png",
+      "sha256": "f6c67f06967928eccb2343775de05e28b23fcc345d038d9de7e94300f1a3b069"
+    },
+    {
+      "file": "stage/frames/seat-1.png",
+      "sha256": "0ec9bc3e354c74a26edcacb469141ffe8baa478f1dde10c8485030a24c8161a8"
+    },
+    {
+      "file": "stage/frames/seat-2.png",
+      "sha256": "f1a5e6159c1cb9896223fdc7258f3e32d2172272df67661e0a6db878639c3915"
+    },
+    {
+      "file": "stage/frames/seat-3.png",
+      "sha256": "f60301dbb418a888c711d3c30a8dcdb7128c3c20d796367d65c40757b67e7d4b"
+    },
+    {
+      "file": "stage/frames.json",
+      "sha256": "303083c8fbf4e0e1fecbfde407dcd9d1c630de5ee477ea1d2884cd1ec27ec544"
+    },
+    {
+      "file": "stage/poses.png",
+      "sha256": "9d66879ecb716054266dd3fe18fa9c9b7b3b0b4348d6f40eb48149cf0c51b70a"
+    },
+    {
+      "file": "talia/frames/seat-0.png",
+      "sha256": "b81f2fdcc72ce3e0490ba43c8f1d323d34430db49ee1738daa4b453063cf9b12"
+    },
+    {
+      "file": "talia/frames/seat-1.png",
+      "sha256": "3a1f35b393f822798bc0622a95cc8e929c832e6c01ae47e778857c7dc70afd0a"
+    },
+    {
+      "file": "talia/frames/seat-2.png",
+      "sha256": "fa54f79ac77c0327e4c622af010b2ebc467aa3d670b9df62fc059b8430de3191"
+    },
+    {
+      "file": "talia/frames/seat-3.png",
+      "sha256": "6cb4a80cf2cf63348c85bf99748063a74acc098c353e1a3d892981b5a67053a5"
+    },
+    {
+      "file": "talia/frames.json",
+      "sha256": "dbb596b9066a69c9cf80b8839ffe26915c972ac39f460324d431123c1167c165"
+    },
+    {
+      "file": "talia/poses.png",
+      "sha256": "ad9c47d4d5cb488737186e98c912f574f808b213339ee0009bae5e3c3ff52f06"
+    }
+  ]
+}

@@ -1,0 +1,1372 @@
+{
+  "version": 1,
+  "status": "calibration-review-required",
+  "frames": {
+    "greet-0": {
+      "file": "raw-cels/greet-0.png",
+      "source": "greet-v1.png",
+      "sourceRect": [
+        182,
+        3,
+        263,
+        500
+      ],
+      "size": [
+        263,
+        500
+      ],
+      "eyeAnchors": {
+        "left": [
+          107.41791044776119,
+          115.74626865671642
+        ],
+        "right": [
+          137.02985074626866,
+          110.43283582089552
+        ]
+      },
+      "reviewRequired": true
+    },
+    "greet-1": {
+      "file": "raw-cels/greet-1.png",
+      "source": "greet-v1.png",
+      "sourceRect": [
+        651,
+        3,
+        261,
+        499
+      ],
+      "size": [
+        261,
+        499
+      ],
+      "eyeAnchors": {
+        "left": [
+          109.30909090909091,
+          116.14545454545454
+        ],
+        "right": [
+          138.5072463768116,
+          110.73913043478261
+        ]
+      },
+      "reviewRequired": true
+    },
+    "greet-2": {
+      "file": "raw-cels/greet-2.png",
+      "source": "greet-v1.png",
+      "sourceRect": [
+        1101,
+        4,
+        260,
+        497
+      ],
+      "size": [
+        260,
+        497
+      ],
+      "eyeAnchors": {
+        "left": [
+          108.13793103448276,
+          114.87931034482759
+        ],
+        "right": [
+          136.9090909090909,
+          109.58181818181818
+        ]
+      },
+      "reviewRequired": true
+    },
+    "greet-3": {
+      "file": "raw-cels/greet-3.png",
+      "source": "greet-v1.png",
+      "sourceRect": [
+        177,
+        515,
+        268,
+        498
+      ],
+      "size": [
+        268,
+        498
+      ],
+      "eyeAnchors": {
+        "left": [
+          112.2089552238806,
+          114.86567164179104
+        ],
+        "right": [
+          141.08196721311475,
+          109.47540983606558
+        ]
+      },
+      "reviewRequired": true
+    },
+    "greet-4": {
+      "file": "raw-cels/greet-4.png",
+      "source": "greet-v1.png",
+      "sourceRect": [
+        648,
+        515,
+        265,
+        498
+      ],
+      "size": [
+        265,
+        498
+      ],
+      "eyeAnchors": {
+        "left": [
+          111.98333333333333,
+          115.13333333333334
+        ],
+        "right": [
+          140.76923076923077,
+          109.3076923076923
+        ]
+      },
+      "reviewRequired": true
+    },
+    "greet-5": {
+      "file": "raw-cels/greet-5.png",
+      "source": "greet-v1.png",
+      "sourceRect": [
+        1102,
+        515,
+        263,
+        498
+      ],
+      "size": [
+        263,
+        498
+      ],
+      "eyeAnchors": {
+        "left": [
+          110.98305084745763,
+          115.13559322033899
+        ],
+        "right": [
+          140.046875,
+          108.875
+        ]
+      },
+      "reviewRequired": true
+    },
+    "rest-0": {
+      "file": "raw-cels/rest-0.png",
+      "source": "rest-v1.png",
+      "sourceRect": [
+        37,
+        13,
+        333,
+        579
+      ],
+      "size": [
+        333,
+        579
+      ],
+      "eyeAnchors": {
+        "left": [
+          132.98717948717947,
+          144.43589743589743
+        ],
+        "right": [
+          167,
+          137.97368421052633
+        ]
+      },
+      "reviewRequired": true
+    },
+    "rest-1": {
+      "file": "raw-cels/rest-1.png",
+      "source": "rest-crouch-v2.png",
+      "sourceRect": [
+        40,
+        19,
+        1109,
+        1280
+      ],
+      "size": [
+        1109,
+        1280
+      ],
+      "eyeAnchors": {
+        "left": [
+          407.3384879725086,
+          489.86254295532643
+        ],
+        "right": [
+          514.054519368723,
+          475.7747489239598
+        ]
+      },
+      "reviewRequired": true
+    },
+    "rest-2": {
+      "file": "raw-cels/rest-2.png",
+      "source": "rest-seated-floor-v2.png",
+      "sourceRect": [
+        22,
+        39,
+        1477,
+        929
+      ],
+      "size": [
+        1477,
+        929
+      ],
+      "eyeAnchors": {
+        "left": [
+          937.0552763819095,
+          369.95979899497485
+        ],
+        "right": [
+          1018.982683982684,
+          354.3874458874459
+        ]
+      },
+      "reviewRequired": true
+    },
+    "rest-3": {
+      "file": "raw-cels/rest-3.png",
+      "source": "rest-half-recline-v2.png",
+      "sourceRect": [
+        13,
+        65,
+        1715,
+        800
+      ],
+      "size": [
+        1715,
+        800
+      ],
+      "eyeAnchors": {
+        "left": [
+          331.7253886010363,
+          404.28756476683935
+        ],
+        "right": [
+          416.89821882951657,
+          367.3180661577608
+        ]
+      },
+      "reviewRequired": true
+    },
+    "rest-4": {
+      "file": "raw-cels/rest-4.png",
+      "source": "rest-v1.png",
+      "sourceRect": [
+        477,
+        698,
+        534,
+        247
+      ],
+      "size": [
+        534,
+        247
+      ],
+      "eyeAnchors": {
+        "left": [
+          112.12676056338029,
+          150.7887323943662
+        ],
+        "right": [
+          143.35135135135135,
+          136.86486486486487
+        ]
+      },
+      "reviewRequired": true
+    },
+    "rest-5": {
+      "file": "raw-cels/rest-5.png",
+      "source": "rest-v1.png",
+      "sourceRect": [
+        1024,
+        703,
+        501,
+        240
+      ],
+      "size": [
+        501,
+        240
+      ],
+      "eyeAnchors": {
+        "left": [
+          127.04054054054055,
+          142.93243243243242
+        ],
+        "right": [
+          158.8082191780822,
+          130.1095890410959
+        ]
+      },
+      "reviewRequired": true
+    },
+    "airborne-0": {
+      "file": "raw-cels/airborne-0.png",
+      "source": "airborne-v1.png",
+      "sourceRect": [
+        35,
+        7,
+        332,
+        498
+      ],
+      "size": [
+        332,
+        498
+      ],
+      "eyeAnchors": {
+        "left": [
+          155.06024096385542,
+          137.25301204819277
+        ],
+        "right": [
+          189.25471698113208,
+          129.96226415094338
+        ]
+      },
+      "reviewRequired": true
+    },
+    "airborne-1": {
+      "file": "raw-cels/airborne-1.png",
+      "source": "airborne-v1.png",
+      "sourceRect": [
+        400,
+        40,
+        339,
+        457
+      ],
+      "size": [
+        339,
+        457
+      ],
+      "eyeAnchors": {
+        "left": [
+          143.9673913043478,
+          147.5326086956522
+        ],
+        "right": [
+          178.45263157894738,
+          134.70526315789473
+        ]
+      },
+      "reviewRequired": true
+    },
+    "airborne-2": {
+      "file": "raw-cels/airborne-2.png",
+      "source": "airborne-v1.png",
+      "sourceRect": [
+        773,
+        39,
+        367,
+        458
+      ],
+      "size": [
+        367,
+        458
+      ],
+      "eyeAnchors": {
+        "left": [
+          158.67391304347825,
+          142.80434782608697
+        ],
+        "right": [
+          195.92857142857142,
+          145.3452380952381
+        ]
+      },
+      "reviewRequired": true
+    },
+    "airborne-3": {
+      "file": "raw-cels/airborne-3.png",
+      "source": "airborne-v1.png",
+      "sourceRect": [
+        1189,
+        88,
+        322,
+        404
+      ],
+      "size": [
+        322,
+        404
+      ],
+      "eyeAnchors": {
+        "left": [
+          149.43617021276594,
+          128.31914893617022
+        ],
+        "right": [
+          184.41975308641975,
+          131.11111111111111
+        ]
+      },
+      "reviewRequired": true
+    },
+    "airborne-4": {
+      "file": "raw-cels/airborne-4.png",
+      "source": "airborne-v1.png",
+      "sourceRect": [
+        45,
+        646,
+        361,
+        346
+      ],
+      "size": [
+        361,
+        346
+      ],
+      "eyeAnchors": {
+        "left": [
+          144.07920792079207,
+          155.87128712871288
+        ],
+        "right": [
+          182.44897959183675,
+          154.71428571428572
+        ]
+      },
+      "reviewRequired": true
+    },
+    "airborne-5": {
+      "file": "raw-cels/airborne-5.png",
+      "source": "airborne-v1.png",
+      "sourceRect": [
+        392,
+        583,
+        360,
+        403
+      ],
+      "size": [
+        360,
+        403
+      ],
+      "eyeAnchors": {
+        "left": [
+          176.57142857142858,
+          134.8
+        ],
+        "right": [
+          208.28947368421052,
+          126.02631578947368
+        ]
+      },
+      "reviewRequired": true
+    },
+    "airborne-6": {
+      "file": "raw-cels/airborne-6.png",
+      "source": "airborne-v1.png",
+      "sourceRect": [
+        814,
+        530,
+        297,
+        466
+      ],
+      "size": [
+        297,
+        466
+      ],
+      "eyeAnchors": {
+        "left": [
+          124.85915492957747,
+          121.8169014084507
+        ],
+        "right": [
+          156.7012987012987,
+          116.27272727272727
+        ]
+      },
+      "reviewRequired": true
+    },
+    "airborne-7": {
+      "file": "raw-cels/airborne-7.png",
+      "source": "airborne-v1.png",
+      "sourceRect": [
+        1184,
+        510,
+        312,
+        499
+      ],
+      "size": [
+        312,
+        499
+      ],
+      "eyeAnchors": {
+        "left": [
+          129.38888888888889,
+          127.63888888888889
+        ],
+        "right": [
+          160.98666666666668,
+          122.37333333333333
+        ]
+      },
+      "reviewRequired": true
+    },
+    "guide-0": {
+      "file": "raw-cels/guide-0.png",
+      "source": "guide-v2.png",
+      "sourceRect": [
+        133,
+        11,
+        297,
+        502
+      ],
+      "size": [
+        297,
+        502
+      ],
+      "eyeAnchors": {
+        "left": [
+          121.68852459016394,
+          124.45901639344262
+        ],
+        "right": [
+          153.275,
+          117.55
+        ]
+      },
+      "reviewRequired": true
+    },
+    "guide-1": {
+      "file": "raw-cels/guide-1.png",
+      "source": "guide-v2.png",
+      "sourceRect": [
+        593,
+        7,
+        299,
+        506
+      ],
+      "size": [
+        299,
+        506
+      ],
+      "eyeAnchors": {
+        "left": [
+          131.3804347826087,
+          137.82608695652175
+        ],
+        "right": [
+          164.47826086956522,
+          121.65217391304348
+        ]
+      },
+      "reviewRequired": true
+    },
+    "guide-2": {
+      "file": "raw-cels/guide-2.png",
+      "source": "guide-v2.png",
+      "sourceRect": [
+        1056,
+        4,
+        392,
+        509
+      ],
+      "size": [
+        392,
+        509
+      ],
+      "eyeAnchors": {
+        "left": [
+          139.69892473118279,
+          142.88172043010752
+        ],
+        "right": [
+          172.0625,
+          124.625
+        ]
+      },
+      "reviewRequired": true
+    },
+    "guide-3": {
+      "file": "raw-cels/guide-3.png",
+      "source": "guide-v2.png",
+      "sourceRect": [
+        102,
+        518,
+        392,
+        504
+      ],
+      "size": [
+        392,
+        504
+      ],
+      "eyeAnchors": {
+        "left": [
+          146.55208333333334,
+          142.26041666666666
+        ],
+        "right": [
+          178.7422680412371,
+          124
+        ]
+      },
+      "reviewRequired": true
+    },
+    "guide-4": {
+      "file": "raw-cels/guide-4.png",
+      "source": "guide-v2.png",
+      "sourceRect": [
+        578,
+        515,
+        413,
+        506
+      ],
+      "size": [
+        413,
+        506
+      ],
+      "eyeAnchors": {
+        "left": [
+          133.4268292682927,
+          139.28048780487805
+        ],
+        "right": [
+          167.08333333333334,
+          125.73809523809524
+        ]
+      },
+      "reviewRequired": true
+    },
+    "guide-5": {
+      "file": "raw-cels/guide-5.png",
+      "source": "guide-v2.png",
+      "sourceRect": [
+        1076,
+        519,
+        309,
+        502
+      ],
+      "size": [
+        309,
+        502
+      ],
+      "eyeAnchors": {
+        "left": [
+          131.57894736842104,
+          136.46052631578948
+        ],
+        "right": [
+          164.48235294117646,
+          123.4235294117647
+        ]
+      },
+      "reviewRequired": true
+    },
+    "extended-0": {
+      "file": "raw-cels/extended-0.png",
+      "source": "extended-v1.png",
+      "sourceRect": [
+        225,
+        2,
+        1207,
+        1015
+      ],
+      "size": [
+        1207,
+        1015
+      ],
+      "eyeAnchors": {
+        "left": [
+          292.82065217391306,
+          258.0951086956522
+        ],
+        "right": [
+          364.78933333333333,
+          230.24
+        ]
+      },
+      "reviewRequired": true
+    },
+    "idle-0": {
+      "file": "raw-cels/idle-0.png",
+      "source": "idle-v1.png",
+      "sourceRect": [
+        136,
+        7,
+        289,
+        506
+      ],
+      "size": [
+        289,
+        506
+      ],
+      "eyeAnchors": {
+        "left": [
+          110.82539682539682,
+          122.14285714285714
+        ],
+        "right": [
+          142.96969696969697,
+          117.66666666666667
+        ]
+      },
+      "reviewRequired": true
+    },
+    "idle-1": {
+      "file": "raw-cels/idle-1.png",
+      "source": "idle-v1.png",
+      "sourceRect": [
+        622,
+        5,
+        300,
+        508
+      ],
+      "size": [
+        300,
+        508
+      ],
+      "eyeAnchors": {
+        "left": [
+          122.74626865671642,
+          124.3731343283582
+        ],
+        "right": [
+          154.98611111111111,
+          119.30555555555556
+        ]
+      },
+      "reviewRequired": true
+    },
+    "idle-2": {
+      "file": "raw-cels/idle-2.png",
+      "source": "idle-v1.png",
+      "sourceRect": [
+        1110,
+        6,
+        305,
+        506
+      ],
+      "size": [
+        305,
+        506
+      ],
+      "eyeAnchors": {
+        "left": [
+          125.34328358208955,
+          120.22388059701493
+        ],
+        "right": [
+          159.1304347826087,
+          115.82608695652173
+        ]
+      },
+      "reviewRequired": true
+    },
+    "idle-3": {
+      "file": "raw-cels/idle-3.png",
+      "source": "idle-v1.png",
+      "sourceRect": [
+        127,
+        520,
+        298,
+        499
+      ],
+      "size": [
+        298,
+        499
+      ],
+      "eyeAnchors": {
+        "left": [
+          120.17543859649123,
+          120.89473684210526
+        ],
+        "right": [
+          152.25454545454545,
+          116.85454545454546
+        ]
+      },
+      "reviewRequired": true
+    },
+    "idle-4": {
+      "file": "raw-cels/idle-4.png",
+      "source": "idle-v1.png",
+      "sourceRect": [
+        622,
+        520,
+        300,
+        499
+      ],
+      "size": [
+        300,
+        499
+      ],
+      "eyeAnchors": {
+        "left": [
+          122.29850746268657,
+          120.59701492537313
+        ],
+        "right": [
+          154.67123287671234,
+          116.10958904109589
+        ]
+      },
+      "reviewRequired": true
+    },
+    "idle-5": {
+      "file": "raw-cels/idle-5.png",
+      "source": "idle-v1.png",
+      "sourceRect": [
+        1114,
+        520,
+        301,
+        499
+      ],
+      "size": [
+        301,
+        499
+      ],
+      "eyeAnchors": {
+        "left": [
+          120.98550724637681,
+          121.2463768115942
+        ],
+        "right": [
+          153.359375,
+          116.46875
+        ]
+      },
+      "reviewRequired": true
+    },
+    "phase-0": {
+      "file": "raw-cels/phase-0.png",
+      "source": "phase-v1.png",
+      "sourceRect": [
+        81,
+        5,
+        268,
+        463
+      ],
+      "size": [
+        268,
+        463
+      ],
+      "eyeAnchors": {
+        "left": [
+          106.5959595959596,
+          116.54545454545455
+        ],
+        "right": [
+          138.05172413793105,
+          111.63793103448276
+        ]
+      },
+      "reviewRequired": true
+    },
+    "phase-1": {
+      "file": "raw-cels/phase-1.png",
+      "source": "phase-v1.png",
+      "sourceRect": [
+        470,
+        19,
+        299,
+        447
+      ],
+      "size": [
+        299,
+        447
+      ],
+      "eyeAnchors": {
+        "left": [
+          125.5934065934066,
+          142.27472527472528
+        ],
+        "right": [
+          159.54368932038835,
+          143.45631067961165
+        ]
+      },
+      "reviewRequired": true
+    },
+    "phase-2": {
+      "file": "raw-cels/phase-2.png",
+      "source": "phase-v1.png",
+      "sourceRect": [
+        913,
+        127,
+        277,
+        342
+      ],
+      "size": [
+        277,
+        342
+      ],
+      "eyeAnchors": {
+        "left": [
+          106.10416666666667,
+          136.57291666666666
+        ],
+        "right": [
+          140.26356589147287,
+          130.3875968992248
+        ]
+      },
+      "reviewRequired": true
+    },
+    "phase-3": {
+      "file": "raw-cels/phase-3.png",
+      "source": "phase-v1.png",
+      "sourceRect": [
+        1320,
+        168,
+        284,
+        296
+      ],
+      "size": [
+        284,
+        296
+      ],
+      "eyeAnchors": {
+        "left": [
+          115.54807692307692,
+          136.77884615384616
+        ],
+        "right": [
+          149.00862068965517,
+          133.27586206896552
+        ]
+      },
+      "reviewRequired": true
+    },
+    "phase-4": {
+      "file": "raw-cels/phase-4.png",
+      "source": "phase-v1.png",
+      "sourceRect": [
+        61,
+        478,
+        304,
+        459
+      ],
+      "size": [
+        304,
+        459
+      ],
+      "eyeAnchors": {
+        "left": [
+          123.92941176470588,
+          116.72941176470589
+        ],
+        "right": [
+          157.1290322580645,
+          112.0752688172043
+        ]
+      },
+      "reviewRequired": true
+    },
+    "phase-5": {
+      "file": "raw-cels/phase-5.png",
+      "source": "phase-v1.png",
+      "sourceRect": [
+        475,
+        485,
+        319,
+        446
+      ],
+      "size": [
+        319,
+        446
+      ],
+      "eyeAnchors": {
+        "left": [
+          131.66315789473686,
+          126.85263157894737
+        ],
+        "right": [
+          165.5392156862745,
+          122.62745098039215
+        ]
+      },
+      "reviewRequired": true
+    },
+    "phase-6": {
+      "file": "raw-cels/phase-6.png",
+      "source": "phase-v1.png",
+      "sourceRect": [
+        865,
+        487,
+        351,
+        407
+      ],
+      "size": [
+        351,
+        407
+      ],
+      "eyeAnchors": {
+        "left": [
+          161.58333333333334,
+          148.66666666666666
+        ],
+        "right": [
+          190.27083333333334,
+          146.56944444444446
+        ]
+      },
+      "reviewRequired": true
+    },
+    "phase-7": {
+      "file": "raw-cels/phase-7.png",
+      "source": "phase-v1.png",
+      "sourceRect": [
+        1431,
+        637,
+        58,
+        87
+      ],
+      "size": [
+        58,
+        87
+      ],
+      "eyeAnchors": null,
+      "reviewRequired": true
+    },
+    "possession-0": {
+      "file": "raw-cels/possession-0.png",
+      "source": "possession-v1.png",
+      "sourceRect": [
+        63,
+        94,
+        434,
+        424
+      ],
+      "size": [
+        434,
+        424
+      ],
+      "eyeAnchors": {
+        "left": [
+          269.27777777777777,
+          175.4777777777778
+        ],
+        "right": [
+          307,
+          172.5934065934066
+        ]
+      },
+      "reviewRequired": true
+    },
+    "possession-1": {
+      "file": "raw-cels/possession-1.png",
+      "source": "possession-v1.png",
+      "sourceRect": [
+        573,
+        25,
+        420,
+        493
+      ],
+      "size": [
+        420,
+        493
+      ],
+      "eyeAnchors": {
+        "left": [
+          162.61165048543688,
+          153.53398058252426
+        ],
+        "right": [
+          198.90804597701148,
+          147.41379310344828
+        ]
+      },
+      "reviewRequired": true
+    },
+    "possession-2": {
+      "file": "raw-cels/possession-2.png",
+      "source": "possession-v1.png",
+      "sourceRect": [
+        989,
+        35,
+        536,
+        463
+      ],
+      "size": [
+        536,
+        463
+      ],
+      "eyeAnchors": {
+        "left": [
+          319.1578947368421,
+          133.27631578947367
+        ],
+        "right": [
+          352.961038961039,
+          126.88311688311688
+        ]
+      },
+      "reviewRequired": true
+    },
+    "possession-3": {
+      "file": "raw-cels/possession-3.png",
+      "source": "possession-v1.png",
+      "sourceRect": [
+        23,
+        622,
+        643,
+        243
+      ],
+      "size": [
+        643,
+        243
+      ],
+      "eyeAnchors": {
+        "left": [
+          405.0632911392405,
+          132.48101265822785
+        ],
+        "right": [
+          437.8550724637681,
+          130.63768115942028
+        ]
+      },
+      "reviewRequired": true
+    },
+    "possession-4": {
+      "file": "raw-cels/possession-4.png",
+      "source": "possession-v1.png",
+      "sourceRect": [
+        708,
+        594,
+        321,
+        387
+      ],
+      "size": [
+        321,
+        387
+      ],
+      "eyeAnchors": {
+        "left": [
+          159.59633027522935,
+          159.7981651376147
+        ],
+        "right": [
+          197.56521739130434,
+          154.66304347826087
+        ]
+      },
+      "reviewRequired": true
+    },
+    "possession-5": {
+      "file": "raw-cels/possession-5.png",
+      "source": "possession-v1.png",
+      "sourceRect": [
+        1138,
+        542,
+        364,
+        454
+      ],
+      "size": [
+        364,
+        454
+      ],
+      "eyeAnchors": {
+        "left": [
+          201.03658536585365,
+          134.1219512195122
+        ],
+        "right": [
+          237.2528735632184,
+          129.68965517241378
+        ]
+      },
+      "reviewRequired": true
+    },
+    "react-0": {
+      "file": "raw-cels/react-0.png",
+      "source": "react-v1.png",
+      "sourceRect": [
+        55,
+        13,
+        277,
+        490
+      ],
+      "size": [
+        277,
+        490
+      ],
+      "eyeAnchors": {
+        "left": [
+          104.63636363636364,
+          114.2
+        ],
+        "right": [
+          135,
+          108.33333333333333
+        ]
+      },
+      "reviewRequired": true
+    },
+    "react-1": {
+      "file": "raw-cels/react-1.png",
+      "source": "react-v1.png",
+      "sourceRect": [
+        432,
+        12,
+        281,
+        491
+      ],
+      "size": [
+        281,
+        491
+      ],
+      "eyeAnchors": {
+        "left": [
+          111.56060606060606,
+          114.33333333333333
+        ],
+        "right": [
+          143.56034482758622,
+          111.69827586206897
+        ]
+      },
+      "reviewRequired": true
+    },
+    "react-2": {
+      "file": "raw-cels/react-2.png",
+      "source": "react-v1.png",
+      "sourceRect": [
+        820,
+        13,
+        281,
+        487
+      ],
+      "size": [
+        281,
+        487
+      ],
+      "eyeAnchors": {
+        "left": [
+          103.72307692307692,
+          116.0923076923077
+        ],
+        "right": [
+          134.08045977011494,
+          108.96551724137932
+        ]
+      },
+      "reviewRequired": true
+    },
+    "react-3": {
+      "file": "raw-cels/react-3.png",
+      "source": "react-v1.png",
+      "sourceRect": [
+        1180,
+        14,
+        315,
+        487
+      ],
+      "size": [
+        315,
+        487
+      ],
+      "eyeAnchors": {
+        "left": [
+          136.2753623188406,
+          121.1159420289855
+        ],
+        "right": [
+          166.41176470588235,
+          112.21176470588236
+        ]
+      },
+      "reviewRequired": true
+    },
+    "react-4": {
+      "file": "raw-cels/react-4.png",
+      "source": "react-v1.png",
+      "sourceRect": [
+        57,
+        525,
+        305,
+        473
+      ],
+      "size": [
+        305,
+        473
+      ],
+      "eyeAnchors": {
+        "left": [
+          104.18840579710145,
+          129.40579710144928
+        ],
+        "right": [
+          134.3764705882353,
+          119.07058823529412
+        ]
+      },
+      "reviewRequired": true
+    },
+    "react-5": {
+      "file": "raw-cels/react-5.png",
+      "source": "react-v1.png",
+      "sourceRect": [
+        437,
+        523,
+        289,
+        478
+      ],
+      "size": [
+        289,
+        478
+      ],
+      "eyeAnchors": {
+        "left": [
+          103.36206896551724,
+          124.77586206896552
+        ],
+        "right": [
+          133.1595744680851,
+          114.77659574468085
+        ]
+      },
+      "reviewRequired": true
+    },
+    "react-6": {
+      "file": "raw-cels/react-6.png",
+      "source": "react-v1.png",
+      "sourceRect": [
+        802,
+        521,
+        347,
+        482
+      ],
+      "size": [
+        347,
+        482
+      ],
+      "eyeAnchors": {
+        "left": [
+          204.9879518072289,
+          112.87951807228916
+        ],
+        "right": [
+          238.5,
+          114.53191489361703
+        ]
+      },
+      "reviewRequired": true
+    },
+    "react-7": {
+      "file": "raw-cels/react-7.png",
+      "source": "react-v1.png",
+      "sourceRect": [
+        1175,
+        525,
+        340,
+        477
+      ],
+      "size": [
+        340,
+        477
+      ],
+      "eyeAnchors": {
+        "left": [
+          239.2537313432836,
+          106.1044776119403
+        ],
+        "right": [
+          267.1864406779661,
+          103.86440677966101
+        ]
+      },
+      "reviewRequired": true
+    }
+  }
+}

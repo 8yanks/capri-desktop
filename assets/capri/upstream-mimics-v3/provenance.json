@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "upstream": "https://github.com/mochiiwuff/capri-desktop",
+  "revision": "6e3158f",
+  "readFiles": [
+    "src/renderer/js/sprite.js",
+    "src/renderer/js/fx.js",
+    "src/renderer/js/panel.js",
+    "tools/build-sprite.py",
+    "tools/build-intro.py",
+    "tools/build-cutins.py"
+  ],
+  "verifiedOriginalCopies": {
+    "intro-mouth1.webp": "24235f205bfaa97a316e9b1c0680004b8484f4dbcca521c5ca3c27e2584f5d17",
+    "intro-mouth2.webp": "0fa4e18eaeaefe3727e35f97908fa1a53af774d143e54bbf327fa971c178b7f8",
+    "intro-mouth3.webp": "941988db91d965ad1afdbeddae066231958a644d6adeb5b8d1c5d715f37ca4b1"
+  },
+  "references": [
+    "source-video neutral / wink / notched white smile crops supplied by user"
+  ],
+  "activeBody": "A1",
+  "coordinateBasis": "Both optical centres define ONE transform for eyes and mouth; no independent resizing",
+  "newImageGeneration": false
+}

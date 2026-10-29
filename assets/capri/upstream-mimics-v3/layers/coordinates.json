@@ -1,0 +1,74 @@
+{
+  "wink-left": {
+    "x": 32,
+    "y": 8
+  },
+  "wink-right": {
+    "x": 258,
+    "y": 92
+  },
+  "wink-mouth": {
+    "x": 135,
+    "y": 240
+  },
+  "mouth1-left": {
+    "x": 620,
+    "y": 260
+  },
+  "mouth1-right": {
+    "x": 846,
+    "y": 180
+  },
+  "mouth1-mouth": {
+    "x": 735,
+    "y": 390
+  },
+  "mouth3-left": {
+    "x": 620,
+    "y": 260
+  },
+  "mouth3-right": {
+    "x": 846,
+    "y": 180
+  },
+  "mouth3-mouth": {
+    "x": 735,
+    "y": 390
+  },
+  "laugh-left": {
+    "x": 60,
+    "y": 170
+  },
+  "laugh-right": {
+    "x": 440,
+    "y": 5
+  },
+  "laugh-mouth": {
+    "x": 330,
+    "y": 390
+  },
+  "neutral-left": {
+    "x": 49,
+    "y": 55
+  },
+  "neutral-right": {
+    "x": 230,
+    "y": 30
+  },
+  "neutral-mouth": {
+    "x": 150,
+    "y": 174
+  },
+  "mouth2-left": {
+    "x": 620,
+    "y": 260
+  },
+  "mouth2-right": {
+    "x": 846,
+    "y": 180
+  },
+  "mouth2-mouth": {
+    "x": 735,
+    "y": 390
+  }
+}
