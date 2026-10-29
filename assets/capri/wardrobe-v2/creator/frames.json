@@ -1,0 +1,524 @@
+{
+  "version": 1,
+  "sheets": {
+    "poses": {
+      "file": "poses.png",
+      "width": 1254,
+      "height": 1254
+    }
+  },
+  "frames": {
+    "poses-0": {
+      "file": "frames/poses-0.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 80,
+        "y": 11,
+        "w": 169,
+        "h": 336
+      },
+      "anchor": {
+        "x": 111.625,
+        "y": 336
+      },
+      "support": "floor",
+      "head": {
+        "x": 88.5,
+        "y": 76.5
+      },
+      "scale": 1.25,
+      "face": {
+        "x": 67,
+        "y": 61,
+        "w": 43,
+        "h": 31,
+        "center": {
+          "x": 88.5,
+          "y": 76.5
+        },
+        "green": 629,
+        "blue": 70
+      }
+    },
+    "poses-1": {
+      "file": "frames/poses-1.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 410,
+        "y": 13,
+        "w": 157,
+        "h": 334
+      },
+      "anchor": {
+        "x": 113.89189189189189,
+        "y": 334
+      },
+      "support": "floor",
+      "head": {
+        "x": 78.5,
+        "y": 76
+      },
+      "scale": 1.25,
+      "face": {
+        "x": 59,
+        "y": 61,
+        "w": 39,
+        "h": 30,
+        "center": {
+          "x": 78.5,
+          "y": 76
+        },
+        "green": 615,
+        "blue": 59
+      }
+    },
+    "poses-2": {
+      "file": "frames/poses-2.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 675,
+        "y": 15,
+        "w": 197,
+        "h": 331
+      },
+      "anchor": {
+        "x": 144.89743589743588,
+        "y": 331
+      },
+      "support": "floor",
+      "head": {
+        "x": 124.5,
+        "y": 73.5
+      },
+      "scale": 1.25,
+      "face": {
+        "x": 104,
+        "y": 58,
+        "w": 41,
+        "h": 31,
+        "center": {
+          "x": 124.5,
+          "y": 73.5
+        },
+        "green": 596,
+        "blue": 70
+      }
+    },
+    "poses-3": {
+      "file": "frames/poses-3.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 1002,
+        "y": 15,
+        "w": 212,
+        "h": 329
+      },
+      "anchor": {
+        "x": 118.60377358490567,
+        "y": 329
+      },
+      "support": "floor",
+      "head": {
+        "x": 107.5,
+        "y": 74
+      },
+      "scale": 1.25,
+      "face": {
+        "x": 89,
+        "y": 59,
+        "w": 37,
+        "h": 30,
+        "center": {
+          "x": 107.5,
+          "y": 74
+        },
+        "green": 621,
+        "blue": 76
+      }
+    },
+    "poses-4": {
+      "file": "frames/poses-4.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 65,
+        "y": 352,
+        "w": 203,
+        "h": 268
+      },
+      "anchor": {
+        "x": 105.56,
+        "y": 176.88
+      },
+      "support": "hip",
+      "head": {
+        "x": 118,
+        "y": 73
+      },
+      "scale": 1.2262773722627738,
+      "face": {
+        "x": 98,
+        "y": 58,
+        "w": 40,
+        "h": 30,
+        "center": {
+          "x": 118,
+          "y": 73
+        },
+        "green": 610,
+        "blue": 62
+      }
+    },
+    "poses-5": {
+      "file": "frames/poses-5.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 347,
+        "y": 350,
+        "w": 243,
+        "h": 266
+      },
+      "anchor": {
+        "x": 126.36,
+        "y": 175.56
+      },
+      "support": "hip",
+      "head": {
+        "x": 160,
+        "y": 75.5
+      },
+      "scale": 1.2262773722627738,
+      "face": {
+        "x": 142,
+        "y": 60,
+        "w": 36,
+        "h": 31,
+        "center": {
+          "x": 160,
+          "y": 75.5
+        },
+        "green": 637,
+        "blue": 47
+      }
+    },
+    "poses-6": {
+      "file": "frames/poses-6.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 718,
+        "y": 355,
+        "w": 165,
+        "h": 244
+      },
+      "anchor": {
+        "x": 85.8,
+        "y": 161.04000000000002
+      },
+      "support": "hip",
+      "head": {
+        "x": 78,
+        "y": 79
+      },
+      "scale": 1.2262773722627738,
+      "face": {
+        "x": 56,
+        "y": 63,
+        "w": 44,
+        "h": 32,
+        "center": {
+          "x": 78,
+          "y": 79
+        },
+        "green": 786,
+        "blue": 0
+      }
+    },
+    "poses-7": {
+      "file": "frames/poses-7.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 1022,
+        "y": 349,
+        "w": 183,
+        "h": 274
+      },
+      "anchor": {
+        "x": 95.16,
+        "y": 180.84
+      },
+      "support": "hip",
+      "head": {
+        "x": 89.5,
+        "y": 93
+      },
+      "scale": 1.2262773722627738,
+      "face": {
+        "x": 69,
+        "y": 79,
+        "w": 41,
+        "h": 28,
+        "center": {
+          "x": 89.5,
+          "y": 93
+        },
+        "green": 647,
+        "blue": 82
+      }
+    },
+    "poses-8": {
+      "file": "frames/poses-8.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 87,
+        "y": 613,
+        "w": 158,
+        "h": 318
+      },
+      "anchor": {
+        "x": 98.8,
+        "y": 318
+      },
+      "support": "floor",
+      "head": {
+        "x": 65.5,
+        "y": 76
+      },
+      "scale": 1.320754716981132,
+      "face": {
+        "x": 46,
+        "y": 62,
+        "w": 39,
+        "h": 28,
+        "center": {
+          "x": 65.5,
+          "y": 76
+        },
+        "green": 531,
+        "blue": 57
+      }
+    },
+    "poses-9": {
+      "file": "frames/poses-9.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 411,
+        "y": 616,
+        "w": 170,
+        "h": 314
+      },
+      "anchor": {
+        "x": 49.214285714285715,
+        "y": 314
+      },
+      "support": "floor",
+      "head": {
+        "x": 76,
+        "y": 68.5
+      },
+      "scale": 1.320754716981132,
+      "face": {
+        "x": 57,
+        "y": 55,
+        "w": 38,
+        "h": 27,
+        "center": {
+          "x": 76,
+          "y": 68.5
+        },
+        "green": 523,
+        "blue": 39
+      }
+    },
+    "poses-10": {
+      "file": "frames/poses-10.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 697,
+        "y": 615,
+        "w": 176,
+        "h": 316
+      },
+      "anchor": {
+        "x": 120.24137931034483,
+        "y": 316
+      },
+      "support": "floor",
+      "head": {
+        "x": 100,
+        "y": 67.5
+      },
+      "scale": 1.320754716981132,
+      "face": {
+        "x": 80,
+        "y": 54,
+        "w": 40,
+        "h": 27,
+        "center": {
+          "x": 100,
+          "y": 67.5
+        },
+        "green": 591,
+        "blue": 6
+      }
+    },
+    "poses-11": {
+      "file": "frames/poses-11.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 1040,
+        "y": 627,
+        "w": 164,
+        "h": 304
+      },
+      "anchor": {
+        "x": 102.1875,
+        "y": 304
+      },
+      "support": "floor",
+      "head": {
+        "x": 71,
+        "y": 69.5
+      },
+      "scale": 1.320754716981132,
+      "face": {
+        "x": 51,
+        "y": 57,
+        "w": 40,
+        "h": 25,
+        "center": {
+          "x": 71,
+          "y": 69.5
+        },
+        "green": 588,
+        "blue": 3
+      }
+    },
+    "poses-12": {
+      "file": "frames/poses-12.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 95,
+        "y": 929,
+        "w": 143,
+        "h": 323
+      },
+      "anchor": {
+        "x": 91.3076923076923,
+        "y": 323
+      },
+      "support": "floor",
+      "head": {
+        "x": 71,
+        "y": 98.5
+      },
+      "scale": 1.4055727554179567,
+      "face": {
+        "x": 58,
+        "y": 87,
+        "w": 26,
+        "h": 23,
+        "center": {
+          "x": 71,
+          "y": 98.5
+        },
+        "green": 401,
+        "blue": 33
+      }
+    },
+    "poses-13": {
+      "file": "frames/poses-13.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 357,
+        "y": 975,
+        "w": 191,
+        "h": 254
+      },
+      "anchor": {
+        "x": 110.00796812749005,
+        "y": 254
+      },
+      "support": "floor",
+      "head": {
+        "x": 103,
+        "y": 92.5
+      },
+      "scale": 1.141732283464567,
+      "face": {
+        "x": 80,
+        "y": 76,
+        "w": 46,
+        "h": 33,
+        "center": {
+          "x": 103,
+          "y": 92.5
+        },
+        "green": 506,
+        "blue": 193
+      }
+    },
+    "poses-14": {
+      "file": "frames/poses-14.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 651,
+        "y": 935,
+        "w": 264,
+        "h": 299
+      },
+      "anchor": {
+        "x": 69.07692307692308,
+        "y": 299
+      },
+      "support": "floor",
+      "head": {
+        "x": 125,
+        "y": 83.5
+      },
+      "scale": 1.4046822742474916,
+      "face": {
+        "x": 105,
+        "y": 70,
+        "w": 40,
+        "h": 27,
+        "center": {
+          "x": 125,
+          "y": 83.5
+        },
+        "green": 635,
+        "blue": 0
+      }
+    },
+    "poses-15": {
+      "file": "frames/poses-15.png",
+      "sheet": "poses",
+      "rect": {
+        "x": 945,
+        "y": 1033,
+        "w": 303,
+        "h": 171
+      },
+      "anchor": {
+        "x": 212.49444444444444,
+        "y": 171
+      },
+      "support": "floor",
+      "head": {
+        "x": 76.5,
+        "y": 92
+      },
+      "scale": 1.5247524752475248,
+      "face": {
+        "x": 57,
+        "y": 74,
+        "w": 39,
+        "h": 36,
+        "center": {
+          "x": 76.5,
+          "y": 92
+        },
+        "green": 602,
+        "blue": 52
+      }
+    }
+  }
+}

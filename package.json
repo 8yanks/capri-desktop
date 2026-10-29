@@ -1,0 +1,30 @@
+{
+  "name": "capri-cloud-desktop",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Capri desktop companion with illustrated poses and Codex/Claude cloud connections.",
+  "license": "MIT",
+  "main": "src/main/main.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron . --dev",
+    "test": "node scripts/test-all.cjs",
+    "doctor": "node scripts/doctor.cjs",
+    "hooks:codex": "node scripts/install-codex-hooks.js",
+    "hooks:claude": "node scripts/install-hooks.js",
+    "sprites:build": "node scripts/build-facefix.cjs",
+    "preview": "electron scripts/render-idle-gallery.cjs",
+    "wardrobe:build": "node scripts/build-wardrobe.cjs",
+    "preview:wardrobe": "electron scripts/render-wardrobe.cjs"
+  },
+  "dependencies": {
+    "@fontsource/chakra-petch": "5.3.0",
+    "@fontsource/jetbrains-mono": "5.3.0"
+  },
+  "devDependencies": {
+    "electron": "44.9.3"
+  }
+}

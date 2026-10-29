@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "status": "rejected-likeness",
+  "coordinates": "individual image pixels; viewer-left/right before mirroring",
+  "frames": {
+    "leftEye-neutral": {
+      "file": "leftEye-neutral.png",
+      "part": "leftEye",
+      "state": "neutral",
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 49,
+        "y": 157,
+        "w": 205,
+        "h": 221
+      },
+      "anchor": {
+        "x": 106,
+        "y": 135
+      }
+    },
+    "rightEye-neutral": {
+      "file": "rightEye-neutral.png",
+      "part": "rightEye",
+      "state": "neutral",
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 296,
+        "y": 157,
+        "w": 204,
+        "h": 222
+      },
+      "anchor": {
+        "x": 98,
+        "y": 135
+      }
+    },
+    "leftEye-half": {
+      "file": "leftEye-half.png",
+      "part": "leftEye",
+      "state": "half",
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 551,
+        "y": 172,
+        "w": 194,
+        "h": 207
+      },
+      "anchor": {
+        "x": 106,
+        "y": 120
+      }
+    },
+    "rightEye-half": {
+      "file": "rightEye-half.png",
+      "part": "rightEye",
+      "state": "half",
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 800,
+        "y": 171,
+        "w": 193,
+        "h": 208
+      },
+      "anchor": {
+        "x": 88,
+        "y": 121
+      }
+    },
+    "leftEye-closed": {
+      "file": "leftEye-closed.png",
+      "part": "leftEye",
+      "state": "closed",
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 1039,
+        "y": 174,
+        "w": 192,
+        "h": 188
+      },
+      "anchor": {
+        "x": 115,
+        "y": 118
+      }
+    },
+    "rightEye-closed": {
+      "file": "rightEye-closed.png",
+      "part": "rightEye",
+      "state": "closed",
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 1301,
+        "y": 173,
+        "w": 193,
+        "h": 187
+      },
+      "anchor": {
+        "x": 84,
+        "y": 119
+      }
+    },
+    "leftEye-excited": {
+      "file": "leftEye-excited.png",
+      "part": "leftEye",
+      "state": "excited",
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 45,
+        "y": 624,
+        "w": 210,
+        "h": 232
+      },
+      "anchor": {
+        "x": 110,
+        "y": 130
+      }
+    },
+    "rightEye-excited": {
+      "file": "rightEye-excited.png",
+      "part": "rightEye",
+      "state": "excited",
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 294,
+        "y": 624,
+        "w": 209,
+        "h": 232
+      },
+      "anchor": {
+        "x": 100,
+        "y": 130
+      }
+    },
+    "leftEye-suspicious": {
+      "file": "leftEye-suspicious.png",
+      "part": "leftEye",
+      "state": "suspicious",
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 553,
+        "y": 643,
+        "w": 196,
+        "h": 199
+      },
+      "anchor": {
+        "x": 104,
+        "y": 111
+      }
+    },
+    "rightEye-suspicious": {
+      "file": "rightEye-suspicious.png",
+      "part": "rightEye",
+      "state": "suspicious",
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 795,
+        "y": 643,
+        "w": 198,
+        "h": 199
+      },
+      "anchor": {
+        "x": 93,
+        "y": 111
+      }
+    },
+    "leftEye-wink": {
+      "file": "leftEye-wink.png",
+      "part": "leftEye",
+      "state": "wink",
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 1047,
+        "y": 625,
+        "w": 203,
+        "h": 227
+      },
+      "anchor": {
+        "x": 107,
+        "y": 129
+      }
+    },
+    "rightEye-wink": {
+      "file": "rightEye-wink.png",
+      "part": "rightEye",
+      "state": "wink",
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 1293,
+        "y": 649,
+        "w": 203,
+        "h": 185
+      },
+      "anchor": {
+        "x": 92,
+        "y": 105
+      }
+    },
+    "mouth-neutral": {
+      "file": "mouth-neutral.png",
+      "part": "mouth",
+      "state": "neutral",
+      "source": "mouth-sheet.png",
+      "sourceRect": {
+        "x": 85,
+        "y": 202,
+        "w": 359,
+        "h": 125
+      },
+      "anchor": {
+        "x": 179.5,
+        "y": 62.5
+      }
+    },
+    "mouth-speech-small": {
+      "file": "mouth-speech-small.png",
+      "part": "mouth",
+      "state": "speech-small",
+      "source": "mouth-sheet.png",
+      "sourceRect": {
+        "x": 600,
+        "y": 197,
+        "w": 353,
+        "h": 153
+      },
+      "anchor": {
+        "x": 176.5,
+        "y": 76.5
+      }
+    },
+    "mouth-speech-open": {
+      "file": "mouth-speech-open.png",
+      "part": "mouth",
+      "state": "speech-open",
+      "source": "mouth-sheet.png",
+      "sourceRect": {
+        "x": 1071,
+        "y": 155,
+        "w": 420,
+        "h": 219
+      },
+      "anchor": {
+        "x": 210,
+        "y": 109.5
+      }
+    },
+    "mouth-grin": {
+      "file": "mouth-grin.png",
+      "part": "mouth",
+      "state": "grin",
+      "source": "mouth-sheet.png",
+      "sourceRect": {
+        "x": 57,
+        "y": 644,
+        "w": 407,
+        "h": 214
+      },
+      "anchor": {
+        "x": 203.5,
+        "y": 107
+      }
+    },
+    "mouth-smirk": {
+      "file": "mouth-smirk.png",
+      "part": "mouth",
+      "state": "smirk",
+      "source": "mouth-sheet.png",
+      "sourceRect": {
+        "x": 572,
+        "y": 672,
+        "w": 399,
+        "h": 185
+      },
+      "anchor": {
+        "x": 199.5,
+        "y": 92.5
+      }
+    },
+    "mouth-laugh": {
+      "file": "mouth-laugh.png",
+      "part": "mouth",
+      "state": "laugh",
+      "source": "mouth-sheet.png",
+      "sourceRect": {
+        "x": 1076,
+        "y": 637,
+        "w": 405,
+        "h": 258
+      },
+      "anchor": {
+        "x": 202.5,
+        "y": 129
+      }
+    }
+  },
+  "reason": "Source video reanalysis confirms incorrect ring weight, closed-eye glyph and mouth shapes."
+}

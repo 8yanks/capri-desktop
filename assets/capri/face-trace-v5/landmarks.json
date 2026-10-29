@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "reference": "reference.webp",
+  "referenceSize": [
+    1672,
+    941
+  ],
+  "referenceSha256": "7cb83b4ee33583f7521f8ac8208b6e06417bef6bd59171ba4c478daf67443e6c",
+  "crop": [
+    590,
+    130,
+    480,
+    440
+  ],
+  "coordinates": "original full-resolution source pixels; do not normalize individual eyes or rotate them independently",
+  "leftEye": {
+    "optical": [
+      718.5,
+      383.5
+    ],
+    "iris": [
+      720,
+      383.5
+    ],
+    "radii": [
+      54.5,
+      56.5
+    ],
+    "rotationDegrees": -15
+  },
+  "rightEye": {
+    "optical": [
+      935.5,
+      298
+    ],
+    "iris": [
+      936,
+      298
+    ],
+    "radii": [
+      53.7,
+      56.3
+    ],
+    "rotationDegrees": -17
+  },
+  "layers": [
+    "mask.svg",
+    "eyes.svg",
+    "mouth.svg"
+  ],
+  "status": "user-approved",
+  "referenceSelection": "Exact face in the supplied intro montage, confirmed 28 October 2026",
+  "approval": {
+    "date": "2026-10-28",
+    "userFeedback": "parfait!",
+    "scope": "Selected face trace, original proportions and tilt; this is the visual master for subsequent expressions."
+  }
+}

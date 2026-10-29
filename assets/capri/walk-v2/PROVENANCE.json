@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-27",
+  "method": "Built-in image editing from a corrected side/three-quarter walking body; wardrobe sheets supplied clothing design only.",
+  "supersedes": "walk-v1 frontal clothing mismatch",
+  "frames_per_outfit": 8,
+  "frame_ms": 120,
+  "sources": [
+    {
+      "outfit": "default",
+      "file": "default/walk.png",
+      "sha256": "e3b7057dc72eb89388bcd5d040b2dc5b1708a2519511e5cb9c8797988dac6638",
+      "review": "All eight phases visually reviewed for side-facing torso, garment closure, near/far shoulder overlap, sleeve attachment, hem occlusion, complete silhouette and alternating leg colors."
+    },
+    {
+      "outfit": "netrunner",
+      "file": "netrunner/walk.png",
+      "sha256": "61c16d3ee507a7b8c11f0758abfb06c5518ea7a117d7b17cdb9578c3c268a84d",
+      "review": "All eight phases visually reviewed for side-facing torso, garment closure, near/far shoulder overlap, sleeve attachment, hem occlusion, complete silhouette and alternating leg colors."
+    },
+    {
+      "outfit": "creator",
+      "file": "creator/walk.png",
+      "sha256": "2f246532dc896b8c56f14b5d4bad39e161af14402fef96236e81a3f349c51ae7",
+      "review": "All eight phases visually reviewed for side-facing torso, garment closure, near/far shoulder overlap, sleeve attachment, hem occlusion, complete silhouette and alternating leg colors."
+    },
+    {
+      "outfit": "stage",
+      "file": "stage/walk.png",
+      "sha256": "a39575cda94d48d61a061934bf78b5fb49cf288069aa3abdbd8cb831d7a841df",
+      "review": "All eight phases visually reviewed for side-facing torso, garment closure, near/far shoulder overlap, sleeve attachment, hem occlusion, complete silhouette and alternating leg colors."
+    },
+    {
+      "outfit": "league",
+      "file": "league/walk.png",
+      "sha256": "1aef7310c03a300d264b413c1c526e5da69b5c3eb49bb1b23023aba76c7f8f34",
+      "review": "All eight phases visually reviewed for side-facing torso, garment closure, near/far shoulder overlap, sleeve attachment, hem occlusion, complete silhouette and alternating leg colors."
+    },
+    {
+      "outfit": "david",
+      "file": "david/walk.png",
+      "sha256": "c4029b58b6c8289153dab5395b12d0f15abde06ecb9205157c6eba973ee20a2b",
+      "review": "All eight phases visually reviewed for side-facing torso, garment closure, near/far shoulder overlap, sleeve attachment, hem occlusion, complete silhouette and alternating leg colors."
+    },
+    {
+      "outfit": "lucy",
+      "file": "lucy/walk.png",
+      "sha256": "09a442930ceeb21498ee4916959d687092ca9964ca6232c000f84c388983516b",
+      "review": "All eight phases visually reviewed for side-facing torso, garment closure, near/far shoulder overlap, sleeve attachment, hem occlusion, complete silhouette and alternating leg colors."
+    },
+    {
+      "outfit": "badlands",
+      "file": "badlands/walk.png",
+      "sha256": "9b3dcf8273429cbfd17ab3e6e9cffa9670b672afe838a3c7f8df9676960af042",
+      "review": "All eight phases visually reviewed for side-facing torso, garment closure, near/far shoulder overlap, sleeve attachment, hem occlusion, complete silhouette and alternating leg colors."
+    },
+    {
+      "outfit": "omi",
+      "file": "omi/walk.png",
+      "sha256": "c790ba0e4e3c3e54775f7883fe10b4f6689f03ac3686835e7b3afde919226488",
+      "review": "All eight phases visually reviewed for side-facing torso, garment closure, near/far shoulder overlap, sleeve attachment, hem occlusion, complete silhouette and alternating leg colors."
+    },
+    {
+      "outfit": "roman",
+      "file": "roman/walk.png",
+      "sha256": "96962728be367e65e0a4d274c0ef88906776609d82c832911e2835b8646533df",
+      "review": "All eight phases visually reviewed for side-facing torso, garment closure, near/far shoulder overlap, sleeve attachment, hem occlusion, complete silhouette and alternating leg colors."
+    },
+    {
+      "outfit": "talia",
+      "file": "talia/walk.png",
+      "sha256": "67712cf0e95050ba2aabbdf078838392104a54ba65564050fa2bd880def943cf",
+      "review": "All eight phases visually reviewed for side-facing torso, garment closure, near/far shoulder overlap, sleeve attachment, hem occlusion, complete silhouette and alternating leg colors."
+    },
+    {
+      "outfit": "king",
+      "file": "king/walk.png",
+      "sha256": "1eb5f8df52bf13296e20551f044d19783906e98fa2aad877fb3c13b27a1eaf23",
+      "review": "All eight phases visually reviewed for side-facing torso, garment closure, near/far shoulder overlap, sleeve attachment, hem occlusion, complete silhouette and alternating leg colors."
+    }
+  ],
+  "repairs": [
+    "Netrunner and Lucy margins repaired to keep full toes inside sheet.",
+    "Stage residual translucent gray background removed and rechecked on dark native canvas."
+  ],
+  "validation": "15 unit/provider tests,10 desktop regressions; native main app loads60 cels without errors or warnings; six complete cycles rendered for all12 appearances.",
+  "limitations": "Visual interpretation, not cloth simulation; no new user approval claimed."
+}

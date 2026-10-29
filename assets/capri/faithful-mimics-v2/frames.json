@@ -1,0 +1,301 @@
+{
+  "version": 1,
+  "status": "context-preview",
+  "frames": {
+    "leftEye-normal": {
+      "file": "leftEye-normal.png",
+      "part": "leftEye",
+      "state": "normal",
+      "anchor": {
+        "x": 107.5,
+        "y": 148.5,
+        "diameter": 134
+      },
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 33,
+        "y": 107,
+        "w": 210,
+        "h": 250
+      }
+    },
+    "rightEye-normal": {
+      "file": "rightEye-normal.png",
+      "part": "rightEye",
+      "state": "normal",
+      "anchor": {
+        "x": 115,
+        "y": 131,
+        "diameter": 143
+      },
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 304,
+        "y": 119,
+        "w": 237,
+        "h": 237
+      }
+    },
+    "leftEye-closed": {
+      "file": "leftEye-closed.png",
+      "part": "leftEye",
+      "state": "closed",
+      "anchor": {
+        "x": 121.5,
+        "y": 114.6
+      },
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 625,
+        "y": 156,
+        "w": 243,
+        "h": 191
+      }
+    },
+    "rightEye-closed": {
+      "file": "rightEye-closed.png",
+      "part": "rightEye",
+      "state": "closed",
+      "anchor": {
+        "x": 121.5,
+        "y": 114
+      },
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 908,
+        "y": 157,
+        "w": 243,
+        "h": 190
+      }
+    },
+    "leftEye-wink": {
+      "file": "leftEye-wink.png",
+      "part": "leftEye",
+      "state": "wink",
+      "anchor": {
+        "x": 118.5,
+        "y": 140.5,
+        "diameter": 142
+      },
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 1227,
+        "y": 107,
+        "w": 231,
+        "h": 252
+      }
+    },
+    "rightEye-wink": {
+      "file": "rightEye-wink.png",
+      "part": "rightEye",
+      "state": "wink",
+      "anchor": {
+        "x": 113,
+        "y": 97.8
+      },
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 1526,
+        "y": 178,
+        "w": 226,
+        "h": 163
+      }
+    },
+    "leftEye-curious": {
+      "file": "leftEye-curious.png",
+      "part": "leftEye",
+      "state": "curious",
+      "anchor": {
+        "x": 109.5,
+        "y": 143.5,
+        "diameter": 132
+      },
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 33,
+        "y": 537,
+        "w": 210,
+        "h": 243
+      }
+    },
+    "rightEye-curious": {
+      "file": "rightEye-curious.png",
+      "part": "rightEye",
+      "state": "curious",
+      "anchor": {
+        "x": 117.5,
+        "y": 126.5,
+        "diameter": 136
+      },
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 305,
+        "y": 549,
+        "w": 236,
+        "h": 229
+      }
+    },
+    "leftEye-happy": {
+      "file": "leftEye-happy.png",
+      "part": "leftEye",
+      "state": "happy",
+      "anchor": {
+        "x": 120.5,
+        "y": 103.2
+      },
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 628,
+        "y": 572,
+        "w": 241,
+        "h": 172
+      }
+    },
+    "rightEye-happy": {
+      "file": "rightEye-happy.png",
+      "part": "rightEye",
+      "state": "happy",
+      "anchor": {
+        "x": 120,
+        "y": 102
+      },
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 906,
+        "y": 573,
+        "w": 240,
+        "h": 170
+      }
+    },
+    "leftEye-focused": {
+      "file": "leftEye-focused.png",
+      "part": "leftEye",
+      "state": "focused",
+      "anchor": {
+        "x": 113.5,
+        "y": 104.5,
+        "diameter": 136
+      },
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 1236,
+        "y": 566,
+        "w": 227,
+        "h": 208
+      }
+    },
+    "rightEye-focused": {
+      "file": "rightEye-focused.png",
+      "part": "rightEye",
+      "state": "focused",
+      "anchor": {
+        "x": 112,
+        "y": 92,
+        "diameter": 135
+      },
+      "source": "eyes-sheet.png",
+      "sourceRect": {
+        "x": 1525,
+        "y": 577,
+        "w": 225,
+        "h": 192
+      }
+    },
+    "mouth-neutral": {
+      "file": "mouth-neutral.png",
+      "part": "mouth",
+      "state": "neutral",
+      "anchor": {
+        "x": 174,
+        "y": 56.5
+      },
+      "source": "mouth-sheet.png",
+      "sourceRect": {
+        "x": 111,
+        "y": 213,
+        "w": 348,
+        "h": 113
+      }
+    },
+    "mouth-small": {
+      "file": "mouth-small.png",
+      "part": "mouth",
+      "state": "small",
+      "anchor": {
+        "x": 100,
+        "y": 16.8
+      },
+      "source": "mouth-sheet.png",
+      "sourceRect": {
+        "x": 672,
+        "y": 213,
+        "w": 200,
+        "h": 140
+      }
+    },
+    "mouth-open": {
+      "file": "mouth-open.png",
+      "part": "mouth",
+      "state": "open",
+      "anchor": {
+        "x": 134,
+        "y": 26.4
+      },
+      "source": "mouth-sheet.png",
+      "sourceRect": {
+        "x": 1157,
+        "y": 182,
+        "w": 268,
+        "h": 220
+      }
+    },
+    "mouth-laugh": {
+      "file": "mouth-laugh.png",
+      "part": "mouth",
+      "state": "laugh",
+      "anchor": {
+        "x": 163,
+        "y": 20.88
+      },
+      "source": "mouth-sheet.png",
+      "sourceRect": {
+        "x": 116,
+        "y": 676,
+        "w": 326,
+        "h": 174
+      }
+    },
+    "mouth-smirk": {
+      "file": "mouth-smirk.png",
+      "part": "mouth",
+      "state": "smirk",
+      "anchor": {
+        "x": 153,
+        "y": 59.5
+      },
+      "source": "mouth-sheet.png",
+      "sourceRect": {
+        "x": 640,
+        "y": 701,
+        "w": 306,
+        "h": 119
+      }
+    },
+    "mouth-surprised": {
+      "file": "mouth-surprised.png",
+      "part": "mouth",
+      "state": "surprised",
+      "anchor": {
+        "x": 85.5,
+        "y": 18
+      },
+      "source": "mouth-sheet.png",
+      "sourceRect": {
+        "x": 1205,
+        "y": 675,
+        "w": 171,
+        "h": 150
+      }
+    }
+  }
+}

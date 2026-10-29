@@ -1,0 +1,8 @@
+{
+  "note": "Manually inspected raw-cel iris centres, 28 October 2026. Technical calibration reference, not blanket approval of artwork.",
+  "pairs": {
+    "rest-3": {"left": [331.7, 404.3], "right": [416.9, 367.3]},
+    "rest-4": {"left": [112.1, 150.8], "right": [143.4, 136.9]},
+    "rest-5": {"left": [127.0, 142.9], "right": [158.8, 130.1]}
+  }
+}

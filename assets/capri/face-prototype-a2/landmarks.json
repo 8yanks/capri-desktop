@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "status": "preview-only",
+  "body": "body.png",
+  "coordinates": "source-image pixels; eye names are viewer-left/viewer-right before mirroring",
+  "rig": {
+    "version": 1,
+    "leftEye": {"x": 419, "y": 306, "rx": 17, "ry": 20, "angle": -0.20},
+    "rightEye": {"x": 479, "y": 288, "rx": 20, "ry": 23, "angle": -0.20},
+    "mouth": {"x": 449, "y": 347, "rx": 24, "ry": 9, "angle": -0.20},
+    "crop": {"x": 452, "y": 292}
+  }
+}

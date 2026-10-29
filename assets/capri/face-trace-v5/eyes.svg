@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="440" viewBox="590 130 480 440">
+  <g id="left-eye">
+    <path id="left-socket" fill="#02030b" d="M619 359 C643 326 680 311 714 315 L742 267 L739 322 C765 333 782 358 784 382 L805 422 C773 435 740 453 707 453 L686 486 L689 450 C652 441 627 405 619 359Z"/>
+    <ellipse id="left-ring" cx="718.5" cy="383.5" rx="54.5" ry="56.5" transform="rotate(-15 718.5 383.5)" fill="none" stroke="#24e85a" stroke-width="2.5"/>
+    <ellipse id="left-iris" cx="720" cy="383.5" rx="34.6" ry="36.5" transform="rotate(-8 720 383.5)" fill="#0069df"/>
+    <ellipse id="left-centre" cx="720" cy="383.5" rx="14.8" ry="16" transform="rotate(-8 720 383.5)" fill="#fafcfb" stroke="#060916" stroke-width="1.1"/>
+  </g>
+  <g id="right-eye">
+    <path id="right-socket" fill="#02030b" d="M848 235 L901 247 C924 216 954 194 981 181 C1010 223 1025 281 996 326 L1022 356 L981 344 C953 363 919 380 875 396 C868 353 876 310 881 287Z"/>
+    <ellipse id="right-ring" cx="935.5" cy="298" rx="53.7" ry="56.3" transform="rotate(-17 935.5 298)" fill="none" stroke="#24e85a" stroke-width="2.5"/>
+    <ellipse id="right-iris" cx="936" cy="298" rx="35.1" ry="36.5" transform="rotate(-12 936 298)" fill="#0069df"/>
+    <ellipse id="right-centre" cx="936" cy="298" rx="15.4" ry="16.3" transform="rotate(-12 936 298)" fill="#fafcfb" stroke="#060916" stroke-width="1.1"/>
+  </g>
+</svg>

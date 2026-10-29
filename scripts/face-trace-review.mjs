@@ -1,0 +1,12 @@
+const base=new URL('../assets/capri/face-trace-v5/',import.meta.url),images={},canvas=document.querySelector('canvas'),ctx=canvas.getContext('2d',{willReadFrequently:true});let guides=false,flattened;
+function source(x,y,s){ctx.save();ctx.beginPath();ctx.rect(x,y,440,404);ctx.clip();ctx.translate(x,y);ctx.scale(s,s);ctx.drawImage(images.reference,-590,-130);ctx.restore();}
+function layers(x,y,s,alpha=1){ctx.save();ctx.translate(x,y);ctx.scale(s,s);ctx.globalAlpha=alpha;ctx.drawImage(flattened,0,0);ctx.restore();}
+function paint(opacity=.5){
+ ctx.fillStyle='#101522';ctx.fillRect(0,0,1440,540);ctx.fillStyle='#46e8ef';ctx.font='18px monospace';ctx.fillText('CAPRI // EXACT SELECTED FACE · SOURCE-SPACE TRACE',20,28);ctx.font='12px monospace';ctx.fillStyle='#a4b9cb';ctx.fillText('Reference: original intro-grab · same tilt and proportions · independent eye / mouth layers',20,51);
+ const scale=440/480;
+ for(let i=0;i<3;i++){const x=15+i*475;ctx.fillStyle='#182331';ctx.fillRect(x,70,455,435);ctx.fillStyle='#55e6ef';ctx.fillText(['ORIGINAL SELECTED IMAGE','MANUAL TRACE','50% OVERLAY / SAME COORDINATES'][i],x+10,90);if(i!==1)source(x+7,100,scale);if(i!==0)layers(x+7,100,scale,i===1?1:opacity);
+   if(guides){ctx.save();ctx.translate(x+7,100);ctx.scale(scale,scale);ctx.strokeStyle='#ffd74b';ctx.lineWidth=1;for(const [a,b]of [[129.5,253.5],[346,168]]){ctx.beginPath();ctx.moveTo(a-8,b);ctx.lineTo(a+8,b);ctx.moveTo(a,b-8);ctx.lineTo(a,b+8);ctx.stroke();}ctx.restore();}
+ }
+ ctx.fillStyle='#a4b9cb';ctx.fillText('Static trace study only · no A1 deformation or new facial animation applied',20,530);return canvas.toDataURL('image/png').split(',')[1];
+}
+window.ready=(async()=>{await Promise.all([['reference','reference.webp'],['eyes','eyes.svg'],['mouth','mouth.svg'],['mask','mask.svg']].map(([id,file])=>new Promise((resolve,reject)=>{const image=new Image();image.onload=()=>{images[id]=image;resolve();};image.onerror=reject;image.src=new URL(file,base).href;})));flattened=document.createElement('canvas');flattened.width=480;flattened.height=440;const flat=flattened.getContext('2d');for(const name of ['mask','eyes','mouth'])flat.drawImage(images[name],0,0,480,440);document.querySelector('#opacity').oninput=e=>paint(+e.target.value);document.querySelector('#anchors').onclick=()=>{guides=!guides;paint(+document.querySelector('#opacity').value);};window.traceFrame=paint;paint();return {source:[images.reference.width,images.reference.height],viewBox:[590,130,480,440]};})();

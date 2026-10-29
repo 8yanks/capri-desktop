@@ -1,0 +1,1482 @@
+{
+  "version": 1,
+  "design": "A1 + approved V5",
+  "palette": "warm rose-red; magenta blue channel × .62; white grain preserved",
+  "masterHashes": {
+    "mask": "96bed7d0ac6ec736c31c80ef8f9ed034a94ff1649c275b793b570f5f83ce32a8",
+    "eyes": "1f689490d47e7466e85a1781c2d17bea4cf0ae132717b7677d7bd0b25665d926",
+    "mouth": "f007b5c583669425944431d33146a0af76ca4dfc6f14b4614b5ea04b7102587c"
+  },
+  "expressions": [
+    "neutral",
+    "curious",
+    "smug",
+    "happy",
+    "talk",
+    "sleep",
+    "wink",
+    "surprised"
+  ],
+  "frames": {
+    "key-0": {
+      "file": "frames/key-0.png",
+      "sheet": "key",
+      "rect": {
+        "x": 61,
+        "y": 10,
+        "w": 274,
+        "h": 523
+      },
+      "face": {
+        "x": 100,
+        "y": 102,
+        "w": 53,
+        "h": 31,
+        "center": {
+          "x": 126.5,
+          "y": 117.75
+        }
+      },
+      "head": {
+        "x": 126.5,
+        "y": 117.75
+      },
+      "anchor": {
+        "x": 139.75,
+        "y": 523
+      },
+      "support": "floor",
+      "scale": 0.8030592734225621,
+      "modelFamily": "design-a-v5-key",
+      "facePatch": {
+        "x": 93,
+        "y": 94,
+        "w": 67,
+        "h": 65,
+        "variants": {
+          "neutral": "faces/key-0-neutral.png",
+          "curious": "faces/key-0-curious.png",
+          "smug": "faces/key-0-smug.png",
+          "happy": "faces/key-0-happy.png",
+          "talk": "faces/key-0-talk.png",
+          "sleep": "faces/key-0-sleep.png",
+          "wink": "faces/key-0-wink.png",
+          "surprised": "faces/key-0-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.12275444973965634,
+        0.02762905738590146,
+        -0.02762905738590146,
+        0.12275444973965634,
+        34.396671369550134,
+        53.07219079307159
+      ],
+      "eyeAnchors": {
+        "left": [
+          112,
+          120
+        ],
+        "right": [
+          141,
+          115.5
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "key-1": {
+      "file": "frames/key-1.png",
+      "sheet": "key",
+      "rect": {
+        "x": 417,
+        "y": 8,
+        "w": 291,
+        "h": 525
+      },
+      "face": {
+        "x": 120,
+        "y": 103,
+        "w": 50,
+        "h": 29,
+        "center": {
+          "x": 144.2,
+          "y": 119.35
+        },
+        "green": 673,
+        "blue": 187
+      },
+      "head": {
+        "x": 144.2,
+        "y": 119.35
+      },
+      "anchor": {
+        "x": 156.7,
+        "y": 525
+      },
+      "support": "floor",
+      "scale": 0.8030592734225621,
+      "modelFamily": "design-a-v5-key",
+      "facePatch": {
+        "x": 113,
+        "y": 95,
+        "w": 64,
+        "h": 61,
+        "variants": {
+          "neutral": "faces/key-1-neutral.png",
+          "curious": "faces/key-1-curious.png",
+          "smug": "faces/key-1-smug.png",
+          "happy": "faces/key-1-happy.png",
+          "talk": "faces/key-1-talk.png",
+          "sleep": "faces/key-1-sleep.png",
+          "wink": "faces/key-1-wink.png",
+          "surprised": "faces/key-1-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.11716981392206692,
+        0.025428659402473373,
+        -0.025428659402473373,
+        0.11716981392206692,
+        55.965379577843464,
+        58.39488458021021
+      ],
+      "eyeAnchors": {
+        "left": [
+          130.4,
+          121.6
+        ],
+        "right": [
+          158,
+          117.1
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "key-2": {
+      "file": "frames/key-2.png",
+      "sheet": "key",
+      "rect": {
+        "x": 776,
+        "y": 8,
+        "w": 316,
+        "h": 527
+      },
+      "face": {
+        "x": 148,
+        "y": 105,
+        "w": 50,
+        "h": 28,
+        "center": {
+          "x": 173.9,
+          "y": 119.15
+        },
+        "green": 697,
+        "blue": 184
+      },
+      "head": {
+        "x": 173.9,
+        "y": 119.15
+      },
+      "anchor": {
+        "x": 186.4,
+        "y": 527
+      },
+      "support": "floor",
+      "scale": 0.8030592734225621,
+      "modelFamily": "design-a-v5-key",
+      "facePatch": {
+        "x": 141,
+        "y": 97,
+        "w": 64,
+        "h": 60,
+        "variants": {
+          "neutral": "faces/key-2-neutral.png",
+          "curious": "faces/key-2-curious.png",
+          "smug": "faces/key-2-smug.png",
+          "happy": "faces/key-2-happy.png",
+          "talk": "faces/key-2-talk.png",
+          "sleep": "faces/key-2-sleep.png",
+          "wink": "faces/key-2-wink.png",
+          "surprised": "faces/key-2-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.11189768241290098,
+        0.05284447855439182,
+        -0.05284447855439182,
+        0.11189768241290098,
+        99.36737271193991,
+        37.318480953321966
+      ],
+      "eyeAnchors": {
+        "left": [
+          159.5,
+          118.2
+        ],
+        "right": [
+          188.3,
+          120.1
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "key-3": {
+      "file": "frames/key-3.png",
+      "sheet": "key",
+      "rect": {
+        "x": 1165,
+        "y": 15,
+        "w": 348,
+        "h": 521
+      },
+      "face": {
+        "x": 142,
+        "y": 103,
+        "w": 54,
+        "h": 31,
+        "center": {
+          "x": 168.75,
+          "y": 117.8
+        }
+      },
+      "head": {
+        "x": 168.75,
+        "y": 117.8
+      },
+      "anchor": {
+        "x": 182.25,
+        "y": 521
+      },
+      "support": "floor",
+      "scale": 0.8030592734225621,
+      "modelFamily": "design-a-v5-key",
+      "facePatch": {
+        "x": 135,
+        "y": 95,
+        "w": 68,
+        "h": 65,
+        "variants": {
+          "neutral": "faces/key-3-neutral.png",
+          "curious": "faces/key-3-curious.png",
+          "smug": "faces/key-3-smug.png",
+          "happy": "faces/key-3-happy.png",
+          "talk": "faces/key-3-talk.png",
+          "sleep": "faces/key-3-sleep.png",
+          "wink": "faces/key-3-wink.png",
+          "surprised": "faces/key-3-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.1178453747064527,
+        0.048275481739178394,
+        -0.048275481739178394,
+        0.1178453747064527,
+        87.74174552038865,
+        37.72036517047571
+      ],
+      "eyeAnchors": {
+        "left": [
+          153.9,
+          117.6
+        ],
+        "right": [
+          183.6,
+          118
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "key-4": {
+      "file": "frames/key-4.png",
+      "sheet": "key",
+      "rect": {
+        "x": 36,
+        "y": 525,
+        "w": 266,
+        "h": 497
+      },
+      "face": {
+        "x": 104,
+        "y": 143,
+        "w": 46,
+        "h": 24,
+        "center": {
+          "x": 128,
+          "y": 156.8
+        },
+        "green": 595,
+        "blue": 120
+      },
+      "head": {
+        "x": 128,
+        "y": 156.8
+      },
+      "anchor": {
+        "x": 139.5,
+        "y": 497
+      },
+      "support": "floor",
+      "scale": 0.8030592734225621,
+      "modelFamily": "design-a-v5-key",
+      "facePatch": {
+        "x": 97,
+        "y": 135,
+        "w": 60,
+        "h": 55,
+        "variants": {
+          "neutral": "faces/key-4-neutral.png",
+          "curious": "faces/key-4-curious.png",
+          "smug": "faces/key-4-smug.png",
+          "happy": "faces/key-4-happy.png",
+          "talk": "faces/key-4-talk.png",
+          "sleep": "faces/key-4-sleep.png",
+          "wink": "faces/key-4-wink.png",
+          "surprised": "faces/key-4-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.10149036981208383,
+        0.04183145907342476,
+        -0.04183145907342476,
+        0.10149036981208383,
+        58.32153384467617,
+        87.62253983281016
+      ],
+      "eyeAnchors": {
+        "left": [
+          115.2,
+          156.6
+        ],
+        "right": [
+          140.8,
+          157
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "key-5": {
+      "file": "frames/key-5.png",
+      "sheet": "key",
+      "rect": {
+        "x": 386,
+        "y": 566,
+        "w": 393,
+        "h": 444
+      },
+      "face": {
+        "x": 130,
+        "y": 176,
+        "w": 55,
+        "h": 31,
+        "center": {
+          "x": 156.3,
+          "y": 192.65
+        },
+        "green": 787,
+        "blue": 249
+      },
+      "head": {
+        "x": 156.3,
+        "y": 192.65
+      },
+      "anchor": {
+        "x": 170.05,
+        "y": 444
+      },
+      "support": "floor",
+      "scale": 0.8030592734225621,
+      "modelFamily": "design-a-v5-key",
+      "facePatch": {
+        "x": 123,
+        "y": 168,
+        "w": 69,
+        "h": 66,
+        "variants": {
+          "neutral": "faces/key-5-neutral.png",
+          "curious": "faces/key-5-curious.png",
+          "smug": "faces/key-5-smug.png",
+          "happy": "faces/key-5-happy.png",
+          "talk": "faces/key-5-talk.png",
+          "sleep": "faces/key-5-sleep.png",
+          "wink": "faces/key-5-wink.png",
+          "surprised": "faces/key-5-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.14062050487828415,
+        0.03374678878844842,
+        -0.03374678878844842,
+        0.14062050487828415,
+        51.50606074532281,
+        116.82496863467784
+      ],
+      "eyeAnchors": {
+        "left": [
+          139.6,
+          195
+        ],
+        "right": [
+          173,
+          190.3
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "key-6": {
+      "file": "frames/key-6.png",
+      "sheet": "key",
+      "rect": {
+        "x": 707,
+        "y": 548,
+        "w": 447,
+        "h": 459
+      },
+      "face": {
+        "x": 162,
+        "y": 100,
+        "w": 50,
+        "h": 29,
+        "center": {
+          "x": 186.3,
+          "y": 113.9
+        },
+        "green": 721,
+        "blue": 169
+      },
+      "head": {
+        "x": 186.3,
+        "y": 113.9
+      },
+      "anchor": {
+        "x": 198.8,
+        "y": 459
+      },
+      "support": "floor",
+      "scale": 0.8030592734225621,
+      "modelFamily": "design-a-v5-key",
+      "facePatch": {
+        "x": 155,
+        "y": 92,
+        "w": 64,
+        "h": 61,
+        "variants": {
+          "neutral": "faces/key-6-neutral.png",
+          "curious": "faces/key-6-curious.png",
+          "smug": "faces/key-6-smug.png",
+          "happy": "faces/key-6-happy.png",
+          "talk": "faces/key-6-talk.png",
+          "sleep": "faces/key-6-sleep.png",
+          "wink": "faces/key-6-wink.png",
+          "surprised": "faces/key-6-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.10185250715772737,
+        0.05026907540085573,
+        -0.05026907540085573,
+        0.10185250715772737,
+        119.19716402340106,
+        37.62123282949671
+      ],
+      "eyeAnchors": {
+        "left": [
+          173.1,
+          112.8
+        ],
+        "right": [
+          199.5,
+          115
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "key-7": {
+      "file": "frames/key-7.png",
+      "sheet": "key",
+      "rect": {
+        "x": 1042,
+        "y": 738,
+        "w": 482,
+        "h": 250
+      },
+      "face": {
+        "x": 110,
+        "y": 118,
+        "w": 49,
+        "h": 28,
+        "center": {
+          "x": 132.95,
+          "y": 131.35
+        },
+        "green": 709,
+        "blue": 121
+      },
+      "head": {
+        "x": 132.95,
+        "y": 131.35
+      },
+      "anchor": {
+        "x": 241,
+        "y": 250
+      },
+      "support": "floor",
+      "scale": 0.8030592734225621,
+      "modelFamily": "design-a-v5-key",
+      "facePatch": {
+        "x": 103,
+        "y": 110,
+        "w": 63,
+        "h": 60,
+        "variants": {
+          "neutral": "faces/key-7-neutral.png",
+          "curious": "faces/key-7-curious.png",
+          "smug": "faces/key-7-smug.png",
+          "happy": "faces/key-7-happy.png",
+          "talk": "faces/key-7-talk.png",
+          "sleep": "faces/key-7-sleep.png",
+          "wink": "faces/key-7-wink.png",
+          "surprised": "faces/key-7-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.10835719242452788,
+        0.03025133618570113,
+        -0.03025133618570113,
+        0.10835719242452788,
+        53.6467446701931,
+        69.40943165576729
+      ],
+      "eyeAnchors": {
+        "left": [
+          119.9,
+          132.7
+        ],
+        "right": [
+          146,
+          130
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "seat-0": {
+      "file": "frames/seat-0.png",
+      "sheet": "seat",
+      "rect": {
+        "x": 139,
+        "y": 13,
+        "w": 516,
+        "h": 568
+      },
+      "face": {
+        "x": 193,
+        "y": 165,
+        "w": 88,
+        "h": 53,
+        "center": {
+          "x": 238.45,
+          "y": 189.8
+        },
+        "green": 1243,
+        "blue": 510
+      },
+      "head": {
+        "x": 238.45,
+        "y": 189.8
+      },
+      "anchor": {
+        "x": 251.64999999999998,
+        "y": 393.96000000000004
+      },
+      "support": "hip",
+      "scale": 0.43499005370521904,
+      "modelFamily": "design-a-v5-seat",
+      "facePatch": {
+        "x": 186,
+        "y": 157,
+        "w": 102,
+        "h": 104,
+        "variants": {
+          "neutral": "faces/seat-0-neutral.png",
+          "curious": "faces/seat-0-curious.png",
+          "smug": "faces/seat-0-smug.png",
+          "happy": "faces/seat-0-happy.png",
+          "talk": "faces/seat-0-talk.png",
+          "sleep": "faces/seat-0-sleep.png",
+          "wink": "faces/seat-0-wink.png",
+          "surprised": "faces/seat-0-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.22954360584015399,
+        0.0010413746513048784,
+        -0.0010413746513048784,
+        0.22954360584015399,
+        48.97228638262477,
+        110.72179947333838
+      ],
+      "eyeAnchors": {
+        "left": [
+          213.5,
+          199.5
+        ],
+        "right": [
+          263.4,
+          180.1
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "seat-1": {
+      "file": "frames/seat-1.png",
+      "sheet": "seat",
+      "rect": {
+        "x": 810,
+        "y": 13,
+        "w": 548,
+        "h": 565
+      },
+      "face": {
+        "x": 228,
+        "y": 164,
+        "w": 88,
+        "h": 53,
+        "center": {
+          "x": 274.45,
+          "y": 189.25
+        },
+        "green": 1304,
+        "blue": 540
+      },
+      "head": {
+        "x": 274.45,
+        "y": 189.25
+      },
+      "anchor": {
+        "x": 287.65,
+        "y": 393.40999999999997
+      },
+      "support": "hip",
+      "scale": 0.43469518755754943,
+      "modelFamily": "design-a-v5-seat",
+      "facePatch": {
+        "x": 221,
+        "y": 156,
+        "w": 102,
+        "h": 104,
+        "variants": {
+          "neutral": "faces/seat-1-neutral.png",
+          "curious": "faces/seat-1-curious.png",
+          "smug": "faces/seat-1-smug.png",
+          "happy": "faces/seat-1-happy.png",
+          "talk": "faces/seat-1-talk.png",
+          "sleep": "faces/seat-1-sleep.png",
+          "wink": "faces/seat-1-wink.png",
+          "surprised": "faces/seat-1-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.22970077712468454,
+        0.0006424720929056559,
+        -0.0006424720929056559,
+        0.22970077712468454,
+        84.70637968354347,
+        110.44813577393076
+      ],
+      "eyeAnchors": {
+        "left": [
+          249.5,
+          199
+        ],
+        "right": [
+          299.4,
+          179.5
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "seat-2": {
+      "file": "frames/seat-2.png",
+      "sheet": "seat",
+      "rect": {
+        "x": 140,
+        "y": 582,
+        "w": 514,
+        "h": 561
+      },
+      "face": {
+        "x": 193,
+        "y": 161,
+        "w": 87,
+        "h": 54,
+        "center": {
+          "x": 238.6,
+          "y": 185.7
+        },
+        "green": 1259,
+        "blue": 546
+      },
+      "head": {
+        "x": 238.6,
+        "y": 185.7
+      },
+      "anchor": {
+        "x": 251.65,
+        "y": 387.53999999999996
+      },
+      "support": "hip",
+      "scale": 0.43214768517652613,
+      "modelFamily": "design-a-v5-seat",
+      "facePatch": {
+        "x": 186,
+        "y": 153,
+        "w": 101,
+        "h": 104,
+        "variants": {
+          "neutral": "faces/seat-2-neutral.png",
+          "curious": "faces/seat-2-curious.png",
+          "smug": "faces/seat-2-smug.png",
+          "happy": "faces/seat-2-happy.png",
+          "talk": "faces/seat-2-talk.png",
+          "sleep": "faces/seat-2-sleep.png",
+          "wink": "faces/seat-2-wink.png",
+          "surprised": "faces/seat-2-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.23105465608441286,
+        0.0007150833880981915,
+        -0.0007150833880981915,
+        0.23105465608441286,
+        47.761464082685016,
+        106.37675197727913
+      ],
+      "eyeAnchors": {
+        "left": [
+          213.5,
+          195.5
+        ],
+        "right": [
+          263.7,
+          175.9
+        ]
+      },
+      "defaultExpression": "neutral"
+    },
+    "seat-3": {
+      "file": "frames/seat-3.png",
+      "sheet": "seat",
+      "rect": {
+        "x": 842,
+        "y": 582,
+        "w": 513,
+        "h": 561
+      },
+      "face": {
+        "x": 197,
+        "y": 161,
+        "w": 86,
+        "h": 54,
+        "center": {
+          "x": 241,
+          "y": 186
+        },
+        "green": 2195,
+        "blue": 40
+      },
+      "head": {
+        "x": 241,
+        "y": 186
+      },
+      "anchor": {
+        "x": 253.9,
+        "y": 385.52
+      },
+      "support": "hip",
+      "scale": 0.43246050648526274,
+      "modelFamily": "design-a-v5-seat",
+      "facePatch": {
+        "x": 190,
+        "y": 153,
+        "w": 100,
+        "h": 104,
+        "variants": {
+          "neutral": "faces/seat-3-neutral.png",
+          "curious": "faces/seat-3-curious.png",
+          "smug": "faces/seat-3-smug.png",
+          "happy": "faces/seat-3-happy.png",
+          "talk": "faces/seat-3-talk.png",
+          "sleep": "faces/seat-3-sleep.png",
+          "wink": "faces/seat-3-wink.png",
+          "surprised": "faces/seat-3-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.23088553610573676,
+        -0.0011948694145599433,
+        0.0011948694145599433,
+        0.23088553610573676,
+        49.650509887544416,
+        108.31391057781127
+      ],
+      "eyeAnchors": {
+        "left": [
+          216,
+          196
+        ],
+        "right": [
+          266,
+          176
+        ]
+      },
+      "defaultExpression": "sleep"
+    },
+    "walk-0": {
+      "file": "frames/walk-0.png",
+      "sheet": "walk",
+      "rect": {
+        "x": 53,
+        "y": 11,
+        "w": 336,
+        "h": 489
+      },
+      "face": {
+        "x": 169,
+        "y": 103,
+        "w": 59,
+        "h": 44,
+        "center": {
+          "x": 207.5,
+          "y": 130.7
+        },
+        "green": 1058,
+        "blue": 228
+      },
+      "head": {
+        "x": 207.5,
+        "y": 130.7
+      },
+      "anchor": {
+        "x": 222.25,
+        "y": 489
+      },
+      "support": "floor",
+      "scale": 0.8484848484848485,
+      "modelFamily": "design-a-v5-walk",
+      "gait": {
+        "green": {
+          "x": 242.20596458527493,
+          "y": 411.57642124883506,
+          "pixels": 2146
+        },
+        "pink": {
+          "x": 81.91622340425532,
+          "y": 416.8676861702128,
+          "pixels": 3008
+        }
+      },
+      "facePatch": {
+        "x": 162,
+        "y": 95,
+        "w": 73,
+        "h": 81,
+        "variants": {
+          "neutral": "faces/walk-0-neutral.png",
+          "curious": "faces/walk-0-curious.png",
+          "smug": "faces/walk-0-smug.png",
+          "happy": "faces/walk-0-happy.png",
+          "talk": "faces/walk-0-talk.png",
+          "sleep": "faces/walk-0-sleep.png",
+          "wink": "faces/walk-0-wink.png",
+          "surprised": "faces/walk-0-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.12627012320941933,
+        0.06081150015855004,
+        -0.06081150015855004,
+        0.12627012320941933,
+        123.79612678483613,
+        37.38234488526949
+      ],
+      "eyeAnchors": {
+        "left": [
+          191.2,
+          129.5
+        ],
+        "right": [
+          223.8,
+          131.9
+        ]
+      },
+      "defaultExpression": "neutral",
+      "walkSource": "original-a1-pre-leg-color-fix"
+    },
+    "walk-1": {
+      "file": "frames/walk-1.png",
+      "sheet": "walk",
+      "rect": {
+        "x": 389,
+        "y": 8,
+        "w": 365,
+        "h": 495
+      },
+      "face": {
+        "x": 225,
+        "y": 109,
+        "w": 53,
+        "h": 42,
+        "center": {
+          "x": 256.6,
+          "y": 134.55
+        },
+        "green": 878,
+        "blue": 165
+      },
+      "head": {
+        "x": 256.6,
+        "y": 134.55
+      },
+      "anchor": {
+        "x": 269.85,
+        "y": 495
+      },
+      "support": "floor",
+      "scale": 0.8484848484848485,
+      "modelFamily": "design-a-v5-walk",
+      "gait": {
+        "green": {
+          "x": 261.81592554291626,
+          "y": 419.45656670113755,
+          "pixels": 1934
+        },
+        "pink": {
+          "x": 134.51672321861366,
+          "y": 385.8642753271934,
+          "pixels": 2063
+        }
+      },
+      "facePatch": {
+        "x": 218,
+        "y": 101,
+        "w": 67,
+        "h": 76,
+        "variants": {
+          "neutral": "faces/walk-1-neutral.png",
+          "curious": "faces/walk-1-curious.png",
+          "smug": "faces/walk-1-smug.png",
+          "happy": "faces/walk-1-happy.png",
+          "talk": "faces/walk-1-talk.png",
+          "sleep": "faces/walk-1-sleep.png",
+          "wink": "faces/walk-1-wink.png",
+          "surprised": "faces/walk-1-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.10549134409022186,
+        0.045712027279787903,
+        -0.045712027279787903,
+        0.10549134409022186,
+        184.93503173297424,
+        60.7999779408723
+      ],
+      "eyeAnchors": {
+        "left": [
+          243.2,
+          134.1
+        ],
+        "right": [
+          270,
+          135
+        ]
+      },
+      "defaultExpression": "neutral",
+      "walkSource": "original-a1-pre-leg-color-fix"
+    },
+    "walk-2": {
+      "file": "frames/walk-2.png",
+      "sheet": "walk",
+      "rect": {
+        "x": 819,
+        "y": 11,
+        "w": 301,
+        "h": 489
+      },
+      "face": {
+        "x": 150,
+        "y": 102,
+        "w": 51,
+        "h": 44,
+        "center": {
+          "x": 184.6,
+          "y": 129.9
+        },
+        "green": 940,
+        "blue": 165
+      },
+      "head": {
+        "x": 184.6,
+        "y": 129.9
+      },
+      "anchor": {
+        "x": 197.35,
+        "y": 489
+      },
+      "support": "floor",
+      "scale": 0.8484848484848485,
+      "modelFamily": "design-a-v5-walk",
+      "gait": {
+        "green": {
+          "x": 149.17842660178425,
+          "y": 427.2368207623682,
+          "pixels": 1233
+        },
+        "pink": {
+          "x": 121.65306122448979,
+          "y": 414.2705268153773,
+          "pixels": 2107
+        }
+      },
+      "facePatch": {
+        "x": 143,
+        "y": 94,
+        "w": 65,
+        "h": 77,
+        "variants": {
+          "neutral": "faces/walk-2-neutral.png",
+          "curious": "faces/walk-2-curious.png",
+          "smug": "faces/walk-2-smug.png",
+          "happy": "faces/walk-2-happy.png",
+          "talk": "faces/walk-2-talk.png",
+          "sleep": "faces/walk-2-sleep.png",
+          "wink": "faces/walk-2-wink.png",
+          "surprised": "faces/walk-2-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.12257154280619674,
+        0.05382427147433092,
+        -0.05382427147433092,
+        0.12257154280619674,
+        101.57395460415356,
+        43.621074279516804
+      ],
+      "eyeAnchors": {
+        "left": [
+          169,
+          129.3
+        ],
+        "right": [
+          200.2,
+          130.5
+        ]
+      },
+      "defaultExpression": "neutral",
+      "walkSource": "original-a1-pre-leg-color-fix"
+    },
+    "walk-3": {
+      "file": "frames/walk-3.png",
+      "sheet": "walk",
+      "rect": {
+        "x": 1188,
+        "y": 10,
+        "w": 335,
+        "h": 487
+      },
+      "face": {
+        "x": 173,
+        "y": 98,
+        "w": 52,
+        "h": 43,
+        "center": {
+          "x": 205.25,
+          "y": 124.45
+        },
+        "green": 921,
+        "blue": 168
+      },
+      "head": {
+        "x": 205.25,
+        "y": 124.45
+      },
+      "anchor": {
+        "x": 218.25,
+        "y": 487
+      },
+      "support": "floor",
+      "scale": 0.8484848484848485,
+      "modelFamily": "design-a-v5-walk",
+      "gait": {
+        "green": {
+          "x": 80.232462173315,
+          "y": 401.4557542411738,
+          "pixels": 2181
+        },
+        "pink": {
+          "x": 246.26452282157678,
+          "y": 414.66320885200554,
+          "pixels": 2892
+        }
+      },
+      "facePatch": {
+        "x": 166,
+        "y": 90,
+        "w": 66,
+        "h": 76,
+        "variants": {
+          "neutral": "faces/walk-3-neutral.png",
+          "curious": "faces/walk-3-curious.png",
+          "smug": "faces/walk-3-smug.png",
+          "happy": "faces/walk-3-happy.png",
+          "talk": "faces/walk-3-talk.png",
+          "sleep": "faces/walk-3-sleep.png",
+          "wink": "faces/walk-3-wink.png",
+          "surprised": "faces/walk-3-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.1239254217659251,
+        0.05389688276952346,
+        -0.05389688276952346,
+        0.1239254217659251,
+        121.12903900329506,
+        37.649690482865125
+      ],
+      "eyeAnchors": {
+        "left": [
+          189.5,
+          123.9
+        ],
+        "right": [
+          221,
+          125
+        ]
+      },
+      "defaultExpression": "neutral",
+      "walkSource": "original-a1-pre-leg-color-fix"
+    },
+    "walk-4": {
+      "file": "frames/walk-4.png",
+      "sheet": "walk",
+      "rect": {
+        "x": 22,
+        "y": 513,
+        "w": 358,
+        "h": 484
+      },
+      "face": {
+        "x": 183,
+        "y": 110,
+        "w": 52,
+        "h": 43,
+        "center": {
+          "x": 216.15,
+          "y": 137.35
+        },
+        "green": 936,
+        "blue": 185
+      },
+      "head": {
+        "x": 216.15,
+        "y": 137.35
+      },
+      "anchor": {
+        "x": 229.15,
+        "y": 484
+      },
+      "support": "floor",
+      "scale": 0.8484848484848485,
+      "modelFamily": "design-a-v5-walk",
+      "gait": {
+        "green": {
+          "x": 87.93068391866913,
+          "y": 397.3641404805915,
+          "pixels": 2164
+        },
+        "pink": {
+          "x": 263.0585175552666,
+          "y": 409.39206762028607,
+          "pixels": 3076
+        }
+      },
+      "facePatch": {
+        "x": 176,
+        "y": 102,
+        "w": 66,
+        "h": 76,
+        "variants": {
+          "neutral": "faces/walk-4-neutral.png",
+          "curious": "faces/walk-4-curious.png",
+          "smug": "faces/walk-4-smug.png",
+          "happy": "faces/walk-4-happy.png",
+          "talk": "faces/walk-4-talk.png",
+          "sleep": "faces/walk-4-sleep.png",
+          "wink": "faces/walk-4-wink.png",
+          "surprised": "faces/walk-4-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.10845278197769266,
+        0.04872217907416006,
+        -0.04872217907416006,
+        0.10845278197769266,
+        143.0616318239682,
+        60.101472446770856
+      ],
+      "eyeAnchors": {
+        "left": [
+          202.3,
+          136.7
+        ],
+        "right": [
+          230,
+          138
+        ]
+      },
+      "defaultExpression": "neutral",
+      "walkSource": "original-a1-pre-leg-color-fix"
+    },
+    "walk-5": {
+      "file": "frames/walk-5.png",
+      "sheet": "walk",
+      "rect": {
+        "x": 445,
+        "y": 514,
+        "w": 308,
+        "h": 487
+      },
+      "face": {
+        "x": 170,
+        "y": 112,
+        "w": 52,
+        "h": 44,
+        "center": {
+          "x": 202.75,
+          "y": 139.15
+        },
+        "green": 996,
+        "blue": 171
+      },
+      "head": {
+        "x": 202.75,
+        "y": 139.15
+      },
+      "anchor": {
+        "x": 215.75,
+        "y": 487
+      },
+      "support": "floor",
+      "scale": 0.8484848484848485,
+      "modelFamily": "design-a-v5-walk",
+      "gait": {
+        "green": {
+          "x": 63.55922330097087,
+          "y": 371.3242718446602,
+          "pixels": 2060
+        },
+        "pink": {
+          "x": 226.89770279971285,
+          "y": 414.8072505384063,
+          "pixels": 2786
+        }
+      },
+      "facePatch": {
+        "x": 163,
+        "y": 104,
+        "w": 66,
+        "h": 77,
+        "variants": {
+          "neutral": "faces/walk-5-neutral.png",
+          "curious": "faces/walk-5-curious.png",
+          "smug": "faces/walk-5-smug.png",
+          "happy": "faces/walk-5-happy.png",
+          "talk": "faces/walk-5-talk.png",
+          "sleep": "faces/walk-5-sleep.png",
+          "wink": "faces/walk-5-wink.png",
+          "surprised": "faces/walk-5-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.11500434289075677,
+        0.05314687242930734,
+        -0.05314687242930734,
+        0.11500434289075677,
+        125.75120520963063,
+        56.00980666093748
+      ],
+      "eyeAnchors": {
+        "left": [
+          188,
+          138.3
+        ],
+        "right": [
+          217.5,
+          140
+        ]
+      },
+      "defaultExpression": "neutral",
+      "walkSource": "original-a1-pre-leg-color-fix"
+    },
+    "walk-6": {
+      "file": "frames/walk-6.png",
+      "sheet": "walk",
+      "rect": {
+        "x": 812,
+        "y": 513,
+        "w": 303,
+        "h": 490
+      },
+      "face": {
+        "x": 155,
+        "y": 110,
+        "w": 52,
+        "h": 44,
+        "center": {
+          "x": 189.5,
+          "y": 137.55
+        },
+        "green": 926,
+        "blue": 182
+      },
+      "head": {
+        "x": 189.5,
+        "y": 137.55
+      },
+      "anchor": {
+        "x": 202.5,
+        "y": 490
+      },
+      "support": "floor",
+      "scale": 0.8484848484848485,
+      "modelFamily": "design-a-v5-walk",
+      "gait": {
+        "green": {
+          "x": 101.78851042196239,
+          "y": 403.28520589730556,
+          "pixels": 1967
+        },
+        "pink": {
+          "x": 198.20864251418595,
+          "y": 430.96158882584024,
+          "pixels": 2291
+        }
+      },
+      "facePatch": {
+        "x": 148,
+        "y": 102,
+        "w": 66,
+        "h": 77,
+        "variants": {
+          "neutral": "faces/walk-6-neutral.png",
+          "curious": "faces/walk-6-curious.png",
+          "smug": "faces/walk-6-smug.png",
+          "happy": "faces/walk-6-happy.png",
+          "talk": "faces/walk-6-talk.png",
+          "sleep": "faces/walk-6-sleep.png",
+          "wink": "faces/walk-6-wink.png",
+          "surprised": "faces/walk-6-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.11426720037500515,
+        0.04916979553946058,
+        -0.04916979553946058,
+        0.11426720037500515,
+        111.75563311994193,
+        57.9500305610831
+      ],
+      "eyeAnchors": {
+        "left": [
+          175,
+          137.1
+        ],
+        "right": [
+          204,
+          138
+        ]
+      },
+      "defaultExpression": "neutral",
+      "walkSource": "original-a1-pre-leg-color-fix"
+    },
+    "walk-7": {
+      "file": "frames/walk-7.png",
+      "sheet": "walk",
+      "rect": {
+        "x": 1188,
+        "y": 514,
+        "w": 335,
+        "h": 487
+      },
+      "face": {
+        "x": 174,
+        "y": 104,
+        "w": 52,
+        "h": 44,
+        "center": {
+          "x": 206.2,
+          "y": 132.2
+        },
+        "green": 892,
+        "blue": 168
+      },
+      "head": {
+        "x": 206.2,
+        "y": 132.2
+      },
+      "anchor": {
+        "x": 219.2,
+        "y": 487
+      },
+      "support": "floor",
+      "scale": 0.8484848484848485,
+      "modelFamily": "design-a-v5-walk",
+      "gait": {
+        "green": {
+          "x": 242.6088669950739,
+          "y": 410.36206896551727,
+          "pixels": 2030
+        },
+        "pink": {
+          "x": 82.85761047463176,
+          "y": 407.37905073649756,
+          "pixels": 3055
+        }
+      },
+      "facePatch": {
+        "x": 167,
+        "y": 96,
+        "w": 66,
+        "h": 77,
+        "variants": {
+          "neutral": "faces/walk-7-neutral.png",
+          "curious": "faces/walk-7-curious.png",
+          "smug": "faces/walk-7-smug.png",
+          "happy": "faces/walk-7-happy.png",
+          "talk": "faces/walk-7-talk.png",
+          "sleep": "faces/walk-7-sleep.png",
+          "wink": "faces/walk-7-wink.png",
+          "surprised": "faces/walk-7-surprised.png"
+        }
+      },
+      "v5Transform": [
+        0.11843729463181941,
+        0.05496031654848176,
+        -0.05496031654848176,
+        0.11843729463181941,
+        126.98008520338051,
+        46.39031006861312
+      ],
+      "eyeAnchors": {
+        "left": [
+          191,
+          131.3
+        ],
+        "right": [
+          221.4,
+          133.1
+        ]
+      },
+      "defaultExpression": "neutral",
+      "walkSource": "original-a1-pre-leg-color-fix"
+    }
+  }
+}
