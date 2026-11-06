@@ -31,6 +31,26 @@ Codex tools are limited to time, system information, bounded vault search and ap
 
 When NVIDIA telemetry is available, total dedicated VRAM degrades visuals above 7.2 GiB, suspends at 7.8 GiB and resumes below 7 GiB. Cloud inference loads no local GPU model. This is source code, not a signed installer; automatic updates are not included.
 
+## Personal workstation edition — features not shipped here
+
+A separate Windows workstation build extends Capri with a Python backend. The following descriptions document that build; they are **not capabilities provided by this repository**, bundled downloads, or a commitment to release dates.
+
+| Area | Workstation functionality and current limits |
+|---|---|
+| Mainframe | Consolidated assistant settings, microphone selection, voice controls, configurable shortcuts and diagnostics. |
+| Local AI | Local/offline conversation using an installed Qwen model, subject to available RAM and VRAM. No model weights or local inference runtime are shipped here. |
+| Japanese voice | A separate cloned-voice pipeline, reusable prerecorded lines and PCM-driven mouth animation. The cloud edition only offers optional system Japanese speech. |
+| Microphone | Speech transcription with review before sending, plus explicit voice-session controls. One-shot transcription and Japanese playback were user-tested; continuous-session acceptance remains pending. |
+| Desktop actions | Window-scoped accessibility inspection, supported click/type/scroll actions, plans, execution receipts and cancellation. Coverage depends on each application's accessible controls. |
+| Media | Player-session controls and now-playing information. Spotify Play/Pause were user-tested; broader track-selection, volume and YouTube acceptance remains incomplete. |
+| Memory | Structured profile and music preferences, relevant vault-note retrieval, local-history retention and explicit export/clear controls. Private notes and conversations stay outside this repository. |
+| Cyberpunk 2077 | A sourced local item guide, read-only save progression and installed-mod context. Spoiler filtering uses confirmed progress; not every quest choice or objective can be decoded. No game mod is required. |
+| League of Legends | Opt-in local-client observations. Death counters/reactions were user-tested. Gold, kill/multikill/ace, lane level/item comparisons and patch-limited objective schedules are implemented but await live acceptance. Vision/gank analysis uses reviewed screenshots, not automatic continuous detection. |
+| Scheduled requests | Explicit once/daily requests with conversation/provider scope, normal approvals and pause/game/resource guards. A complete real scheduled run remains to be validated. |
+| Additional providers | Optional NVIDIA, DeepSeek and OpenAI API integrations with locally protected credentials. No live provider-key compatibility tests have been completed. |
+
+The workstation source for these extensions, local models, voice references, credentials, private vault, saved games and personal databases are **not uploaded as part of this documentation**. The shared visual assets and cloud runtime listed above remain the contents of this edition.
+
 ## Development
 
 `npm test` runs provider contracts and sprite/desktop regressions. `npm run doctor` checks installation without printing credentials. Runtime and test outputs are ignored by Git. See [UPDATE-2026-10-30.md](UPDATE-2026-10-30.md).
